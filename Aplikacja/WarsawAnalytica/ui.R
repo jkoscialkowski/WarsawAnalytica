@@ -1,15 +1,7 @@
-#
-# This is the user-interface definition of a Shiny web application. You can
-# run the application by clicking 'Run App' above.
-#
-# Find out more about building applications with Shiny here:
-# 
-#    http://shiny.rstudio.com/
-#
 
 library(shiny)
+library(leaflet)
 
-# Define UI for application that draws a histogram
 shinyUI(
     navbarPage(
         "WarsawAnalytica",
@@ -19,6 +11,8 @@ shinyUI(
                 sidebarPanel(
                     h3("Feel free to play around"),
                     checkboxGroupInput("place", label = "Choose a place to display", c("MIM", "WNE")),
+                    sliderInput("lattice_dim", label = "Lattice dimension in meters", 
+                                min = 100, max = 500, value = 200, step = 100),
                     submitButton()
                 ),
                 mainPanel(
