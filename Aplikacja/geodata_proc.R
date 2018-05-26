@@ -80,3 +80,17 @@ leaflet() %>% setView(lat = centre[1], lng = centre[2], zoom = 14) %>%
     addProviderTiles(providers$OpenStreetMap) %>%
     addRectangles(lat1 = warsaw4[,1], lng1 = warsaw4[,2], lat2 = warsaw4[,3], lng2 = warsaw4[,4],
                   weight = 2, fill = FALSE)
+
+
+
+## API
+
+library(httr)
+params <- list(key = "maraton0n895gbsgc72bbksa042mad02", city = "wars", street = "Mysia", building = "3", geocoding = "1", country = "POL", format = "json", charset = "UTF-8")
+a <- POST(url = "http://api.locit.pl/webservice/address-hygiene/v2.0.0/?key=maraton0n895gbsgc72bbksa042mad02&city=Warszawa&prefix=ul.&street=Mysia&building=3&geocoding=1&country=POL&format=json&charset=UTF-8")
+
+a <- POST(url = "http://api.locit.pl/webservice/address-hygiene/v2.0.0/", query = params)
+
+library(jsonlite)
+b <- content(a, as = "parse")
+b
