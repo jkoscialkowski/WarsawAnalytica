@@ -36,3 +36,4 @@ b
 
 
 clean <- POST(url = "http://api.locit.pl/webservice/address-autocomplete/v2.0.0/", query = list(key = "maraton0n895gbsgc72bbksa042mad02", schema = "basic", query = "wars, olszewska 7", format = "json", charset = "UTF-8"))
+clean <- content(clean, as = "parse")
