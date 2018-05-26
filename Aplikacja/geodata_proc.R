@@ -10,10 +10,10 @@
 
 # resulting in parsable JSON files.
 
-warsaw <- readLines("D:/WarsawAnalytica pomocnicze/export.osm")
-warsaw <- warsaw[grep("(.*)lat(.*)lon(.*)", warsaw)]
-extreme <- warsaw[1]
-warsaw <- warsaw[-c(1,length(warsaw))]
+poznan <- readLines("D:/WarsawAnalytica/Aplikacja/export_PZN.osm")
+poznan <- poznan[grep("(.*)lat(.*)lon(.*)", poznan)]
+extreme <- poznan[1]
+poznan <- poznan[-c(1,length(poznan))]
 
 strip <- function(x) {
     x <- gsub(pattern = "( *)<nd lat=\\\"", replacement = "", x)
@@ -21,76 +21,107 @@ strip <- function(x) {
     x <- gsub(pattern = "\\\"/>", replacement = "", x)
     x <- strsplit(x, split = ";")
 }
-warsaw <- sapply(warsaw, strip)
-warsaw <- matrix(as.numeric(unlist(warsaw)), ncol = 2, byrow = TRUE)
+poznan <- sapply(poznan, strip)
+poznan <- matrix(as.numeric(unlist(poznan)), ncol = 2, byrow = TRUE)
 
 
 # Trial leaflet codes
-centre <- c(52.2183, 21.02557)
+centre <- c(mean(poznan[,1]), mean(poznan[,2]))
 met_deg <- c(500/111196.672, 500*360/2/pi/6371100/cos(52.2183*pi/180))
 
-warsaw2 <- sweep(warsaw, 2, centre)
-warsaw2[,1] <- warsaw2[,1]/met_deg[1]
-warsaw2[,2] <- warsaw2[,2]/met_deg[2]
-warsaw2 <- round(warsaw2)
-warsaw2 <- unique(warsaw2)
+poznan2 <- sweep(poznan, 2, centre)
+poznan2[,1] <- poznan2[,1]/met_deg[1]
+poznan2[,2] <- poznan2[,2]/met_deg[2]
+poznan2 <- round(poznan2)
+poznan2 <- unique(poznan2)
 
 # Boundary interpolation
-warsaw_aux <- warsaw2[1,]
-for (i in 2:nrow(warsaw2)) {
-    add <- cbind(round(seq(warsaw2[i-1,1], warsaw2[i,1], length.out = 20)), 
-                 round(seq(warsaw2[i-1,2], warsaw2[i,2], length.out = 20)))
-    warsaw_aux <- rbind(warsaw_aux, add)
+poznan_aux <- poznan2[1,]
+for (i in 2:nrow(poznan2)) {
+    add <- cbind(round(seq(poznan2[i-1,1], poznan2[i,1], length.out = 20)), 
+                 round(seq(poznan2[i-1,2], poznan2[i,2], length.out = 20)))
+    poznan_aux <- rbind(poznan_aux, add)
 }
-warsaw2 <- unique(warsaw_aux)
+poznan2 <- unique(poznan_aux)
 
-warsaw3 <- cbind(warsaw2, warsaw2) + 1
-warsaw3[,3] <- warsaw3[,3] - 1
-warsaw3[,4] <- warsaw3[,4] - 1
+poznan3 <- cbind(poznan2, poznan2) + 1
+poznan3[,3] <- poznan3[,3] - 1
+poznan3[,4] <- poznan3[,4] - 1
 
-warsaw3[,1] <- warsaw3[,1] * met_deg[1] + centre[1]
-warsaw3[,2] <- warsaw3[,2] * met_deg[2] + centre[2]
-warsaw3[,3] <- warsaw3[,3] * met_deg[1] + centre[1]
-warsaw3[,4] <- warsaw3[,4] * met_deg[2] + centre[2]
+poznan3[,1] <- poznan3[,1] * met_deg[1] + centre[1]
+poznan3[,2] <- poznan3[,2] * met_deg[2] + centre[2]
+poznan3[,3] <- poznan3[,3] * met_deg[1] + centre[1]
+poznan3[,4] <- poznan3[,4] * met_deg[2] + centre[2]
 
 
-warsaw4 <- NULL
-for (i in min(warsaw2[,2]):max(warsaw2[,2])) {
-    add <- warsaw2[warsaw2[,2] == i,1]
-    warsaw4 <- rbind(warsaw4, cbind(min(add):max(add), rep(i, max(add)-min(add)+1)))
+poznan4 <- NULL
+for (i in min(poznan2[,2]):max(poznan2[,2])) {
+    add <- poznan2[poznan2[,2] == i,1]
+    poznan4 <- rbind(poznan4, cbind(min(add):max(add), rep(i, max(add)-min(add)+1)))
 }
-warsaw4 <- cbind(warsaw4, warsaw4) + 1
-warsaw4[,3] <- warsaw4[,3] - 1
-warsaw4[,4] <- warsaw4[,4] - 1
+poznan4 <- cbind(poznan4, poznan4) + 1
+poznan4[,3] <- poznan4[,3] - 1
+poznan4[,4] <- poznan4[,4] - 1
 
-warsaw4[,1] <- warsaw4[,1] * met_deg[1] + centre[1]
-warsaw4[,2] <- warsaw4[,2] * met_deg[2] + centre[2]
-warsaw4[,3] <- warsaw4[,3] * met_deg[1] + centre[1]
-warsaw4[,4] <- warsaw4[,4] * met_deg[2] + centre[2]
+poznan4[,1] <- poznan4[,1] * met_deg[1] + centre[1]
+poznan4[,2] <- poznan4[,2] * met_deg[2] + centre[2]
+poznan4[,3] <- poznan4[,3] * met_deg[1] + centre[1]
+poznan4[,4] <- poznan4[,4] * met_deg[2] + centre[2]
 
 
 
 leaflet() %>% setView(lat = centre[1], lng = centre[2], zoom = 14) %>% 
     addProviderTiles(providers$OpenStreetMap) %>%
-    addRectangles(lat1 = warsaw3[,1], lng1 = warsaw3[,2], lat2 = warsaw3[,3], lng2 = warsaw3[,4],
+    addRectangles(lat1 = poznan3[,1], lng1 = poznan3[,2], lat2 = poznan3[,3], lng2 = poznan3[,4],
                   weight = 2)
 
 
 leaflet() %>% setView(lat = centre[1], lng = centre[2], zoom = 14) %>% 
     addProviderTiles(providers$OpenStreetMap) %>%
-    addRectangles(lat1 = warsaw4[,1], lng1 = warsaw4[,2], lat2 = warsaw4[,3], lng2 = warsaw4[,4],
+    addRectangles(lat1 = poznan4[,1], lng1 = poznan4[,2], lat2 = poznan4[,3], lng2 = poznan4[,4],
                   weight = 2, fill = FALSE)
 
+## Initial analysis
+library(dplyr)
 
+setwd("D:/hackaton_maraton_analizy_danych")
+adresy <- read.csv("adresy_miejsc.csv")
+adresy <- adresy %>% filter(nazwa_miejsc == "POZNAÑ")
 
-## API
-
-library(httr)
-params <- list(key = "maraton0n895gbsgc72bbksa042mad02", city = "wars", street = "Mysia", building = "3", geocoding = "1", country = "POL", format = "json", charset = "UTF-8")
-a <- POST(url = "http://api.locit.pl/webservice/address-hygiene/v2.0.0/?key=maraton0n895gbsgc72bbksa042mad02&city=Warszawa&prefix=ul.&street=Mysia&building=3&geocoding=1&country=POL&format=json&charset=UTF-8")
-
-a <- POST(url = "http://api.locit.pl/webservice/address-hygiene/v2.0.0/", query = params)
-
-library(jsonlite)
-b <- content(a, as = "parse")
-b
+# Grid for demo
+    demo <- read.csv("adresy_demo_ext_x_y.csv")
+    demo <- demo[demo$adr_pk %in% adresy$adr_pk, ]
+    demo <- unique(demo)
+    grid_coords <- cbind(demo$st_y, demo$st_x)
+    grid_coords <- sweep(grid_coords, 2, centre)
+    grid_coords[,1] <- grid_coords[,1]/met_deg[1]
+    grid_coords[,2] <- grid_coords[,2]/met_deg[2]
+    grid_coords <- ceiling(grid_coords)
+    demo <- cbind(demo, grid_coords)
+    colnames(demo)[34:35] <- c("Y_grid", "X_grid")
+    write.csv(x = demo, file = "demo_grid.csv")
+    
+# Grid for dochod
+    dochod <- read.csv("adresy_miejsc_dochod_x_y.csv")
+    dochod <- dochod[dochod$adr_pk %in% adresy$adr_pk, ]
+    grid_coords <- cbind(dochod$st_y, dochod$st_x)
+    grid_coords <- sweep(grid_coords, 2, centre)
+    grid_coords[,1] <- grid_coords[,1]/met_deg[1]
+    grid_coords[,2] <- grid_coords[,2]/met_deg[2]
+    grid_coords <- ceiling(grid_coords)
+    dochod <- cbind(dochod, grid_coords)
+    colnames(dochod)[26:27] <- c("Y_grid", "X_grid")
+    write.csv(x = dochod, file = "dochod_grid.csv")
+    
+# Grid for POI
+    poi <- read.csv("poi_x_y.csv")
+    poi <- poi[poi$poi_locality == "POZNAÑ", ]
+    grid_coords <- cbind(poi$st_y, poi$st_x)
+    grid_coords <- sweep(grid_coords, 2, centre)
+    grid_coords[,1] <- grid_coords[,1]/met_deg[1]
+    grid_coords[,2] <- grid_coords[,2]/met_deg[2]
+    grid_coords <- ceiling(grid_coords)
+    poi <- cbind(poi, grid_coords)
+    colnames(poi)[30:31] <- c("Y_grid", "X_grid")
+    write.csv(x = poi, file = "poi_grid.csv")
+    
