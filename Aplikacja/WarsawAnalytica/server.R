@@ -29,4 +29,7 @@ shinyServer(function(input, output) {
         paste(input$place)
     })
     
+    output$address_clean <- reactive({
+        
+    })
 })

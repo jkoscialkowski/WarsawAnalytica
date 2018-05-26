@@ -1,4 +1,9 @@
     
+## Czyste
+poi_clean <- read.csv("poi_grid_clen.csv")
+a <- matrix(as.numeric(unlist(strsplit(as.character(poi_clean$grid), split = ","))), byrow = TRUE, ncol = 2)
+a <- cbind(a, poi_clean)
+
     
 ## Miara zadowolenia
 adresy_demo <- read.csv(file = "D:/hackaton_maraton_analizy_danych/adresy_demo_ext.csv")
@@ -28,3 +33,6 @@ a <- POST(url = "http://api.locit.pl/webservice/address-hygiene/v2.0.0/", query 
 library(jsonlite)
 b <- content(a, as = "parse")
 b
+
+
+clean <- POST(url = "http://api.locit.pl/webservice/address-autocomplete/v2.0.0/", query = list(key = "maraton0n895gbsgc72bbksa042mad02", schema = "basic", query = "wars, olszewska 7", format = "json", charset = "UTF-8"))
