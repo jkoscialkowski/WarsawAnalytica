@@ -16,7 +16,8 @@ shinyServer(function(input, output) {
     clean <- reactive({
         clean <- POST(url = "http://api.locit.pl/webservice/address-autocomplete/v2.0.0/", 
                       query = list(key = "maraton0n895gbsgc72bbksa042mad02", 
-                                   schema = "basic", query = input$address, format = "json", charset = "UTF-8"))
+                                   schema = "basic", query = paste(input$address, "Poznan", sep = " "), 
+                                   format = "json", charset = "UTF-8"))
         clean <- content(clean, as = "parse")
         clean
     })
@@ -57,6 +58,10 @@ shinyServer(function(input, output) {
         score[,5] <- order(score[,5])/nrow(score)
         colnames(score) <- c("lng1", "lat1", "lng2", "lat2", "score")
         score
+    })
+    
+    output$text <- reactive({
+        clean()$data[[1]]$x
     })
     
     output$map <- renderLeaflet({
