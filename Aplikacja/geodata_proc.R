@@ -123,7 +123,7 @@ adresy <- adresy %>% filter(nazwa_miejsc == "POZNAÑ")
     write.csv(x = poi, file = "poi_grid.csv")
     
     
-# Grid -> wsp.
+# Grid -> rect
     grid_to_rect <- function(X_grid, Y_grid, centre_x, centre_y, deg_per_tick_x, deg_per_tick_y) {
         return(cbind((X_grid-1)*deg_per_tick_x + centre_x, (Y_grid-1)*deg_per_tick_y + centre_y,
                      X_grid*deg_per_tick_x + centre_x, Y_grid*deg_per_tick_y + centre_y))
@@ -155,6 +155,7 @@ adresy <- adresy %>% filter(nazwa_miejsc == "POZNAÑ")
                            doch_med = dochod_median,
                            doch_max = dochod_max,
                            zabudowa = zabudowa,
+                           plec = populacja_k_razem/populacja_razem,
                            wiek_25_34 = (populacja_25_29 + populacja_30_34)/populacja_razem,
                            wiek_35_44 = (populacja_35_39 + populacja_40_44)/populacja_razem,
                            wiek_45_64 = (populacja_45_49 + populacja_50_54 + populacja_55_59 + populacja_60_64)/
@@ -193,7 +194,7 @@ adresy <- adresy %>% filter(nazwa_miejsc == "POZNAÑ")
 # Clustering
     library(ggplot2)
     X_sc <- X
-    X_sc[,3:5] <- scale(X_sc[,3:5])
+    X_sc[,1:5] <- scale(X_sc[,1:5])
     pca <- prcomp(X_sc)
     
     d <- dist(X_sc)
@@ -218,11 +219,14 @@ for (k in 4:8) {
     plots[[k-3]] <- fviz_cluster(kmeans_list[[k-3]], data = X_sc, palette = "jco")
     
     results[[k-3]] <- X_sc %>% mutate(class = as.factor(kmeans_list[[k-3]]$cluster)) %>% group_by(class) %>%
-        summarise(mean_doch = mean(doch_med), mean_zab = mean(zabudowa), mean_dzieci = mean(dzieci), mean_mlodzi = mean(wiek_25_34), n = n())
+        summarise(mean_doch = mean(doch_med), mean_zab = mean(zabudowa), ods_kobiet = mean(plec),
+                  ods_dzieci = mean(dzieci), ods_mlodzi = mean(wiek_25_34), 
+                  ods_emeryci = 1 - mean(dzieci) - mean(nastolatkowie) - mean(studenci) 
+                  - mean(wiek_25_34) - mean(wiek_35_44) - mean(wiek_45_64), n = n())
 }
     
     
-# Eksploracja
+# Exploration
     plots[[1]]
     plots[[2]]
     plots[[3]]
@@ -234,4 +238,12 @@ for (k in 4:8) {
     results[[3]]
     results[[4]]
     results[[5]]
+    
+# Saving .RData file to deploy
+    model <- kmeans_list[[1]]
+    clusters <- results[[1]]
+    clusters$mean_doch <- clusters$mean_doch*sd(X$doch_med) + mean(X$doch_med)
+    X_nonsc <- X[,1:5]
+    save(list = c("model", "clusters", "X_sc", "grid_to_rect", "X_nonsc"), 
+         file = "D:/WarsawAnalytica/Aplikacja/WarsawAnalytica/deploy.RData")
     
