@@ -1,5 +1,5 @@
 ---
-title: "W poszukiwaniu swojego miejsca na ziemi"
+title: "W poszukiwaniu swojego miejsca na ziemi <br> (w Poznaniu)"
 author: "WarsawAnalytica"
 output: ioslides_presentation
 ---
@@ -10,14 +10,19 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Prezentacja problemu
 
+- Problem: wg raportów ludzie emigruj¹ z Poznania i czêsto zmieniaj¹ miejsce zamieszkania
+- Hipoteza: nie s¹ do koñca zadowoleni ze swojego otoczenia
+- Mo¿na by zaproponowaæ im inne miejsca, gdzie mieszkaj¹ podobni ludzie i przedstawiæ oferty kupna/wynajmu
 
 ## Zastosowane metody
 
-Wykorzystaliœmy serwer PostgreSQL i API dostarczone przez firme DataWise
+Wykorzystaliœmy serwer PostgreSQL i API dostarczone przez firme DataWise, serwis Overpass Turbo oraz scraping serwisu Otodom. Poza tym przeczytaliœmy parê raportów na ten temat.
 
 - PostgreSQL -> obiekty geometryczne -> wspolrzedne geograficzne
 - Pokrycie miasta siatka -> agregacja danych dotyczacych demografii, zarobkow i POI
 - Klastrowanie k-means, wybór najwiêkszego k ( = 5), przy którym nie ma ma³ych klastrów
+- Próbowaliœmy te¿ hclust i klastrowania SOM
+- Ekstrakcja feature'ów dla danych u¿ytkownika za pomoc¹ lasu losowego
 - Klasyfikacja u¿ytkownika aplikacji do danego klastra i propozycja miejsca zamieszkania
 
 ## Wyniki klastrowania
@@ -34,6 +39,13 @@ print(xtable(clusters), type = "html", include.rownames = FALSE)
 1 - biedniejsi emeryci?
 <br>
 5 - bardziej zamozne rodziny z dziecmi?
+
+## Dalsze plany
+
+- Bardziej szczegó³owe dane na drobniejszej siatce -> wiêcej sensownych klastrów
+- Badanie zadowolenia z miejsca zamieszkania -> supervised learning
+- Automatyzacja pobierania danych (np. integracja z API Facebooka)
+
 
 ## Slide With Plot
 

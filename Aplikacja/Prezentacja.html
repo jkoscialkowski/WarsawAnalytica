@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>W poszukiwaniu swojego miejsca na ziemi</title>
+  <title>W poszukiwaniu swojego miejsca na ziemi   (w Poznaniu)</title>
 
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -20,7 +20,7 @@
     var SLIDE_CONFIG = {
       // Slide settings
       settings: {
-                title: 'W poszukiwaniu swojego miejsca na ziemi',
+                title: 'W poszukiwaniu swojego miejsca na ziemi <br> (w Poznaniu)',
                         useBuilds: true,
         usePrettify: true,
         enableSlideAreas: true,
@@ -96,14 +96,24 @@
           </hgroup>
   </slide>
 
-<slide class=''><hgroup><h2>Zastosowane metody</h2></hgroup><article  id="zastosowane-metody">
+<slide class=''><hgroup><h2>Prezentacja problemu</h2></hgroup><article  id="prezentacja-problemu">
 
-<p>Wykorzystaliśmy serwer PostgreSQL i API dostarczone przez firme DataWise</p>
+<ul>
+<li>Problem: wg raportów ludzie emigrują z Poznania i często zmieniają miejsce zamieszkania</li>
+<li>Hipoteza: nie są do końca zadowoleni ze swojego otoczenia</li>
+<li>Można by zaproponować im inne miejsca, gdzie mieszkają podobni ludzie i przedstawić oferty kupna/wynajmu</li>
+</ul>
+
+</article></slide><slide class=''><hgroup><h2>Zastosowane metody</h2></hgroup><article  id="zastosowane-metody">
+
+<p>Wykorzystaliśmy serwer PostgreSQL i API dostarczone przez firme DataWise, serwis Overpass Turbo oraz scraping serwisu Otodom. Poza tym przeczytaliśmy parę raportów na ten temat.</p>
 
 <ul>
 <li>PostgreSQL -&gt; obiekty geometryczne -&gt; wspolrzedne geograficzne</li>
 <li>Pokrycie miasta siatka -&gt; agregacja danych dotyczacych demografii, zarobkow i POI</li>
 <li>Klastrowanie k-means, wybór największego k ( = 5), przy którym nie ma małych klastrów</li>
+<li>Próbowaliśmy też hclust i klastrowania SOM</li>
+<li>Ekstrakcja feature&#39;ów dla danych użytkownika za pomocą lasu losowego</li>
 <li>Klasyfikacja użytkownika aplikacji do danego klastra i propozycja miejsca zamieszkania</li>
 </ul>
 
@@ -111,7 +121,7 @@
 
 <!-- html table generated in R 3.4.2 by xtable 1.8-2 package -->
 
-<!-- Sun May 27 08:32:48 2018 -->
+<!-- Sun May 27 10:46:53 2018 -->
 
 <table border="1">
 
@@ -430,6 +440,14 @@ Licznik
 </table>
 
 <p><br> 1 - biedniejsi emeryci? <br> 5 - bardziej zamozne rodziny z dziecmi?</p>
+
+</article></slide><slide class=''><hgroup><h2>Dalsze plany</h2></hgroup><article  id="dalsze-plany">
+
+<ul>
+<li>Bardziej szczegółowe dane na drobniejszej siatce -&gt; więcej sensownych klastrów</li>
+<li>Badanie zadowolenia z miejsca zamieszkania -&gt; supervised learning</li>
+<li>Automatyzacja pobierania danych (np. integracja z API Facebooka)</li>
+</ul>
 
 </article></slide><slide class=''><hgroup><h2>Slide With Plot</h2></hgroup><article  id="slide-with-plot">
 

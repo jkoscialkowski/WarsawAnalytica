@@ -1,0 +1,838 @@
+index,adress,price,url,x,y
+0,"Poznañ, Centrum, Libelta 5",1 800,https://www.otodom.pl/oferta/mieszkanie-2-pokoje-oddz-kuchnia-centrum-libelta-ID3DueQ.html#71d265a9a6,16.922991,52.410600
+1,"Poznañ, Ostrów Tumski, Ostrówek",1 850,https://www.otodom.pl/oferta/kawalerka-na-ostrowku-prywatnie-lub-dla-firmy-ID3E1mv.html#71d265a9a6,16.952347,52.411301
+2,"Poznañ, Rataje,  Rataje",1 300,https://www.otodom.pl/oferta/wynajme-kawalerke-ul-rataje-152-poznan-garaz-ID3Ed9q.html#71d265a9a6,16.939210,52.382705
+3,"Poznañ, Rataje,  Powstañ Narodowych",1 200,https://www.otodom.pl/oferta/ladna-kawalerka-bezposrednio-ID1k8NU.html#71d265a9a6,16.956645,52.389349
+4,"Poznañ, Ogrody,  Szamotulska",1 300,https://www.otodom.pl/oferta/mieszkanie-29-m-ogrody-ul-szamotulska-ID3EWiv.html#71d265a9a6,16.883017,52.411309
+5,"Poznañ, Grunwald,  Promienista",2 300,https://www.otodom.pl/oferta/piekne-mieszkanie-2-pok-w-willi-miejskiej-grunwald-ID3ESLK.html#71d265a9a6,16.872698,52.389701
+6,"Poznañ, Wilda,  Partyzancka",2 200,https://www.otodom.pl/oferta/wynajme-bezposrednio-dwupokojowe-mieszkanie-54-m2-ID3EFuI.html#71d265a9a6,16.918598,52.382409
+7,"Poznañ, Pi¹tkowo,  Stefana Batorego",1 200,https://www.otodom.pl/oferta/kawalerka-32m-os-batorego-bezposrednio-ID3EV7C.html#71d265a9a6,16.926342,52.456025
+8,"Poznañ,  Milczañska",1 300,https://www.otodom.pl/oferta/mieszkanie-na-wynajem-milczanska-ID3EWXe.html#71d265a9a6,16.964752,52.393060
+9,"Poznañ, Centrum, Libelta 5",1 800,https://www.otodom.pl/oferta/mieszkanie-2-pokoje-oddz-kuchnia-centrum-libelta-ID3DueQ.html#71d265a9a6,16.922991,52.410600
+10,"Poznañ, Je¿yce, D¹browskiego 29D",1 850,https://www.otodom.pl/oferta/atrakcyjne-mieszkanie-2pok-w-sercu-jezyc-parking-ID2lDxT.html#71d265a9a6,16.908754,52.412526
+11,"Poznañ, Je¿yce, Jana Kochanowskiego",1 690,https://www.otodom.pl/oferta/2-niezalezne-pokoje-na-romantycznych-jezycach-ID3EWQ8.html#71d265a9a6,0,0
+12,"Poznañ, Ostrów Tumski, Ostrówek",1 850,https://www.otodom.pl/oferta/kawalerka-na-ostrowku-prywatnie-lub-dla-firmy-ID3E1mv.html#71d265a9a6,16.952347,52.411301
+13,"Poznañ, Ogrody,  Nowy Œwiat",1 200,https://www.otodom.pl/oferta/kawalerka-ogrody-poznan-nowy-swiat-34m2-zadbana-ID3ozsv.html#71d265a9a6,16.881834,52.415699
+14,"Poznañ, Naramowickie Osiedle,  Sielawy",1 600,https://www.otodom.pl/oferta/naramowicka-sielawy-2-pok-49-m2-ID3EWA8.html#71d265a9a6,0,0
+15,"Poznañ, Pi¹tkowo,  W³adys³awa Jagie³³y",1 450,https://www.otodom.pl/oferta/mieszkanie-2-pok-piatkowo-jagielly-bezposrednio-ID3AH8r.html#71d265a9a6,16.905588,52.455616
+16,"Poznañ, Wilda, Mieczys³awa Niedzia³kowskiego",3 500,https://www.otodom.pl/oferta/luksusowy-apartament-2-pok-niedzialkowskiego-24-ID3EWzu.html#71d265a9a6,0,0
+17,"Poznañ, Rataje,  Rataje",1 300,https://www.otodom.pl/oferta/wynajme-kawalerke-ul-rataje-152-poznan-garaz-ID3Ed9q.html#71d265a9a6,16.939210,52.382705
+18,"Poznañ, Rataje,  Powstañ Narodowych",1 200,https://www.otodom.pl/oferta/ladna-kawalerka-bezposrednio-ID1k8NU.html#71d265a9a6,16.956645,52.389349
+19,"Poznañ, Stare Miasto,  Ogrodowa",1 250,https://www.otodom.pl/oferta/mieszkanie-dwupokojowe-w-centrum-ID3ltVC.html#71d265a9a6,16.925125,52.403893
+20,"Poznañ, Ogrody,  Szamotulska",1 190,https://www.otodom.pl/oferta/mieszkanie-29-m-ogrody-ul-szamotulska-ID3EWjq.html#71d265a9a6,16.883017,52.411309
+21,"Poznañ, Ogrody,  Szamotulska",1 190,https://www.otodom.pl/oferta/mieszkanie-29-m-ogrody-ul-szamotulska-ID3EWiv.html#71d265a9a6,16.883017,52.411309
+22,"Poznañ, Pi¹tkowo,  Boles³awa Chrobrego 11",1 500,https://www.otodom.pl/oferta/chrobrego-2-pok-51m2-przy-pestce-ID3my5F.html#71d265a9a6,16.915333,52.458340
+23,"Poznañ, Je¿yce,  Zwierzyniecka",1 850,https://www.otodom.pl/oferta/swietne-komfortowe-mieszkanie-ID3EWdS.html#71d265a9a6,16.902147,52.408926
+24,"Poznañ,  Stefana Batorego",1 350,https://www.otodom.pl/oferta/os-batorego-nowsze-2-pok-balkon-ID3EWda.html#71d265a9a6,16.926342,52.456025
+25,"Poznañ, Jana Keplera",1 200,https://www.otodom.pl/oferta/os-kopernika-3-pokojowe-ID3EWdi.html#71d265a9a6,16.864606,52.390207
+26,"Poznañ, Je¿yce, Zwierzyniecka",3 250,https://www.otodom.pl/oferta/jezyce-nowe-komfortowe-70m2-z-garazem-ID3EWbS.html#71d265a9a6,16.902147,52.408926
+27,"Poznañ, Centrum, Genera³a Tadeusza Kutrzeby",2 200,https://www.otodom.pl/oferta/centrum-poznania-komfortowe-trzypokojowe-ID2xd62.html#71d265a9a6,0,0
+28,"Poznañ, Rataje,  Jagielloñskie",1 300,https://www.otodom.pl/oferta/mieszkanie-37-53-m-poznan-ID3EW5y.html#71d265a9a6,16.951658,52.390184
+29,"Poznañ, Pi¹tkowo,  Boles³awa Chrobrego 31",1 700,https://www.otodom.pl/oferta/wynajme-mieszkanie-2-pokoje-os-chrobrego-poznan-ID3vtWp.html#71d265a9a6,16.918612,52.447906
+30,"Poznañ, Zawady, Na Smolnej",2 499,https://www.otodom.pl/oferta/wysoki-standard-3-pokoje-smolna-bez-prowizji-ID3CXHa.html#71d265a9a6,0,0
+0,"Poznañ, Stare Miasto,  Ogrodowa",1 800,https://www.otodom.pl/oferta/mieszkanie-dwupokojowe-w-centrum-ID3ltVC.html#cbab5cf261,16.925125,52.403893
+1,"Poznañ, Centrum, Genera³a Tadeusza Kutrzeby",1 850,https://www.otodom.pl/oferta/centrum-poznania-komfortowe-trzypokojowe-ID2xd62.html#cbab5cf261,0,0
+2,"Poznañ, Pi¹tkowo,  Boles³awa Chrobrego 31",1 300,https://www.otodom.pl/oferta/wynajme-mieszkanie-2-pokoje-os-chrobrego-poznan-ID3vtWp.html#cbab5cf261,16.918612,52.447906
+3,"Poznañ, Zawady, Na Smolnej",1 200,https://www.otodom.pl/oferta/wysoki-standard-3-pokoje-smolna-bez-prowizji-ID3CXHa.html#cbab5cf261,0,0
+4,"Poznañ, Grunwald,  Brzask 10",1 300,https://www.otodom.pl/oferta/ataner-2-pokoje-kuchnia-2-balkony-brzask-poznan-ID3E8Ic.html#cbab5cf261,16.878740,52.407098
+5,"Poznañ, Pi¹tkowo,  Stefana Batorego",2 300,https://www.otodom.pl/oferta/kawalerka-z-tarasem-batorego-ataner-ID3kHqG.html#cbab5cf261,16.926342,52.456025
+6,"Poznañ, £azarz,  Œniadeckich",2 200,https://www.otodom.pl/oferta/mieszkanie-116m2-k-targow-poznanskich-kancelaria-ID3EcE4.html#cbab5cf261,16.904813,52.399748
+7,"Poznañ, Stary Rynek,  Za Bramk¹",1 200,https://www.otodom.pl/oferta/designerskie-mieszkanie-2-pok-centrum-ID3uizO.html#cbab5cf261,0,0
+8,"Poznañ, Krzy¿owa",1 300,https://www.otodom.pl/oferta/mieszkanie-ul-krzyzowa-poznan-ID3CPha.html#cbab5cf261,0,0
+9,"Poznañ, Górczyn, Bosa",1 800,https://www.otodom.pl/oferta/mieszkanie-64-m-poznan-ID3EUUA.html#cbab5cf261,16.889456,52.382719
+10,"Poznañ, Grunwald, Daleka",1 850,https://www.otodom.pl/oferta/mieszkanie-62-m-poznan-ID3EUUE.html#cbab5cf261,16.887239,52.382486
+11,"Poznañ, Maratoñska 3b",1 690,https://www.otodom.pl/oferta/2-pokojowe-ul-maratonska-ID3x3eP.html#cbab5cf261,16.919400,52.345659
+12,"Poznañ, Dêbiec",1 850,https://www.otodom.pl/oferta/mieszkanie-3-pokojowe-60-m2-ID3EURq.html#cbab5cf261,16.919400,52.345659
+13,"Poznañ, Rataje,  Oœwiecenia",1 200,https://www.otodom.pl/oferta/rataje-oswiecenia-juz-dostepne-umeblowane-3-pokoje-ID3E9Lq.html#cbab5cf261,16.962806,52.389103
+14,"Poznañ, Rataje, osiedle Przemys³awa",1 600,https://www.otodom.pl/oferta/mieszkanie-trzypokojowe-os-przemyslawa-rataje-ID3oeUc.html#cbab5cf261,0,0
+15,"Poznañ, Grunwald, Ognik",1 450,https://www.otodom.pl/oferta/mieszkanie-2-pok-ul-ognik-przy-business-garden-ID3EUsI.html#cbab5cf261,16.868912,52.405724
+16,"Poznañ, Centrum,  Maratoñska",3 500,https://www.otodom.pl/oferta/mieszkanie-44-m-poznan-ID3DteQ.html#cbab5cf261,16.931473,52.397862
+17,"Poznañ, Je¿yce,  Koœcielna 39, Bamberski Dwór",1 300,https://www.otodom.pl/oferta/bezposrednio-dwupokojowe-koscielna-bamb-dwor-ID3E9pe.html#cbab5cf261,0,0
+18,"Poznañ, Bonin,  gen. Stanis³awa Maczka",1 200,https://www.otodom.pl/oferta/kawalerka-po-remoncie-blisko-pestki-ul-gen-maczka-ID3CEZ6.html#cbab5cf261,0,0
+19,"Poznañ, Stare Miasto, Garbary, Piaskowa, Szyperska",1 250,https://www.otodom.pl/oferta/kawalerka-36m2-centrum-poznania-garbary-ID3EUgQ.html#cbab5cf261,0,0
+20,"Poznañ, Podolany,  Kosowska",1 190,https://www.otodom.pl/oferta/przytulne-mieszkanie-2-pokojowe-poznan-podolany-ID3d3eA.html#cbab5cf261,16.876952,52.454899
+21,"Poznañ, Stare Miasto,  Pó³nocna",1 190,https://www.otodom.pl/oferta/komfortowy-apartament-przy-cytadeli-ul-polnocna-ID3wuBO.html#cbab5cf261,16.937794,52.415239
+22,"Poznañ, Grunwald,  Brzask 10",1 500,https://www.otodom.pl/oferta/ataner-2-pokoje-kuchnia-2-balkony-brzask-poznan-ID3E8Ic.html#cbab5cf261,16.878740,52.407098
+23,"Poznañ, £awica,  Barwicka",1 850,https://www.otodom.pl/oferta/dwupokojowe-mieszkanie-do-wynajecia-od-czerwca-br-ID3EU2v.html#cbab5cf261,16.830972,52.410785
+24,"Poznañ, Rolna",1 350,https://www.otodom.pl/oferta/kawalerka-24-m2-na-wildziestan-idealny-ID3EU1y.html#cbab5cf261,16.830972,52.410785
+25,"Poznañ, So³acz, Szyd³owska",1 200,https://www.otodom.pl/oferta/mieszkanie-28-m-poznan-ID3EU0Y.html#cbab5cf261,16.916154,52.426770
+26,"Poznañ, Wilda,  28 Czerwca 1956 r. 158",3 250,https://www.otodom.pl/oferta/mieszkanie-przy-szpitalu-na-wildzie-ID3D2io.html#cbab5cf261,0,0
+27,"Poznañ, Dêbiec,  Wiklinowa 5",2 200,https://www.otodom.pl/oferta/2-pokoje-mieszkanie-w-pelni-umeblowane-parking-ID304aG.html#cbab5cf261,16.911232,52.368761
+28,"Poznañ, Rataje, Dymka",1 300,https://www.otodom.pl/oferta/komfortowa-kawalerka-na-ratajach-ID3ETGg.html#cbab5cf261,16.983517,52.395613
+29,"Poznañ, Wilda, Rolna",1 700,https://www.otodom.pl/oferta/mieszkanie-2-pokojowe-na-wildzie-ID3ETGk.html#cbab5cf261,16.916534,52.382676
+30,"Poznañ, Wilda, Saperska",2 499,https://www.otodom.pl/oferta/ladne-2-pokojowe-mieszkanie-na-ul-saperskiej-ID3ETGo.html#cbab5cf261,16.916691,52.376964
+0,"Poznañ, Stary Rynek,  Za Bramk¹",1 800,https://www.otodom.pl/oferta/designerskie-mieszkanie-2-pok-centrum-ID3uizO.html#710ca4e80a,0,0
+1,"Poznañ, Maratoñska 3b",1 850,https://www.otodom.pl/oferta/2-pokojowe-ul-maratonska-ID3x3eP.html#710ca4e80a,16.919400,52.345659
+2,"Poznañ, Rataje,  Oœwiecenia",1 300,https://www.otodom.pl/oferta/rataje-oswiecenia-juz-dostepne-umeblowane-3-pokoje-ID3E9Lq.html#710ca4e80a,16.962806,52.389103
+3,"Poznañ, Centrum,  Maratoñska",1 200,https://www.otodom.pl/oferta/mieszkanie-44-m-poznan-ID3DteQ.html#710ca4e80a,16.931473,52.397862
+4,"Poznañ,  Dezyderego Ch³apowskiego",1 300,https://www.otodom.pl/oferta/apartament-lux-38m2-z-ogrodkiem-30m2-gratis-1-mc-ID3y6t1.html#710ca4e80a,0,0
+5,"Poznañ, Je¿yce, M¹czna",2 300,https://www.otodom.pl/oferta/centrum-jezyce-mieszkanie-2-pokoje-po-remoncie-ID3EFiM.html#710ca4e80a,16.908127,52.416525
+6,"Poznañ, £azarz,  Klaudyny Potockiej",2 200,https://www.otodom.pl/oferta/komfortowe-2-pokojowe-mieszkanie-w-centrum-poznan-ID3bS5q.html#710ca4e80a,0,0
+7,"Poznañ, Wilda, Przemys³owa",1 200,https://www.otodom.pl/oferta/komfortowe-2-pokojowe-mieszkanie-na-wildzie-ID3ETGs.html#710ca4e80a,16.918859,52.398172
+8,"Poznañ, Wilda, Ró¿ana",1 300,https://www.otodom.pl/oferta/komfortowe-2-pokojowe-mieszkanie-na-wildzie-ID3ETGA.html#710ca4e80a,16.924323,52.397229
+9,"Poznañ, Wilda, Ró¿ana",1 800,https://www.otodom.pl/oferta/luksusowe-2-pok-mieszkanie-z-garazem-na-wildzie-ID3ETG8.html#710ca4e80a,16.924323,52.397229
+10,"Poznañ, Wilda, Romualda Traugutta",1 850,https://www.otodom.pl/oferta/komfortowe-2-pokojowe-mieszkanie-na-wildzie-ID3ETGc.html#710ca4e80a,0,0
+11,"Poznañ, Pi¹tkowo, Pi¹tkowo, Batorego",1 690,https://www.otodom.pl/oferta/2-pokoje-piatkowo-od-zaraz-ID3ETEY.html#710ca4e80a,0,0
+12,"Poznañ, Grunwald, Rycerska",1 850,https://www.otodom.pl/oferta/mieszkanie-1-pokoj-kawalerka-grunwald-rycerska-ID3EQC4.html#710ca4e80a,16.875111,52.402349
+13,"Poznañ, Wilda,  Rolna",1 200,https://www.otodom.pl/oferta/bezposrednio-nowe-2-pokojowe-ul-rolna-budimex-ID3ETxu.html#710ca4e80a,16.916534,52.382676
+14,"Poznañ, Dêbiec, REDPARK 28 CZERWCA",1 600,https://www.otodom.pl/oferta/wynajme-zupelnie-nowe-mieszkanie-ID3Bjw2.html#710ca4e80a,0,0
+15,"Poznañ, Ogrody, Nowe Ogrody",1 450,https://www.otodom.pl/oferta/bezposrednio-nowe-ogrody-2-pokoje-ID3kSYk.html#710ca4e80a,0,0
+16,"Poznañ, Grunwald,  Promienista",3 500,https://www.otodom.pl/oferta/piekne-mieszkanie-2-pok-w-willi-miejskiej-grunwald-ID3ESLK.html#710ca4e80a,16.872698,52.389701
+17,"Poznañ, Pi¹tkowo,  Karola Kurpiñskiego",1 300,https://www.otodom.pl/oferta/poznan-kurpinskiego-nowe-umeblowane-garaz-ID3ESvk.html#710ca4e80a,0,0
+18,"Poznañ, Winogrady,  Pod Lipami",1 200,https://www.otodom.pl/oferta/okazja-3-samodzielne-umeblowane-pok-dla-studentow-ID3ERVk.html#710ca4e80a,16.944990,52.430450
+19,"Poznañ, Je¿yce,  Bukowska",1 250,https://www.otodom.pl/oferta/bukowska-kawalerka-w-bloku-dla-studentow-ID3ERSI.html#710ca4e80a,16.881748,52.409632
+20,"Poznañ, Grunwald, Zb¹szyñska Osobna Kuchnia",1 190,https://www.otodom.pl/oferta/mieszkanie-56-m-poznan-ID3ERPq.html#710ca4e80a,0,0
+21,"Poznañ, Je¿yce, Zwierzyniecka NOWE",1 190,https://www.otodom.pl/oferta/mieszkanie-45-m-poznan-ID3ERPu.html#710ca4e80a,0,0
+22,"Poznañ, Malta,  Krañcowa",1 500,https://www.otodom.pl/oferta/nowe-2017-rok-w-otulinie-terenow-nad-malta-ID3xZxt.html#710ca4e80a,16.978139,52.412773
+23,"Poznañ, Wilda, Fabryczna",1 850,https://www.otodom.pl/oferta/mieszkanie-50-m-poznan-ID3ERju.html#710ca4e80a,16.910615,52.386937
+24,"Poznañ, Grunwald,  Œwit",1 350,https://www.otodom.pl/oferta/wynajme-3-pokoje-poznan-grunwald-polecam-ID3AiPB.html#710ca4e80a,16.879403,52.409170
+25,Poznañ,1 200,https://www.otodom.pl/oferta/apartament-katowicka-premium-ID3EzOQ.html#710ca4e80a,16.879403,52.409170
+26,"Poznañ, Wilda,  Antoniego Kosiñskiego",3 250,https://www.otodom.pl/oferta/wilda-blisko-tramwaj-niezalezne-pomieszczenia-ID3DKn2.html#710ca4e80a,0,0
+27,"Poznañ, Naramowice, Bratumi³y",2 200,https://www.otodom.pl/oferta/3-pokoje-poznan-naramowice-bezposrednio-ID3EfNe.html#710ca4e80a,16.951738,52.457925
+28,"Poznañ, Stare Miasto, Niedzia³kowskiego",1 300,https://www.otodom.pl/oferta/mieszkanie-47-25-m-poznan-ID3EQKc.html#710ca4e80a,0,0
+29,"Poznañ, Grunwald,  Jeleniogórska 1/3E",1 700,https://www.otodom.pl/oferta/nowe-dwupokojowe-os-przylesie-marcelin-v-ID3E4Jq.html#710ca4e80a,0,0
+30,"Poznañ, Dolna Wilda,  Rolna 41",2 499,https://www.otodom.pl/oferta/nowe-mieszkanie-wysoki-standard-ul-rolna-ID3EQ8A.html#710ca4e80a,16.915292,52.380135
+0,"Poznañ, Je¿yce,  Koœcielna 39, Bamberski Dwór",1 800,https://www.otodom.pl/oferta/bezposrednio-dwupokojowe-koscielna-bamb-dwor-ID3E9pe.html#c083e5401e,0,0
+1,"Poznañ, Bonin,  gen. Stanis³awa Maczka",1 850,https://www.otodom.pl/oferta/kawalerka-po-remoncie-blisko-pestki-ul-gen-maczka-ID3CEZ6.html#c083e5401e,0,0
+2,"Poznañ, Podolany,  Kosowska",1 300,https://www.otodom.pl/oferta/przytulne-mieszkanie-2-pokojowe-poznan-podolany-ID3d3eA.html#c083e5401e,16.876952,52.454899
+3,"Poznañ, Stare Miasto,  Pó³nocna",1 200,https://www.otodom.pl/oferta/komfortowy-apartament-przy-cytadeli-ul-polnocna-ID3wuBO.html#c083e5401e,16.937794,52.415239
+4,"Poznañ, Centrum,  Wenecjañska",1 300,https://www.otodom.pl/oferta/2-pokojowe-ul-wenecjanska-ID3voML.html#c083e5401e,16.940423,52.408728
+5,"Poznañ, Naramowice,  B³a¿eja",2 300,https://www.otodom.pl/oferta/jasna-kawalerka-na-naramowicach-ID3xxAn.html#c083e5401e,16.940683,52.458776
+6,"Poznañ, Pi¹tkowo, stefana batorego/Henryka Opieñskiego",2 200,https://www.otodom.pl/oferta/st-batorego-opienskiego-2-bezposrednio-ID3eMkO.html#c083e5401e,0,0
+7,"Poznañ, Piotrowo, Œw.Rocha, Piotrowo, Na Miasteczku, Rataje",1 200,https://www.otodom.pl/oferta/sloneczny-apartament-mieszkanie-na-ul-sw-rocha-ID3EPFi.html#c083e5401e,0,0
+8,"Poznañ, Nowe Miasto,  Folwarczna",1 300,https://www.otodom.pl/oferta/przytulne-przestronne-mieszkanie-ul-folwarczna-ID3CV4k.html#c083e5401e,17.006668,52.388267
+9,"Poznañ, Wilda,  Dezyderego Ch³apowskiego",1 800,https://www.otodom.pl/oferta/nowe-2-pok-swietna-lokalizacja-tramwaj-ID3Dpmg.html#c083e5401e,0,0
+10,"Poznañ, Je¿yce, Maksymiliana Jackowskiego",1 850,https://www.otodom.pl/oferta/2-pokoje-kuchnia-ogrodek-blisko-um-pums-ID3EPms.html#c083e5401e,0,0
+11,"Poznañ, Stare Miasto, Bielniki",1 690,https://www.otodom.pl/oferta/piekne-komfortowe-wyposazone-z-garazem-ID3DEtV.html#c083e5401e,0,0
+12,"Poznañ, Grunwald, Marcelinska",1 850,https://www.otodom.pl/oferta/czyste-sloneczne-i-cieple-mieszkanie-na-wynajem-ID3EPhC.html#c083e5401e,16.890359,52.404942
+13,"Poznañ, Nowe Miasto, Wiejska",1 200,https://www.otodom.pl/oferta/mieszkanie-37-42-m-poznan-ID3EP3q.html#c083e5401e,16.974751,52.421515
+14,"Poznañ, Centrum,  Wenecjañska",1 600,https://www.otodom.pl/oferta/2-pokojowe-ul-wenecjanska-ID3voML.html#c083e5401e,16.940423,52.408728
+15,"Poznañ, Komandoria,  Piotra Tomickiego",1 450,https://www.otodom.pl/oferta/38-m2-srodka-ul-tomickiego-ID3DrgI.html#c083e5401e,0,0
+16,"Poznañ, Grunwald, Marceliñska",3 500,https://www.otodom.pl/oferta/mieszkanie-50-m-poznan-ID3EOHm.html#c083e5401e,16.890359,52.404942
+17,"Poznañ, Rataje,  Czecha",1 300,https://www.otodom.pl/oferta/rataje-os-czecha-2-osobne-umeblowane-pokoje-ID3EODa.html#c083e5401e,16.980854,52.386367
+18,"Poznañ, Stare Miasto,  Rybaki",1 200,https://www.otodom.pl/oferta/mieszkanie-w-pelni-umeblowane-1min-od-s-browaru-ID2Xx0h.html#c083e5401e,16.932618,52.403142
+19,"Poznañ, Œródka, Wiejska",1 250,https://www.otodom.pl/oferta/nowe-2-pok-srodka-ID3EOy8.html#c083e5401e,16.974751,52.421515
+20,"Poznañ, So³acz,  Urbanowska",1 190,https://www.otodom.pl/oferta/komfortowe-urzadzone-w-ladnym-standardzie-solacz-ID3x8w5.html#c083e5401e,16.913946,52.422767
+21,"Poznañ, Centrum, Wielka",1 190,https://www.otodom.pl/oferta/luksusowy-apartament-w-sercu-miasta-nowa-oferta-ID3EOm8.html#c083e5401e,16.936630,52.408542
+22,"Poznañ, Grunwald,  Brzask",1 500,https://www.otodom.pl/oferta/mieszkanie-2-pok-58-8m2-ul-brzask-ataner-ID3bvOs.html#c083e5401e,16.878534,52.407471
+23,"Poznañ, Wilda, Saperska",1 850,https://www.otodom.pl/oferta/kawalerka-wilda-ul-saperska-balkon-nowoczesne-ID3ENZi.html#c083e5401e,16.916691,52.376964
+24,"Poznañ, Centrum, Maratoñska",1 350,https://www.otodom.pl/oferta/mieszkanie-64-m-poznan-ID3ENJe.html#c083e5401e,16.931473,52.397862
+25,"Poznañ, Rataje,  Katowicka",1 200,https://www.otodom.pl/oferta/poznan-katowicka-57m-ID3AEAT.html#c083e5401e,16.966465,52.395877
+26,"Poznañ, Je¿yce,  Zwierzyniecka",3 250,https://www.otodom.pl/oferta/wynajme-3-pokojowy-apartament-ul-zwierzyniecka-ID3EN1i.html#c083e5401e,16.902147,52.408926
+27,"Poznañ, Grunwald, Przepiórcza 35B/8",2 200,https://www.otodom.pl/oferta/mieszkanie-kawalerka-sypialnia-na-poddaszu-ID2Fkn6.html#c083e5401e,0,0
+28,"Poznañ, Grunwald",1 300,https://www.otodom.pl/oferta/4-pokoje-93m2-mozliwy-najem-krotkoterminowy-ID3EMDK.html#c083e5401e,0,0
+29,"Poznañ, Ogrody,  Janusza Meissnera",1 700,https://www.otodom.pl/oferta/2-pokojowy-apartament-do-wynajecia-na-osiedlu-now-ID3DqrG.html#c083e5401e,0,0
+30,"Poznañ, Grunwald,  Jeleniogórska",2 499,https://www.otodom.pl/oferta/piekny-apartament-przy-lasku-marcelinskim-ID3zPUP.html#c083e5401e,16.845991,52.390491
+0,"Poznañ, Grunwald,  Brzask 10",1 800,https://www.otodom.pl/oferta/ataner-2-pokoje-kuchnia-2-balkony-brzask-poznan-ID3E8Ic.html#21db2a5b06,16.878740,52.407098
+1,"Poznañ, Wilda,  28 Czerwca 1956 r. 158",1 850,https://www.otodom.pl/oferta/mieszkanie-przy-szpitalu-na-wildzie-ID3D2io.html#21db2a5b06,0,0
+2,"Poznañ, Dêbiec, REDPARK 28 CZERWCA",1 300,https://www.otodom.pl/oferta/wynajme-zupelnie-nowe-mieszkanie-ID3Bjw2.html#21db2a5b06,0,0
+3,"Poznañ, Malta,  Krañcowa",1 200,https://www.otodom.pl/oferta/nowe-2017-rok-w-otulinie-terenow-nad-malta-ID3xZxt.html#21db2a5b06,16.978139,52.412773
+4,"Poznañ, Naramowickie Osiedle,  Sielawy",1 300,https://www.otodom.pl/oferta/naramowicka-sielawy-2-pok-49-m2-ID3EWA8.html#21db2a5b06,0,0
+5,"Poznañ, Grunwald, G³ogowska 70",2 300,https://www.otodom.pl/oferta/kawalerka-1os-1050zl-ze-wszystkimi-oplatami-ID3Djs8.html#21db2a5b06,16.900077,52.395642
+6,"Poznañ, Centrum,  Kazimierza Wielkiego",2 200,https://www.otodom.pl/oferta/nowoczesny-apartament-w-centrum-poznania-ID3Eu9m.html#21db2a5b06,16.937498,52.401601
+7,"Poznañ,  Na Miasteczku 12",1 200,https://www.otodom.pl/oferta/poznan-tarasy-warty-ID3xkNR.html#21db2a5b06,16.949322,52.397126
+8,"Poznañ, Naramowice, Naramowicka 217",1 300,https://www.otodom.pl/oferta/dwupojowe-naramowice-naramowicka-howell-ID3yhhx.html#21db2a5b06,16.946249,52.452528
+9,"Poznañ, Naramowice, Kwarcowa",1 800,https://www.otodom.pl/oferta/niedroga-kawalerka-naramowice-ID3Ex16.html#21db2a5b06,16.955361,52.470384
+10,Poznañ,1 850,https://www.otodom.pl/oferta/oryginalna-kawalerka-ID3E0q0.html#21db2a5b06,16.955361,52.470384
+11,"Poznañ, So³acz,  Szyd³owska",1 690,https://www.otodom.pl/oferta/mala-tania-kawalerka-na-solaczu-dla-studentow-ID3EMu0.html#21db2a5b06,16.916154,52.426770
+12,"Poznañ, Podolany,  Strzeszyñska",1 850,https://www.otodom.pl/oferta/podolany-strzeszynska-po-remoncie-bezposrednio-ID313Qk.html#21db2a5b06,16.886569,52.452976
+13,"Poznañ, Pi¹tkowo, Batorego os.",1 200,https://www.otodom.pl/oferta/mieszkanie-36-m-poznan-ID3EMeA.html#21db2a5b06,0,0
+14,"Poznañ, Malta,  Katowicka",1 600,https://www.otodom.pl/oferta/mieszkanie-49-m-poznan-ID3EMck.html#21db2a5b06,16.966465,52.395877
+15,"Poznañ, Malta,  Katowicka",1 450,https://www.otodom.pl/oferta/mieszkanie-34-m-poznan-ID3EMco.html#21db2a5b06,16.966465,52.395877
+16,"Poznañ, Malta, Baraniaka",3 500,https://www.otodom.pl/oferta/mieszkanie-32-m-poznan-ID3EMc8.html#21db2a5b06,16.971854,52.399955
+17,"Poznañ, Œródka, Zawady",1 300,https://www.otodom.pl/oferta/mieszkanie-69-m-poznan-ID3EMcc.html#21db2a5b06,16.962478,52.420098
+18,"Poznañ, Grunwald, Franciszka Morawskiego",1 200,https://www.otodom.pl/oferta/ul-morawskiego-kawalerka-do-wynajecia-ID3DTJe.html#21db2a5b06,0,0
+19,"Poznañ, Bonin, Bonin",1 250,https://www.otodom.pl/oferta/bonin-3-pokoje-po-remoncie-umeblowane-ID3ELXm.html#21db2a5b06,16.909382,52.430722
+20,"Poznañ, Centrum,  Maratoñska",1 190,https://www.otodom.pl/oferta/wyjatkowy-apartament-glamour-3-pok-maraton-top-ID3DsCI.html#21db2a5b06,16.931473,52.397862
+21,"Poznañ, Centrum,  Maratoñska",1 190,https://www.otodom.pl/oferta/apartament-dwa-ogrodki-3-pokoje-maraton-top-ID3DsDe.html#21db2a5b06,16.931473,52.397862
+22,"Poznañ, Pi¹tkowo, Os. Batorego",1 500,https://www.otodom.pl/oferta/piatkowo-os-batorego-2-osobne-pokoje-od-zaraz-ID3yl1N.html#21db2a5b06,0,0
+23,"Poznañ, Rataje,  Stare ¯egrze 89b",1 850,https://www.otodom.pl/oferta/wynajme-stare-zegrze-1p-3pokoje-72-7m2-garaz-ID3DZXK.html#21db2a5b06,16.964766,52.383324
+24,"Poznañ, Wilda,  Romualda Traugutta",1 350,https://www.otodom.pl/oferta/sloneczna-kawalerka-36-m2-hala-garazowa-ID3ELRG.html#21db2a5b06,0,0
+25,"Poznañ, Centrum",1 200,https://www.otodom.pl/oferta/apartament-2-pokojowy-w-sercu-poznania-ID3ELQk.html#21db2a5b06,0,0
+26,"Poznañ, Naramowice,  B³a¿eja",3 250,https://www.otodom.pl/oferta/jasna-kawalerka-na-naramowicach-ID3xxAn.html#21db2a5b06,16.940683,52.458776
+27,"Poznañ, So³acz,  Micha³a Drzyma³y 12 B",2 200,https://www.otodom.pl/oferta/poznan-solacz-apartamenty-zielony-solacz-ID3AU71.html#21db2a5b06,0,0
+28,"Poznañ, £awica, Barwicka",1 300,https://www.otodom.pl/oferta/lawicawysoki-standard2-pokojetylko-u-nas-ID3COj6.html#21db2a5b06,16.830972,52.410785
+29,"Poznañ, Centrum,  Mieczys³awa Niedzia³kowskiego",1 700,https://www.otodom.pl/oferta/mieszkanie-dwupokojowe-w-apartamentowcu-ID3CWWm.html#21db2a5b06,0,0
+30,Poznañ,2 499,https://www.otodom.pl/oferta/piekny-apartament-w-sercu-poznania-ID3ELGU.html#21db2a5b06,0,0
+0,"Poznañ, Grunwald,  Œwit",1 800,https://www.otodom.pl/oferta/wynajme-3-pokoje-poznan-grunwald-polecam-ID3AiPB.html#3eee648737,16.879403,52.409170
+1,Poznañ,1 850,https://www.otodom.pl/oferta/apartament-katowicka-premium-ID3EzOQ.html#3eee648737,16.879403,52.409170
+2,"Poznañ, Wilda,  Antoniego Kosiñskiego",1 300,https://www.otodom.pl/oferta/wilda-blisko-tramwaj-niezalezne-pomieszczenia-ID3DKn2.html#3eee648737,0,0
+3,"Poznañ, Naramowice, Bratumi³y",1 200,https://www.otodom.pl/oferta/3-pokoje-poznan-naramowice-bezposrednio-ID3EfNe.html#3eee648737,16.951738,52.457925
+4,"Poznañ, Piotrowo, Œw.Rocha, Piotrowo, Na Miasteczku, Rataje",1 300,https://www.otodom.pl/oferta/sloneczny-apartament-mieszkanie-na-ul-sw-rocha-ID3EPFi.html#3eee648737,0,0
+5,"Poznañ,  Boles³awa Limanowskiego 20",2 300,https://www.otodom.pl/oferta/ladna-kawalerka-limanowskiego-lazarz-1350-ID3EDXG.html#3eee648737,0,0
+6,"Poznañ, Nowe Miasto, Osiedle Piastowskie 120",2 200,https://www.otodom.pl/oferta/apartament-w-centrum-z-widokiem-na-warte-basen-ID3EijK.html#3eee648737,0,0
+7,"Poznañ, Wilda,  Partyzancka",1 200,https://www.otodom.pl/oferta/wynajme-bezposrednio-dwupokojowe-mieszkanie-54-m2-ID3EFuI.html#3eee648737,16.918598,52.382409
+8,"Poznañ, Pi¹tkowo,  Stefana Batorego",1 300,https://www.otodom.pl/oferta/kawalerka-z-tarasem-batorego-ataner-ID3kHqG.html#3eee648737,16.926342,52.456025
+9,"Poznañ, Je¿yce, Maksymiliana Jackowskiego",1 800,https://www.otodom.pl/oferta/2-pokojowe-mieszkanie-do-wynajecia-na-jezycach-ID3ELpy.html#3eee648737,0,0
+10,"Poznañ, Centrum, Garbary",1 850,https://www.otodom.pl/oferta/doskonale-mieszkanie-43-m2-w-scislym-centrum-ID2jNM9.html#3eee648737,16.935807,52.401014
+11,"Poznañ, Pi¹tkowo,  Pi¹tkowska 214",1 690,https://www.otodom.pl/oferta/eleganckie-mieszkanie-ul-piatkowska-piatkowo-ID3AeVT.html#3eee648737,16.912689,52.441477
+12,"Poznañ, Stare Miasto, Strza³owa",1 850,https://www.otodom.pl/oferta/kawalerka-bez-prowizji-swiezo-po-remoncie-ID3EL1O.html#3eee648737,16.931018,52.403270
+13,"Poznañ, Rataje,  Rusa",1 200,https://www.otodom.pl/oferta/umeblowane-mieszkanie-na-osiedlu-rusa-ID3EL16.html#3eee648737,16.981680,52.388643
+14,"Poznañ, Grunwald",1 600,https://www.otodom.pl/oferta/mieszkanie-do-wynajecia-ul-niecala-ID3EKZV.html#3eee648737,16.981680,52.388643
+15,"Poznañ, Grunwald, Nieca³a",1 450,https://www.otodom.pl/oferta/mieszkanie-do-wynajecia-ul-niecala-ID3EL00.html#3eee648737,16.890861,52.404157
+16,"Poznañ, Wilda, Rolna 31",3 500,https://www.otodom.pl/oferta/mieszkanie-41-m2-poznan-wilda-ul-rolna-ID3DpBi.html#3eee648737,16.915958,52.381127
+17,"Poznañ, £azarz, Lodowa",1 300,https://www.otodom.pl/oferta/mieszkanie-27-m-poznan-ID3EKTu.html#3eee648737,16.900498,52.394002
+18,"Poznañ, Górna Wilda,  Ró¿ana",1 200,https://www.otodom.pl/oferta/mieszkanie-2-pokojowe-blisko-centrum-rozana-ID3EKSv.html#3eee648737,16.924323,52.397229
+19,"Poznañ, Nowe Miasto,  Krañcowa",1 250,https://www.otodom.pl/oferta/nowa-kawalwerka-29-2-m2-ul-krancowa-ID3DZl6.html#3eee648737,16.978139,52.412773
+20,"Poznañ, Grunwald, Marceliñska",1 190,https://www.otodom.pl/oferta/mieszkanie-36-m-poznan-ID3EKMU.html#3eee648737,16.890359,52.404942
+21,"Poznañ, Centrum, Droga Dêbiñska/Bielniki",1 190,https://www.otodom.pl/oferta/mieszkanie-32-m-poznan-ID3EKMY.html#3eee648737,0,0
+22,"Poznañ, Je¿yce, Jackowskiego",1 500,https://www.otodom.pl/oferta/mieszkanie-28-50-m-poznan-ID3EKMM.html#3eee648737,16.900520,52.409955
+23,"Poznañ, Górczyn, jarochowskiego 88",1 850,https://www.otodom.pl/oferta/bezposrednio-2-pokojowe-po-remoncie-od-zaraz-ID3EKLG.html#3eee648737,16.884896,52.386046
+24,"Poznañ, Winogrady, Winiary, ul. Pi¹tkowska",1 350,https://www.otodom.pl/oferta/ladne-mieszkanie-dwupokojowe-43-m2-ul-piatkowska-ID3exrA.html#3eee648737,0,0
+25,"Poznañ, Winogrady,  Boles³awa Œmia³ego",1 200,https://www.otodom.pl/oferta/nowe-dwupokojowe-wysoki-standard-ID3jJF6.html#3eee648737,16.924379,52.452290
+26,"Poznañ, Naramowice,  Sielawy",3 250,https://www.otodom.pl/oferta/mieszkanie-2-pokojowe-naramowice-ID2RQBR.html#3eee648737,16.947878,52.445985
+27,"Poznañ, Rataje, Rataje, £acina, Polanka, Milczañska,Katowicka",2 200,https://www.otodom.pl/oferta/po-remoncie-przestronna-kawalerka-35-8m-kw-ID3zOV3.html#3eee648737,0,0
+28,"Poznañ, So³acz, Urbanowska",1 300,https://www.otodom.pl/oferta/duza-kawalerka-na-ul-urbanowskiej-solacz-ID3CTV8.html#3eee648737,16.913946,52.422767
+29,"Poznañ, Wilda, Rolna",1 700,https://www.otodom.pl/oferta/komfortowe-mieszkanie-z-ogrodkiem-i-garazem-wilda-ID3EeRi.html#3eee648737,16.916534,52.382676
+30,"Poznañ, Wilda, Maratoñska",2 499,https://www.otodom.pl/oferta/luksusowy-apartament-na-wildzie-ID3CTsU.html#3eee648737,16.931473,52.397862
+0,"Poznañ, Grunwald,  Jeleniogórska 1/3E",1 800,https://www.otodom.pl/oferta/nowe-dwupokojowe-os-przylesie-marcelin-v-ID3E4Jq.html#ff11c52a94,0,0
+1,"Poznañ, Nowe Miasto,  Folwarczna",1 850,https://www.otodom.pl/oferta/przytulne-przestronne-mieszkanie-ul-folwarczna-ID3CV4k.html#ff11c52a94,17.006668,52.388267
+2,"Poznañ, Stare Miasto, Bielniki",1 300,https://www.otodom.pl/oferta/piekne-komfortowe-wyposazone-z-garazem-ID3DEtV.html#ff11c52a94,0,0
+3,"Poznañ, Centrum,  Wenecjañska",1 200,https://www.otodom.pl/oferta/2-pokojowe-ul-wenecjanska-ID3voML.html#ff11c52a94,16.940423,52.408728
+4,Poznañ,1 300,https://www.otodom.pl/oferta/wyjatkowe-wnetrze-na-poludniu-poznania-okazja-ID3zsFp.html#ff11c52a94,16.940423,52.408728
+5,"Poznañ, Winogrady,  Wichrowe Wzgórze",2 300,https://www.otodom.pl/oferta/mieszkanie-65-m2-z-ogrodkiem-po-remoncie-ID2Ajpu.html#ff11c52a94,16.936625,52.439562
+6,"Poznañ, Podolany,  Edwarda Raczyñskiego",2 200,https://www.otodom.pl/oferta/podolany-3-pokoje-ID3CDq8.html#ff11c52a94,0,0
+7,"Poznañ, Wilda, Dolna Wilda",1 200,https://www.otodom.pl/oferta/komfortowe-3-pokojowe-mieszkanie-na-wildzie-ID3E5Kc.html#ff11c52a94,16.922038,52.384256
+8,"Poznañ, Je¿yce,  Koœcielna",1 300,https://www.otodom.pl/oferta/kawalerka-przy-koscielnej-ID3DZ8E.html#ff11c52a94,16.903287,52.413070
+9,"Poznañ, Wilda,  Dolna Wilda",1 800,https://www.otodom.pl/oferta/wilda-dolna-wilda-2-pokoje-dwupoziomowe-ID3EKvQ.html#ff11c52a94,16.922038,52.384256
+10,"Poznañ, Stare Miasto",1 850,https://www.otodom.pl/oferta/mieszkanie-56-m-poznan-ID3EKv8.html#ff11c52a94,17.406394,52.089386
+11,"Poznañ, £azarz,  Antoniego Ma³eckiego",1 690,https://www.otodom.pl/oferta/atrakcyjna-kawalerka-dla-dwojga-w-poznaniu-ID3zRxZ.html#ff11c52a94,0,0
+12,"Poznañ, Bonin, Turkusowa",1 850,https://www.otodom.pl/oferta/mieszkanie-29-m-poznan-ID3EKd6.html#ff11c52a94,16.904476,52.431254
+13,"Poznañ, Górczyn, Grunwald, ul. Promienista",1 200,https://www.otodom.pl/oferta/zadbana-kawalerka-i-pietro-osobna-kuchnia-ID3EKb2.html#ff11c52a94,0,0
+14,"Poznañ, Rataje",1 600,https://www.otodom.pl/oferta/kawalerka-w-uapartamentowcu-malta-rataje-ul-dymka-ID3EK20.html#ff11c52a94,0,0
+15,"Poznañ, Wilda, Przemys³owa",1 450,https://www.otodom.pl/oferta/apartament-2-pokojowy-blisko-centrum-ID3EK24.html#ff11c52a94,16.918859,52.398172
+16,"Poznañ,  Dezyderego Ch³apowskiego",3 500,https://www.otodom.pl/oferta/apartament-lux-38m2-z-ogrodkiem-30m2-gratis-1-mc-ID3y6t1.html#ff11c52a94,0,0
+17,"Poznañ, Centrum,  M³yñska",1 300,https://www.otodom.pl/oferta/ladne-mieszkanie-2-pokojowe-przy-ul-mlynskiej-ID3EJVo.html#ff11c52a94,16.925154,52.410637
+18,"Poznañ, Podolany",1 200,https://www.otodom.pl/oferta/na-wynajem-apartament-na-podolanach-ID3EJKI.html#ff11c52a94,16.925154,52.410637
+19,"Poznañ, Pi¹tkowo,  Zygmunta Starego",1 250,https://www.otodom.pl/oferta/2-osobne-pok-z-balkonem-na-piatkowie-5-min-do-pst-ID3EJFC.html#ff11c52a94,16.910507,52.459396
+20,"Poznañ, Je¿yce,  Je¿ycka",1 190,https://www.otodom.pl/oferta/mieszkanie-w-centrum-ID3EIMo.html#ff11c52a94,16.909051,52.416660
+21,"Poznañ, Rataje,   Lwa, abpa Dymka",1 190,https://www.otodom.pl/oferta/kawalerka-32m2-ul-lwa-zodiak-rataje-ID3EIL2.html#ff11c52a94,0,0
+22,"Poznañ, W³odzimierza Majakowskiego",1 500,https://www.otodom.pl/oferta/apartament-200m2-warzelnia-poznan-ID3EIKI.html#ff11c52a94,17.016881,52.392801
+23,"Poznañ, Stare Miasto, D³uga",1 850,https://www.otodom.pl/oferta/mieszkanie-50-60-m-poznan-ID3EIIs.html#ff11c52a94,16.935599,52.403645
+24,"Poznañ, Serafitek",1 350,https://www.otodom.pl/oferta/mieszkanie-19-m-poznan-ID3EIE4.html#ff11c52a94,16.935599,52.403645
+25,"Poznañ, Rataje, Katowicka",1 200,https://www.otodom.pl/oferta/mieszkanie-50-m-poznan-ID3EIDO.html#ff11c52a94,16.966465,52.395877
+26,"Poznañ, Stare Miasto, Towarowa",3 250,https://www.otodom.pl/oferta/mieszkanie-50-m-poznan-ID3EIDS.html#ff11c52a94,16.916261,52.404458
+27,"Poznañ, Stare Miasto, Maratoñska",2 200,https://www.otodom.pl/oferta/mieszkanie-51-m-poznan-ID3EIDK.html#ff11c52a94,0,0
+28,"Poznañ, Wilda, Rolna, Saperska",1 300,https://www.otodom.pl/oferta/nowe-2-pokoje-38-m2-balkon-ul-rolna-ID3EIyA.html#ff11c52a94,0,0
+29,"Poznañ, Je¿yce, A. Mickiewicza 18a",1 700,https://www.otodom.pl/oferta/kawalerka-dwupokojowa-wysoki-standard-jezyce-cen-ID3xG31.html#ff11c52a94,0,0
+30,"Poznañ, Stare Miasto",2 499,https://www.otodom.pl/oferta/apartament-4-pokoje-2-lazienki-2-tarasy-centrum-ID3CUL2.html#ff11c52a94,17.406394,52.089386
+0,"Poznañ, Komandoria,  Piotra Tomickiego",1 800,https://www.otodom.pl/oferta/38-m2-srodka-ul-tomickiego-ID3DrgI.html#6f9ee76a79,0,0
+1,"Poznañ, Stare Miasto,  Rybaki",1 850,https://www.otodom.pl/oferta/mieszkanie-w-pelni-umeblowane-1min-od-s-browaru-ID2Xx0h.html#6f9ee76a79,16.932618,52.403142
+2,"Poznañ, So³acz,  Urbanowska",1 300,https://www.otodom.pl/oferta/komfortowe-urzadzone-w-ladnym-standardzie-solacz-ID3x8w5.html#6f9ee76a79,16.913946,52.422767
+3,"Poznañ, Rataje,  Katowicka",1 200,https://www.otodom.pl/oferta/poznan-katowicka-57m-ID3AEAT.html#6f9ee76a79,16.966465,52.395877
+4,"Poznañ, Rataje,  Milczañska",1 300,https://www.otodom.pl/oferta/komfortowe-dwupoziomowe-mieszkanie-milczanska-ID3BQIg.html#6f9ee76a79,16.964752,52.393060
+5,"Poznañ, Rataje,  Na Miasteczku",2 300,https://www.otodom.pl/oferta/mieszkanie-tarasy-warty-widok-standard-garaz-full-ID3vzAX.html#6f9ee76a79,16.949359,52.397146
+6,"Poznañ, Grunwald,  Wojskowa",2 200,https://www.otodom.pl/oferta/apartament-2-pokojowy-wojskowa-ID3DYog.html#6f9ee76a79,16.893099,52.402789
+7,"Poznañ, Grunwald,  G³ogowska 70",1 200,https://www.otodom.pl/oferta/mieszk-2-pok-15min-do-pkp-1550-zl-liczniki-ID3lYv5.html#6f9ee76a79,16.900077,52.395642
+8,"Poznañ, Grunwald, Knapowskiego",1 300,https://www.otodom.pl/oferta/okazja-gorczyn-2-pokojowe-55-m2-z-garderoba-ID3EIok.html#6f9ee76a79,16.890313,52.383862
+9,"Poznañ, Centrum, Kazimierza Wielkiego",1 800,https://www.otodom.pl/oferta/nowy-apartament-w-cetrum-witrualny-spacer-3d-ID3EIjG.html#6f9ee76a79,16.937498,52.401601
+10,"Poznañ, Grunwald, Kosynierska 8",1 850,https://www.otodom.pl/oferta/bezposrednio-kawalerka-przy-tramwaju-ID3EI6g.html#6f9ee76a79,16.888528,52.385934
+11,"Poznañ, Je¿yce,  Zwierzyniecka",1 690,https://www.otodom.pl/oferta/jezyce-zwierzyniecka-2-pokoje-z-balkonem-ID3EI1G.html#6f9ee76a79,16.902147,52.408926
+12,"Poznañ, Wilda, Sikorskiego",1 850,https://www.otodom.pl/oferta/wysoki-standard-loft-klimatyzacja-ID3EHZC.html#6f9ee76a79,16.915247,52.391942
+13,"Poznañ, Rataje, ¯elazna",1 200,https://www.otodom.pl/oferta/nowe-mieszkanie-na-poddaszu-rataje-ID3EHZu.html#6f9ee76a79,17.000806,52.390362
+14,"Poznañ, Centrum, Centrum",1 600,https://www.otodom.pl/oferta/mieszkanie-50-m-poznan-ID3EHYs.html#6f9ee76a79,0,0
+15,"Poznañ, Nowe Miasto, Wiejska",1 450,https://www.otodom.pl/oferta/mieszkanie-47-m-poznan-ID3EHYk.html#6f9ee76a79,16.974751,52.421515
+16,"Poznañ, Wilda,  Przemys³owa",3 500,https://www.otodom.pl/oferta/kawalerka-z-balkonem-debowy-skwer-blisko-browaru-ID3DO5q.html#6f9ee76a79,16.918859,52.398172
+17,"Poznañ, Rataje,  Milczañska",1 300,https://www.otodom.pl/oferta/komfortowe-dwupoziomowe-mieszkanie-milczanska-ID3BQIg.html#6f9ee76a79,16.964752,52.393060
+18,"Poznañ, Grunwald, Galileusza",1 200,https://www.otodom.pl/oferta/jasna-duza-kawalerka-os-kopernika-ID3EHuo.html#6f9ee76a79,16.861852,52.385601
+19,"Poznañ, £azarz,  G³ogowska",1 250,https://www.otodom.pl/oferta/kawalerka-na-lazarzu-ID3EHoc.html#6f9ee76a79,16.895471,52.391492
+20,"Poznañ, Marcelin,  Marceliñska",1 190,https://www.otodom.pl/oferta/50-m-kw-2-pokojowe-mieszkanie-os-marcelin-ID3EGYs.html#6f9ee76a79,16.890359,52.404942
+21,"Poznañ, Wilda, Bielniki",1 190,https://www.otodom.pl/oferta/apartament-2-pok-wysoki-standard-riverpark-ID3Ezus.html#6f9ee76a79,16.935696,52.394625
+22,"Poznañ, Nowe Miasto, Zabrzañska",1 500,https://www.otodom.pl/oferta/dwa-pokoje-z-tarasem-i-ogrodem-na-polance-ID3EGXa.html#6f9ee76a79,16.958977,52.400211
+23,"Poznañ, Nowe Miasto, Lwa",1 850,https://www.otodom.pl/oferta/malta-ul-lwa-komfortowe-umeblowane-z-garazem-ID3EGU0.html#6f9ee76a79,16.985499,52.393734
+24,"Poznañ, Staro³êka, Polanka",1 350,https://www.otodom.pl/oferta/mieszkanie-50-m-poznan-ID3EGPS.html#6f9ee76a79,16.957741,52.399574
+25,"Poznañ, Centrum, Rolna",1 200,https://www.otodom.pl/oferta/mieszkanie-43-m-poznan-ID3EGPV.html#6f9ee76a79,16.916534,52.382676
+26,"Poznañ, Winogrady, Umultowska",3 250,https://www.otodom.pl/oferta/mieszkanie-43-m-poznan-ID3EGQ0.html#6f9ee76a79,16.935557,52.467947
+27,"Poznañ, Strzeszyn, Gombrowicza z gara¿em",2 200,https://www.otodom.pl/oferta/mieszkanie-46-m-poznan-ID3EGQ4.html#6f9ee76a79,0,0
+28,"Poznañ, Centrum,  Franciszka Ratajczaka",1 300,https://www.otodom.pl/oferta/nowy-lokal-na-kancelarie-ul-ratajczaka-sw-marcin-ID3CbeM.html#6f9ee76a79,0,0
+29,"Poznañ, Wilda, Czeremchowa",1 700,https://www.otodom.pl/oferta/dwa-pokoje-z-klimatyzacja-i-parkingiem-ID3EGGs.html#6f9ee76a79,16.896619,52.373993
+30,"Poznañ, Rataje,  Na Miasteczku",2 499,https://www.otodom.pl/oferta/mieszkanie-tarasy-warty-widok-standard-garaz-full-ID3vzAX.html#6f9ee76a79,16.949359,52.397146
+0,"Poznañ, Ogrody,  Janusza Meissnera",1 800,https://www.otodom.pl/oferta/2-pokojowy-apartament-do-wynajecia-na-osiedlu-now-ID3DqrG.html#5253930070,0,0
+1,"Poznañ,  Na Miasteczku 12",1 850,https://www.otodom.pl/oferta/poznan-tarasy-warty-ID3xkNR.html#5253930070,16.949322,52.397126
+2,"Poznañ, Naramowice, Naramowicka 217",1 300,https://www.otodom.pl/oferta/dwupojowe-naramowice-naramowicka-howell-ID3yhhx.html#5253930070,16.946249,52.452528
+3,"Poznañ, Naramowice, Kwarcowa",1 200,https://www.otodom.pl/oferta/niedroga-kawalerka-naramowice-ID3Ex16.html#5253930070,16.955361,52.470384
+4,"Poznañ, Grunwald,  Jeleniogórska 1/3E",1 300,https://www.otodom.pl/oferta/nowe-dwupokojowe-os-przylesie-marcelin-v-ID3E4Jq.html#5253930070,0,0
+5,"Poznañ, Centrum,  Strzelecka",2 300,https://www.otodom.pl/oferta/umeblowane-studio-w-centrum-niski-czynsz-parter-ID33T9G.html#5253930070,16.933662,52.403481
+6,"Poznañ, Œródka, Konarskiego",2 200,https://www.otodom.pl/oferta/umeblowane-3-niezalezne-pokoje-parking-ID3BPsA.html#5253930070,16.959692,52.410640
+7,"Poznañ, Centrum, Krañcowa",1 200,https://www.otodom.pl/oferta/nowe-mieszkanie-3pok-krancowa-ID3EGAI.html#5253930070,16.978139,52.412773
+8,"Poznañ, Je¿yce, Polna",1 300,https://www.otodom.pl/oferta/2-pokoje-meble-garderoba-garaz-nowy-blok-ID3EcFy.html#5253930070,16.896654,52.412926
+9,"Poznañ, Rataje,  Armii Krajowej",1 800,https://www.otodom.pl/oferta/os-armii-krajowej-3pok-niezalezne-blisko-tramwaj-ID3EGl6.html#5253930070,16.953599,52.378047
+10,"Poznañ, Grunwald,  Czeœnikowska 2",1 850,https://www.otodom.pl/oferta/3-pokojowe-mieszkanie-czesnikowska-2-bezposrednio-ID3lyvI.html#5253930070,16.874465,52.399419
+11,"Poznañ, Nowe Miasto, Os. Piastowskie",1 690,https://www.otodom.pl/oferta/mieszkanie-50-m-poznan-ID3EFOI.html#5253930070,0,0
+12,"Poznañ, Wilda, Antoniego Kosiñskiego",1 850,https://www.otodom.pl/oferta/kawalerka-22m2-kosinskiego-wilda-ID3EFLK.html#5253930070,0,0
+13,"Poznañ, Pi¹tkowo, Teofila Mateckiego",1 200,https://www.otodom.pl/oferta/mieszkanie-2-pokojowe-45m2-piatkowo-mateckiego-ID3EFKg.html#5253930070,0,0
+14,"Poznañ, Stare Miasto, Plac Wolnoœci",1 600,https://www.otodom.pl/oferta/kawalerka-centrum-stare-miasto-bezposrednio-ID3upHm.html#5253930070,0,0
+15,"Poznañ, Je¿yce,  Maksymiliana Jackowskiego",1 450,https://www.otodom.pl/oferta/stylowy-dwupokojowy-apartament-w-sercu-jezyc-ID3DkOU.html#5253930070,0,0
+16,"Poznañ, So³acz,  Micha³a Drzyma³y",3 500,https://www.otodom.pl/oferta/mieszkanie-40-m-poznan-ID3EFkI.html#5253930070,0,0
+17,"Poznañ, Je¿yce, M¹czna",1 300,https://www.otodom.pl/oferta/centrum-jezyce-mieszkanie-2-pokoje-po-remoncie-ID3EFiM.html#5253930070,16.908127,52.416525
+18,"Poznañ, Wilda,  Rolna",1 200,https://www.otodom.pl/oferta/unikalne-podwyzszony-standard-ul-rolna-poznan-ID3j8iS.html#5253930070,16.916534,52.382676
+19,"Poznañ, Osiedle Stefana Batorego",1 250,https://www.otodom.pl/oferta/mieszkanie-66-m-poznan-ID3EEQ0.html#5253930070,16.926342,52.456025
+20,"Poznañ, Osiedle Stefana Batorego",1 190,https://www.otodom.pl/oferta/mieszkanie-30-m-poznan-ID3EEQ8.html#5253930070,16.926342,52.456025
+21,"Poznañ, £azarz",1 190,https://www.otodom.pl/oferta/piekne-mieszkanie-2-duze-pokoje-osobna-kuchnia-ID3EEu8.html#5253930070,16.926342,52.456025
+22,"Poznañ, Grunwald,  Barwicka",1 500,https://www.otodom.pl/oferta/mieszkanie-46-m-poznan-ID3DVzy.html#5253930070,16.830972,52.410785
+23,"Poznañ, Centrum,  Bielniki",1 850,https://www.otodom.pl/oferta/mieszkanie-54-m-poznan-ID3Dtgk.html#5253930070,16.935696,52.394625
+24,"Poznañ, Rataje,  Katowicka",1 350,https://www.otodom.pl/oferta/mieszkanie-54-m-poznan-ID3De3a.html#5253930070,16.966465,52.395877
+25,"Poznañ, Umultowo,  Zygmunta Szweykowskiego",1 200,https://www.otodom.pl/oferta/mieszkanie-56-m-poznan-ID3DfSk.html#5253930070,0,0
+26,"Poznañ, Studniarskiego",3 250,https://www.otodom.pl/oferta/nowa-kawalerka-27-m2-miejsce-postojowe-ID3EEaI.html#5253930070,0,0
+27,"Poznañ, Winiary,  Pi¹tkowska",2 200,https://www.otodom.pl/oferta/nowoczesne-dwupokojowe-mieszkanie-do-wynajecia-ID3aagM.html#5253930070,16.914851,52.431771
+28,"Poznañ, Nowe Miasto,  Szczepankowo",1 300,https://www.otodom.pl/oferta/mieszkanie-80-m2-poznan-szczepankowo-ID3DnxV.html#5253930070,17.016652,52.359699
+29,"Poznañ, Œródka,  Cybiñska",1 700,https://www.otodom.pl/oferta/mieszkanie-z-hamakiem-na-srodce-57-m-ID3EDzm.html#5253930070,16.952200,52.411204
+30,"Poznañ,  Boles³awa Limanowskiego 20",2 499,https://www.otodom.pl/oferta/ladna-kawalerka-limanowskiego-lazarz-1350-ID3EDXG.html#5253930070,0,0
+0,Poznañ,1 800,https://www.otodom.pl/oferta/oryginalna-kawalerka-ID3E0q0.html#12848548aa,0,0
+1,"Poznañ, Podolany,  Strzeszyñska",1 850,https://www.otodom.pl/oferta/podolany-strzeszynska-po-remoncie-bezposrednio-ID313Qk.html#12848548aa,16.886569,52.452976
+2,"Poznañ, Grunwald, Franciszka Morawskiego",1 300,https://www.otodom.pl/oferta/ul-morawskiego-kawalerka-do-wynajecia-ID3DTJe.html#12848548aa,0,0
+3,"Poznañ, Centrum,  Maratoñska",1 200,https://www.otodom.pl/oferta/wyjatkowy-apartament-glamour-3-pok-maraton-top-ID3DsCI.html#12848548aa,16.931473,52.397862
+4,"Poznañ, Grunwald,  Józefa Sowiñskiego",1 300,https://www.otodom.pl/oferta/nowe-mieszkanie-wysoki-standard-wille-sowinskiego-ID3Eudy.html#12848548aa,0,0
+5,"Poznañ, £azarz,  Józefa Strusia",2 300,https://www.otodom.pl/oferta/stylowe-2-pokojowe-do-wynajecia-w-poznaniu-ID3AfZ9.html#12848548aa,0,0
+6,"Poznañ, osiedle Oœwiecenia",2 200,https://www.otodom.pl/oferta/wynajme-mieszkanie-42-m-kw-rataje-os-oswiecenia-ID3Ehf6.html#12848548aa,16.962806,52.389103
+7,"Poznañ, Grunwald,  Miêdzychodzka",1 200,https://www.otodom.pl/oferta/mieszkanie-2-pokoje-45-mkw-ul-miedzychodzka-ID3yXJR.html#12848548aa,16.877967,52.406492
+8,"Poznañ,  Hugona Ko³³¹taja",1 300,https://www.otodom.pl/oferta/do-wynajecia-2pokojowe-z-ogrodkiem-ID3EDJC.html#12848548aa,0,0
+9,"Poznañ,  Hugona Ko³³¹taja",1 800,https://www.otodom.pl/oferta/do-wynajecia-2-pokojowe-i-kawalerki-z-ogrodkiem-ID3EDF6.html#12848548aa,0,0
+10,"Poznañ,  Hugona Ko³³¹taja",1 850,https://www.otodom.pl/oferta/do-wynajecia-3-mieszkania-ul-kollataja-z-ogrodkiem-ID3EDzG.html#12848548aa,0,0
+11,"Poznañ, Pi¹tkowo,  Stefana Batorego",1 690,https://www.otodom.pl/oferta/2-pokojowe-mieszkanie-wysoki-standard-poznan-ID3EDx2.html#12848548aa,16.926342,52.456025
+12,"Poznañ, Malta, Os. Armii Krajowej",1 850,https://www.otodom.pl/oferta/mieszkanie-45-m-poznan-ID3EDv0.html#12848548aa,0,0
+13,"Poznañ, Stare Miasto, Towarowa",1 200,https://www.otodom.pl/oferta/mieszkanie-38-m-poznan-ID3EDv4.html#12848548aa,16.916261,52.404458
+14,"Poznañ, Topolowa",1 600,https://www.otodom.pl/oferta/mieszkanie-26-m-poznan-ID3EDwK.html#12848548aa,16.916261,52.404458
+15,"Poznañ, Wilczak 18",1 450,https://www.otodom.pl/oferta/mieszkanie-50-m-poznan-ID3EDwO.html#12848548aa,22.035229,53.163816
+16,"Poznañ, osiedle Batorego",3 500,https://www.otodom.pl/oferta/atrakcyjne-mieszkanie-batorego-ID3EDwS.html#12848548aa,16.926342,52.456025
+17,"Poznañ, B³a¿eja",1 300,https://www.otodom.pl/oferta/mieszkanie-53-m-poznan-ID3EDwC.html#12848548aa,16.926342,52.456025
+18,"Poznañ, Stare Miasto,  Maratoñska",1 200,https://www.otodom.pl/oferta/mieszkanie-49-m-poznan-ID3EDwG.html#12848548aa,0,0
+19,"Poznañ, Winogrady,  Pod Lipami",1 250,https://www.otodom.pl/oferta/mieszkanie-wynajem-poznan-winogrady-pod-lipami-ID3EDq4.html#12848548aa,16.944990,52.430450
+20,"Poznañ, Pi¹tkowo,  Boles³awa Chrobrego",1 190,https://www.otodom.pl/oferta/piatkowo-os-chrobrego-3-osobne-pok-560zl-za-osobe-ID3EDpG.html#12848548aa,16.907576,52.458652
+21,"Poznañ, Krañcowa",1 190,https://www.otodom.pl/oferta/2-pokojowy-apartament-z-widokiem-na-malte-ID3ED7G.html#12848548aa,16.907576,52.458652
+22,"Poznañ, Grunwald, Wyspiañskiego 26 City Park",1 500,https://www.otodom.pl/oferta/mieszkanie-82-m-poznan-ID3ED3y.html#12848548aa,0,0
+23,"Poznañ, Stare Miasto, Plac Bernardyñski",1 850,https://www.otodom.pl/oferta/nowy-apartament-w-ok-starego-miasta-bez-prowizji-ID3CoXq.html#12848548aa,0,0
+24,"Poznañ, Grunwald,  Grunwaldzka",1 350,https://www.otodom.pl/oferta/mieszkanie-2-pokojowe-grunwald-blisko-ump-ID3ECs4.html#12848548aa,16.869713,52.397643
+25,"Poznañ, Centrum, Topolowa",1 200,https://www.otodom.pl/oferta/mieszkanie-28-m-poznan-ID3ECok.html#12848548aa,16.922268,52.399757
+26,"Poznañ, Strzeszyn, Biskupiñska",3 250,https://www.otodom.pl/oferta/mieszkanie-27-m-poznan-ID3ECo4.html#12848548aa,16.848845,52.452228
+27,"Poznañ, Stare Miasto, wilczak",2 200,https://www.otodom.pl/oferta/mieszkanie-50-m-poznan-ID3ECo8.html#12848548aa,16.953032,52.429486
+28,"Poznañ, Œródka",1 300,https://www.otodom.pl/oferta/wyposazone-mieszkanie-blisko-ronda-srodka-ID3ECdG.html#12848548aa,16.953032,52.429486
+29,"Poznañ, Stare Miasto,  Franciszka Ratajczaka",1 700,https://www.otodom.pl/oferta/kawalerka-na-ratajczaka-ID3ECcU.html#12848548aa,0,0
+30,"Poznañ, Naramowice,  Naramowicka",2 499,https://www.otodom.pl/oferta/kawalerka-na-naramowicach-ID3ECaU.html#12848548aa,16.947931,52.439466
+0,"Poznañ, Centrum,  Maratoñska",1 800,https://www.otodom.pl/oferta/apartament-dwa-ogrodki-3-pokoje-maraton-top-ID3DsDe.html#a7963dcf86,16.931473,52.397862
+1,"Poznañ, Pi¹tkowo, Os. Batorego",1 850,https://www.otodom.pl/oferta/piatkowo-os-batorego-2-osobne-pokoje-od-zaraz-ID3yl1N.html#a7963dcf86,0,0
+2,"Poznañ, Rataje,  Stare ¯egrze 89b",1 300,https://www.otodom.pl/oferta/wynajme-stare-zegrze-1p-3pokoje-72-7m2-garaz-ID3DZXK.html#a7963dcf86,16.964766,52.383324
+3,"Poznañ, Naramowice,  B³a¿eja",1 200,https://www.otodom.pl/oferta/jasna-kawalerka-na-naramowicach-ID3xxAn.html#a7963dcf86,16.940683,52.458776
+4,"Poznañ, Ogrody,  Szamotulska",1 300,https://www.otodom.pl/oferta/mieszkanie-29-m-ogrody-ul-szamotulska-ID3EWjq.html#a7963dcf86,16.883017,52.411309
+5,"Poznañ, Dêbiec,  Wiklinowa 5",2 300,https://www.otodom.pl/oferta/2-pokoje-mieszkanie-w-pelni-umeblowane-parking-ID304aG.html#a7963dcf86,16.911232,52.368761
+6,"Poznañ, Wilda,  Partyzancka",2 200,https://www.otodom.pl/oferta/wynajme-bezposrednio-dwupokojowe-mieszkanie-54-m2-ID3EFuI.html#a7963dcf86,16.918598,52.382409
+7,"Poznañ, Centrum,  Przemys³owa 33",1 200,https://www.otodom.pl/oferta/nowe-umeblowane-studio-w-centrum-poznania-ID3CwXa.html#a7963dcf86,16.919999,52.396641
+8,"Poznañ,  gen. Tadeusza Kutrzeby",1 300,https://www.otodom.pl/oferta/apartament-studio-na-wynajem-kutrzeby-ID3imaU.html#a7963dcf86,0,0
+9,Poznañ,1 800,https://www.otodom.pl/oferta/wyjatkowe-wnetrze-na-poludniu-poznania-okazja-ID3zsFp.html#a7963dcf86,0,0
+10,"Poznañ, Centrum, Maratoñska",1 850,https://www.otodom.pl/oferta/komfortowy-apartament-w-scislym-centrum-okazja-ID3EBv8.html#a7963dcf86,16.931473,52.397862
+11,"Poznañ, Grunwald, Stanis³awa Wyspiañskiego",1 690,https://www.otodom.pl/oferta/apartament-w-city-park-wirtualny-spacer-3d-ID3EBv0.html#a7963dcf86,0,0
+12,"Poznañ, Grunwald, Marceliñska ATANER MARCELIN",1 850,https://www.otodom.pl/oferta/mieszkanie-52-m-poznan-ID3EBsQ.html#a7963dcf86,0,0
+13,"Poznañ, Winogrady,  S³owiañska",1 200,https://www.otodom.pl/oferta/mieszkanie-na-ul-slowianskiej-os-przyjazni-ID3EBqU.html#a7963dcf86,16.929541,52.430168
+14,"Poznañ, Grunwald,  Wojskowa",1 600,https://www.otodom.pl/oferta/wojskowa-apartament-na-i-pietrze-ID3EBfe.html#a7963dcf86,16.893099,52.402789
+15,"Poznañ, Sieradzka",1 450,https://www.otodom.pl/oferta/grunwald-sieradzka-ID3EBdu.html#a7963dcf86,16.893099,52.402789
+16,"Poznañ, Garbary,  Garbary",3 500,https://www.otodom.pl/oferta/luksusowy-apartament-ul-garbary-poznan-44m2-ID34xqA.html#a7963dcf86,16.935807,52.401014
+17,"Poznañ, Stare Miasto, Murawa",1 300,https://www.otodom.pl/oferta/pokoj-do-wynajecia-od-zaraz-winogrady-ID3EAV4.html#a7963dcf86,16.936611,52.428937
+18,"Poznañ, Je¿yce,  Koœcielna",1 200,https://www.otodom.pl/oferta/do-wynajecia-nowe-mieszkanie-jezyce-ul-koscielna-ID3tBe4.html#a7963dcf86,16.903287,52.413070
+19,"Poznañ, Grunwald,  Józefa Sowiñskiego",1 250,https://www.otodom.pl/oferta/nowe-mieszkanie-wysoki-standard-wille-sowinskiego-ID3Eudy.html#a7963dcf86,0,0
+20,"Poznañ, Nowe Miasto, Os.Lecha 124",1 190,https://www.otodom.pl/oferta/mieszkanie-dla-studentow-poznan-rataje-os-lecha-ID2Z3Jk.html#a7963dcf86,0,0
+21,"Poznañ, Rynek Je¿ycki, D¹browskiego",1 190,https://www.otodom.pl/oferta/jezyce-nowe-mieszkanie-w-kamienicy-ID3EAKY.html#a7963dcf86,0,0
+22,"Poznañ, Garbary, Za Cytadel¹",1 500,https://www.otodom.pl/oferta/mieszkanie-52-m-poznan-ID3EAKo.html#a7963dcf86,16.942577,52.424319
+23,"Poznañ, Garbary, Centrum",1 850,https://www.otodom.pl/oferta/mieszkanie-68-m-poznan-ID3EAKg.html#a7963dcf86,0,0
+24,"Poznañ, Rataje,  Na Miasteczku",1 350,https://www.otodom.pl/oferta/nowa-kawalerka-40m2-rondo-rataje-bezposrednio-ID32hwm.html#a7963dcf86,16.949359,52.397146
+25,"Poznañ, Malta",1 200,https://www.otodom.pl/oferta/mieszkanie-55-m-poznan-ID3EAEQ.html#a7963dcf86,16.949359,52.397146
+26,"Poznañ, Centrum",3 250,https://www.otodom.pl/oferta/mieszkanie-106-m-poznan-ID3EAEU.html#a7963dcf86,16.949359,52.397146
+27,"Poznañ, Górczyn, Hetmañska, G³ogowska",2 200,https://www.otodom.pl/oferta/3-pokoje-uklad-niezalezny-b-dobra-lokalizacja-ID3EAEI.html#a7963dcf86,0,0
+28,"Poznañ, Pi¹tkowo, Pi¹tkowska",1 300,https://www.otodom.pl/oferta/mieszkanie-34-m-poznan-ID3EAzm.html#a7963dcf86,16.914851,52.431771
+29,"Poznañ, Dêbiec, Œwierkowa",1 700,https://www.otodom.pl/oferta/mieszkanie-z-ogrodem-ID3EAv8.html#a7963dcf86,16.897517,52.371657
+30,"Poznañ, Nowe Miasto,  Katowicka",2 499,https://www.otodom.pl/oferta/mieszkanie-2pok-47m2-garaz-katowicka-bezposrednio-ID3EAuU.html#a7963dcf86,16.966465,52.395877
+0,"Poznañ, So³acz,  Micha³a Drzyma³y 12 B",1 800,https://www.otodom.pl/oferta/poznan-solacz-apartamenty-zielony-solacz-ID3AU71.html#c215fffd73,0,0
+1,"Poznañ, £awica, Barwicka",1 850,https://www.otodom.pl/oferta/lawicawysoki-standard2-pokojetylko-u-nas-ID3COj6.html#c215fffd73,16.830972,52.410785
+2,"Poznañ, Centrum,  Mieczys³awa Niedzia³kowskiego",1 300,https://www.otodom.pl/oferta/mieszkanie-dwupokojowe-w-apartamentowcu-ID3CWWm.html#c215fffd73,0,0
+3,"Poznañ, Pi¹tkowo,  Stefana Batorego",1 200,https://www.otodom.pl/oferta/kawalerka-z-tarasem-batorego-ataner-ID3kHqG.html#c215fffd73,16.926342,52.456025
+4,"Poznañ, Centrum,  Wenecjañska",1 300,https://www.otodom.pl/oferta/2-pokojowe-ul-wenecjanska-ID3voML.html#c215fffd73,16.940423,52.408728
+5,"Poznañ, Je¿yce,  Mylna 31 B",2 300,https://www.otodom.pl/oferta/centrum-jezyce-z-duzym-tarasem-miejsce-parkingowe-ID3c7EM.html#c215fffd73,0,0
+6,"Poznañ, Grunwald,  Jeleniogórska 1/3",2 200,https://www.otodom.pl/oferta/nowe-mieszkanie-2-pokoje-garaz-jeleniogorska-ID3BNS8.html#c215fffd73,16.858000,52.393600
+7,"Poznañ, £azarz,  Stanis³awa Knapowskiego",1 200,https://www.otodom.pl/oferta/kawalerka-przy-ul-glogowskiej-ID3EAju.html#c215fffd73,0,0
+8,"Poznañ, So³acz,  Wielkopolska",1 300,https://www.otodom.pl/oferta/wyjatkowe-mieszkanie-solacz-ogrodek-klimatyzacja-ID3EAio.html#c215fffd73,17.277348,52.229805
+9,"Poznañ, Grunwald,  Œcinawska",1 800,https://www.otodom.pl/oferta/kawalerka-poznan-grunwald-ID3EAgs.html#c215fffd73,16.843173,52.388149
+10,"Poznañ, Grunwald, Wojskowa 5",1 850,https://www.otodom.pl/oferta/grunwald-wojskowa5-lux-penthouse-150m2taras-garaz-ID3EAac.html#c215fffd73,16.892366,52.401402
+11,"Poznañ, Grunwald,  Œcinawska",1 690,https://www.otodom.pl/oferta/kawalerka-grunwald-junikowo-ID3EA7y.html#c215fffd73,16.843173,52.388149
+12,"Poznañ, Os. Czecha",1 850,https://www.otodom.pl/oferta/mieszkanie-48-m-poznan-ID3EA1C.html#c215fffd73,16.980854,52.386367
+13,"Poznañ, Winogrady,  Wichrowe Wzgórze",1 200,https://www.otodom.pl/oferta/mieszkanie-65-m2-z-ogrodkiem-po-remoncie-ID2Ajpu.html#c215fffd73,16.936625,52.439562
+14,"Poznañ, Centrum,  Mostowa",1 600,https://www.otodom.pl/oferta/trzypokojowe-centrum-ID3zHmD.html#c215fffd73,16.940417,52.403654
+15,"Poznañ, Nowe Miasto, abp. Walentego Dymka",1 450,https://www.otodom.pl/oferta/ladne-nowe-2-pok-garaz-dymka-rataje-ID3EzKc.html#c215fffd73,0,0
+16,"Poznañ, Wilda,  Mieczys³awa Niedzia³kowskiego",3 500,https://www.otodom.pl/oferta/nowe-mieszkanie-47-m2-2-pokoje-niedzialkowskiego-ID3C8cU.html#c215fffd73,0,0
+17,"Poznañ, Pi¹tkowo,  Kosmonautów",1 300,https://www.otodom.pl/oferta/3p-umeblowane-do-wynajmu-os-kosmonautow-poznan-ID39Bjs.html#c215fffd73,16.941566,52.440319
+18,"Poznañ, Je¿yce, Zwierzyniecka",1 200,https://www.otodom.pl/oferta/apartament-3-pok-pierwszy-najem-zwierzyniecka-ID3EzC8.html#c215fffd73,16.902147,52.408926
+19,Poznañ,1 250,https://www.otodom.pl/oferta/dwupokojowe-za-odstepne-po-kapitalnym-remoncie-ID3EzzV.html#c215fffd73,16.902147,52.408926
+20,"Poznañ, Wilda,  Ró¿ana",1 190,https://www.otodom.pl/oferta/nowe-2-pokojowe-balkon-garaz-centrum-zielen-ID3Ey44.html#c215fffd73,16.924323,52.397229
+21,"Poznañ, Grunwald,  Zdziechowska",1 190,https://www.otodom.pl/oferta/piekne-i-w-swietnej-lokalizacji-teren-zamkniety-ID3EzqQ.html#c215fffd73,16.879078,52.390164
+22,"Poznañ, Nowe Miasto,  Krañcowa",1 500,https://www.otodom.pl/oferta/wysoki-standard-nad-malta-ID3EzoM.html#c215fffd73,16.978139,52.412773
+23,"Poznañ, Klaudyny Potockiej",1 850,https://www.otodom.pl/oferta/3-niezalezne-pokoje-2012-winda-ID3EznC.html#c215fffd73,16.896479,52.391162
+24,"Poznañ, Górna Wilda",1 350,https://www.otodom.pl/oferta/mieszkanie-w-centrum-poznania-ID3BAGQ.html#c215fffd73,16.922038,52.384256
+25,"Poznañ, Wilda, Kosiñskiego",1 200,https://www.otodom.pl/oferta/mieszkanie-47-m-poznan-ID3EyUo.html#c215fffd73,16.912450,52.389496
+26,"Poznañ, Pi¹tkowo,  Ludwika Braille'a",3 250,https://www.otodom.pl/oferta/komfortowe-mieszkanie-2-pokoje-44-m2-piatkowo-ID3DksU.html#c215fffd73,0,0
+27,"Poznañ, Pi¹tkowo,  W³adys³awa £okietka",2 200,https://www.otodom.pl/oferta/mieszkanie-77-m-poznan-ID3Ey1e.html#c215fffd73,16.943105,52.450564
+28,"Poznañ, Nowe Miasto, Katowicka oddzielna kuchnia",1 300,https://www.otodom.pl/oferta/mieszkanie-32-m-poznan-ID3Ex2I.html#c215fffd73,0,0
+29,"Poznañ, Je¿yce, Koœcielna",1 700,https://www.otodom.pl/oferta/mieszkanie-44-m-poznan-ID3Ex2M.html#c215fffd73,16.903287,52.413070
+30,"Poznañ, Centrum, Kutrzeby",2 499,https://www.otodom.pl/oferta/mieszkanie-53-m-poznan-ID3Ex2A.html#c215fffd73,16.931176,52.416713
+0,"Poznañ, Centrum, Garbary",1 800,https://www.otodom.pl/oferta/doskonale-mieszkanie-43-m2-w-scislym-centrum-ID2jNM9.html#43f57e1442,16.935807,52.401014
+1,"Poznañ, Pi¹tkowo,  Pi¹tkowska 214",1 850,https://www.otodom.pl/oferta/eleganckie-mieszkanie-ul-piatkowska-piatkowo-ID3AeVT.html#43f57e1442,16.912689,52.441477
+2,"Poznañ, Wilda, Rolna 31",1 300,https://www.otodom.pl/oferta/mieszkanie-41-m2-poznan-wilda-ul-rolna-ID3DpBi.html#43f57e1442,16.915958,52.381127
+3,"Poznañ, Nowe Miasto,  Krañcowa",1 200,https://www.otodom.pl/oferta/nowa-kawalwerka-29-2-m2-ul-krancowa-ID3DZl6.html#43f57e1442,16.978139,52.412773
+4,"Poznañ, Centrum, Libelta 5",1 300,https://www.otodom.pl/oferta/mieszkanie-2-pokoje-oddz-kuchnia-centrum-libelta-ID3DueQ.html#43f57e1442,16.922991,52.410600
+5,"Poznañ, Maratoñska 3b",2 300,https://www.otodom.pl/oferta/2-pokojowe-ul-maratonska-ID3x3eP.html#43f57e1442,16.919400,52.345659
+6,"Poznañ,  Zwierzyniecka",2 200,https://www.otodom.pl/oferta/polecam-nowe-3-pokojowe-mieszkanie-na-os-zajezdnia-ID3Dx6s.html#43f57e1442,16.902147,52.408926
+7,"Poznañ, Wilda, Przemys³owa",1 200,https://www.otodom.pl/oferta/mieszkanie-28-m-poznan-ID3Ex2s.html#43f57e1442,16.918859,52.398172
+8,"Poznañ, Centrum, Towarowa",1 300,https://www.otodom.pl/oferta/mieszkanie-53-m-poznan-ID3EvYk.html#43f57e1442,16.916261,52.404458
+9,"Poznañ, Wilda, Centrum NOWE Osobna Kuchnia",1 800,https://www.otodom.pl/oferta/mieszkanie-46-m-poznan-ID3EvQ8.html#43f57e1442,0,0
+10,"Poznañ, Wilda,  Pami¹tkowa",1 850,https://www.otodom.pl/oferta/apartament-59m2-wysoki-standard-wilda-ID38Dd0.html#43f57e1442,16.914981,52.386929
+11,"Poznañ, Winogrady,  Hawelañska",1 690,https://www.otodom.pl/oferta/kawalerka-ul-hawelanska-27m2-miejsce-garazowe-ID2TUjX.html#43f57e1442,16.951015,52.435960
+12,"Poznañ, Stare Miasto,  Karpia",1 850,https://www.otodom.pl/oferta/mieszkanie-40m2-kawalerka-z-oddzielna-sypialnia-ID34WAs.html#43f57e1442,16.949781,52.445020
+13,"Poznañ, Stare Miasto,  Szkolna",1 200,https://www.otodom.pl/oferta/stary-rynek-mieszkanie-110m2-ID3EvyM.html#43f57e1442,16.932071,52.406359
+14,"Poznañ, Rataje,  Katowicka",1 600,https://www.otodom.pl/oferta/bezposrednio-kawalerka-z-basenem-ID3Dka0.html#43f57e1442,16.966465,52.395877
+15,"Poznañ,  27 Grudnia",1 450,https://www.otodom.pl/oferta/bez-prowizji-od-czerwca-centrum-27-grudnia-cicha-ID3DSFO.html#43f57e1442,16.924249,52.408145
+16,"Poznañ, Grunwald,  U³añska",3 500,https://www.otodom.pl/oferta/os-ulanskie-zielona-okolica-city-park-centrum-ID3Evf2.html#43f57e1442,16.895864,52.401681
+17,"Poznañ, £azarz, G£OGOWSKA",1 300,https://www.otodom.pl/oferta/mieszkanie-25-m-poznan-ID3EwUY.html#43f57e1442,16.895471,52.391492
+18,"Poznañ, Rataje,  Romana Maya",1 200,https://www.otodom.pl/oferta/rataje-kawalerka-do-wynajecia-za-1100-zl-ID3xwTp.html#43f57e1442,0,0
+19,"Poznañ, Grunwald, Œwiebodziñska",1 250,https://www.otodom.pl/oferta/grunwald-ladne-dwa-pokoje-z-tarasem-parter-wynajme-ID3EwvU.html#43f57e1442,16.853006,52.387063
+20,"Poznañ, Podolany,  Edwarda Raczyñskiego",1 190,https://www.otodom.pl/oferta/podolany-3-pokoje-ID3CDq8.html#43f57e1442,0,0
+21,"Poznañ, Stare Miasto,  Za Bramk¹",1 190,https://www.otodom.pl/oferta/przytulna-kawalerka-w-centrum-poznania-ID3ytF1.html#43f57e1442,16.936106,52.405006
+22,"Poznañ, Je¿yce",1 500,https://www.otodom.pl/oferta/mala-kawalerka-poddasze-13-m2-ul-staszica-550-zl-ID3Ewhm.html#43f57e1442,16.936106,52.405006
+23,"Poznañ, Grunwald,  Ognik",1 850,https://www.otodom.pl/oferta/dwupokojowe-mieszkanie-ul-ognik-od-czerwca-br-ID3EwgE.html#43f57e1442,16.868912,52.405724
+24,"Poznañ, Centrum, Kazimierza Wielkiego",1 350,https://www.otodom.pl/oferta/centrum-galileo-apartament-taras-garaz-wynajme-ID3zoX5.html#43f57e1442,16.937498,52.401601
+25,"Poznañ, Grunwald, G³ogowska 70",1 200,https://www.otodom.pl/oferta/kawalerka-1os-1050zl-ze-wszystkimi-oplatami-ID3Djs8.html#43f57e1442,16.900077,52.395642
+26,"Poznañ, Je¿yce,  Zwierzyniecka 32",3 250,https://www.otodom.pl/oferta/poznan-jezyce-zajezdnia-zwierzyniecka-32-ID3Djr2.html#43f57e1442,17.089163,52.231422
+27,"Poznañ, Wilda,  Rolna 39",2 200,https://www.otodom.pl/oferta/zamieszkaj-od-zaraz-na-wildzie-poznan-rolna-39-ID3DOag.html#43f57e1442,16.915291,52.380208
+28,"Poznañ,  Rolna",1 300,https://www.otodom.pl/oferta/mieszkanie-poznan-ul-rolna-ID2Rogd.html#43f57e1442,16.916534,52.382676
+29,"Poznañ, Staro³êka,  œw. Antoniego",1 700,https://www.otodom.pl/oferta/klimatyczne-mieszkanie-na-poddaszu-poznan-rataje-ID3ASw9.html#43f57e1442,0,0
+30,"Poznañ, Je¿yce,  Mylna 31 B",2 499,https://www.otodom.pl/oferta/centrum-jezyce-z-duzym-tarasem-miejsce-parkingowe-ID3c7EM.html#43f57e1442,0,0
+0,"Poznañ, Winogrady,  Boles³awa Œmia³ego",1 800,https://www.otodom.pl/oferta/nowe-dwupokojowe-wysoki-standard-ID3jJF6.html#8ba41165f9,16.924379,52.452290
+1,"Poznañ, Naramowice,  Sielawy",1 850,https://www.otodom.pl/oferta/mieszkanie-2-pokojowe-naramowice-ID2RQBR.html#8ba41165f9,16.947878,52.445985
+2,"Poznañ, Rataje, Rataje, £acina, Polanka, Milczañska,Katowicka",1 300,https://www.otodom.pl/oferta/po-remoncie-przestronna-kawalerka-35-8m-kw-ID3zOV3.html#8ba41165f9,0,0
+3,"Poznañ, Wilda, Rolna",1 200,https://www.otodom.pl/oferta/komfortowe-mieszkanie-z-ogrodkiem-i-garazem-wilda-ID3EeRi.html#8ba41165f9,16.916534,52.382676
+4,"Poznañ,  Milczañska",1 300,https://www.otodom.pl/oferta/mieszkanie-na-wynajem-milczanska-ID3EWXe.html#8ba41165f9,16.964752,52.393060
+5,"Poznañ, Grunwald, G³ogowska 70",2 300,https://www.otodom.pl/oferta/kawalerka-1os-1050zl-ze-wszystkimi-oplatami-ID3Djs8.html#8ba41165f9,16.900077,52.395642
+6,"Poznañ, Winogrady,  Pod Lipami",2 200,https://www.otodom.pl/oferta/przestronne-wyremontowane-idealne-dla-rodziny-65m2-ID3EukU.html#8ba41165f9,16.944990,52.430450
+7,"Poznañ, Je¿yce,  Ikara",1 200,https://www.otodom.pl/oferta/kawalerka-dla-pary-ID3Euli.html#8ba41165f9,16.855087,52.422677
+8,"Poznañ, Centrum, ul marratonska",1 300,https://www.otodom.pl/oferta/centrum-na-prestizowym-osiedlu-maraton-gardens-ID39O76.html#8ba41165f9,0,0
+9,"Poznañ, Winogrady,  Pod Lipami",1 800,https://www.otodom.pl/oferta/przestronne-wyremontowane-idealne-dla-rodziny-65m2-ID3EukU.html#8ba41165f9,16.944990,52.430450
+10,"Poznañ, £azarz,  Józefa Strusia",1 850,https://www.otodom.pl/oferta/stylowe-2-pokojowe-do-wynajecia-w-poznaniu-ID3AfZ9.html#8ba41165f9,0,0
+11,"Poznañ, Podolany,  Strzeszyñska",1 690,https://www.otodom.pl/oferta/wynajme-mieszkanie-kawalerke-wysoki-standard-ID2Ygao.html#8ba41165f9,16.886569,52.452976
+12,"Poznañ, Garbary 95",1 850,https://www.otodom.pl/oferta/sloneczne-w-centrum-miasta-3-pokoje-garbary-95-ID3BVCY.html#8ba41165f9,19.375108,51.954771
+13,"Poznañ, Stare Miasto",1 200,https://www.otodom.pl/oferta/do-wynajecia-nowe-mieszkanie-w-poznaniu-ID3e6tO.html#8ba41165f9,17.406394,52.089386
+14,"Poznañ, Je¿yce, Jackowskiego 47",1 600,https://www.otodom.pl/oferta/nowe-mieszkanie-wysoki-standard-poznan-jezyce-ID3Eu9e.html#8ba41165f9,16.893663,52.410769
+15,"Poznañ, Centrum,  Kazimierza Wielkiego",1 450,https://www.otodom.pl/oferta/nowoczesny-apartament-w-centrum-poznania-ID3Eu9m.html#8ba41165f9,16.937498,52.401601
+16,"Poznañ, Je¿yce,  Koœcielna",3 500,https://www.otodom.pl/oferta/mieszkanie-3-pokoje-70m2-koscielna-wyposazone-ID3Eu0I.html#8ba41165f9,16.903287,52.413070
+17,"Poznañ, Grunwald,  Jugos³owiañska",1 300,https://www.otodom.pl/oferta/ladne-po-generalnym-remoncie-ul-jugoslowianska-ID2R2G3.html#8ba41165f9,16.862896,52.394792
+18,"Poznañ, Pi¹tkowo,  Stefana Batorego",1 200,https://www.otodom.pl/oferta/bezposrednio-ladne-3-pokojowe-mieszkanie-batorego-ID3EtUc.html#8ba41165f9,16.926342,52.456025
+19,"Poznañ, Grunwald,  Jeleniogórska 1/3",1 250,https://www.otodom.pl/oferta/nowe-mieszkanie-2-pokoje-garaz-jeleniogorska-ID3BNS8.html#8ba41165f9,16.858000,52.393600
+20,"Poznañ, Winiary,  Wilczak/ Ul.Serbska",1 190,https://www.otodom.pl/oferta/mieszkanie-z-widokiem-na-warte-ID3l6rC.html#8ba41165f9,0,0
+21,"Poznañ, Œwiêty Roch, Garncarska",1 190,https://www.otodom.pl/oferta/mieszkanie-38-m-poznan-ID3Etpy.html#8ba41165f9,0,0
+22,"Poznañ, Naramowice,  Jaœminowe",1 500,https://www.otodom.pl/oferta/wynajem-32m-wysoki-stand-ogrodek-m-parking-karpia-ID3B1G7.html#8ba41165f9,0,0
+23,"Poznañ, Winogrady,  Hawelañska",1 850,https://www.otodom.pl/oferta/3-pokoje-56-19-m2-hawelanska-winogrady-nowe-ID3Etdm.html#8ba41165f9,16.951015,52.435960
+24,"Poznañ, Stare Miasto,  Pó³wiejska",1 350,https://www.otodom.pl/oferta/3-pokoje-70m2-polwiejska-scisle-centrum-ID3Et8s.html#8ba41165f9,16.929949,52.403016
+25,"Poznañ, Rataje,  Czecha",1 200,https://www.otodom.pl/oferta/rataje-os-czecha-3-osobne-umeblowane-od-lipca-ID3EsKg.html#8ba41165f9,16.980854,52.386367
+26,"Poznañ, Grunwald,  Wo³owska",3 250,https://www.otodom.pl/oferta/kawalerka-na-fabianowie-przy-wolynskiej-dla-pana-ID3Dumk.html#8ba41165f9,16.843503,52.369998
+27,"Poznañ, Centrum,  Strza³owa 3",2 200,https://www.otodom.pl/oferta/kawalerka-w-zrewitalizowanej-kamienicy-ID3Esgg.html#8ba41165f9,16.931817,52.403302
+28,Poznañ,1 300,https://www.otodom.pl/oferta/centrum-kawalerka-na-wynajem-ID3EsdG.html#8ba41165f9,16.931817,52.403302
+29,"Poznañ, Grunwald, Józefa Chociszewskiego",1 700,https://www.otodom.pl/oferta/2-pokoje-i-kuchnia-niezalezne-chociszewskiego-ID3Esck.html#8ba41165f9,0,0
+30,"Poznañ, Grunwald,  Grunwaldzka 280",2 499,https://www.otodom.pl/oferta/wynajme-ladna-kawalerke-ID2Hfo2.html#8ba41165f9,16.844348,52.386405
+0,"Poznañ, Wilda, Maratoñska",1 800,https://www.otodom.pl/oferta/luksusowy-apartament-na-wildzie-ID3CTsU.html#ebe4549055,16.931473,52.397862
+1,"Poznañ, Wilda, Dolna Wilda",1 850,https://www.otodom.pl/oferta/komfortowe-3-pokojowe-mieszkanie-na-wildzie-ID3E5Kc.html#ebe4549055,16.922038,52.384256
+2,"Poznañ, Je¿yce,  Koœcielna",1 300,https://www.otodom.pl/oferta/kawalerka-przy-koscielnej-ID3DZ8E.html#ebe4549055,16.903287,52.413070
+3,"Poznañ, £azarz,  Antoniego Ma³eckiego",1 200,https://www.otodom.pl/oferta/atrakcyjna-kawalerka-dla-dwojga-w-poznaniu-ID3zRxZ.html#ebe4549055,0,0
+4,"Poznañ, Grunwald,  Promienista",1 300,https://www.otodom.pl/oferta/piekne-mieszkanie-2-pok-w-willi-miejskiej-grunwald-ID3ESLK.html#ebe4549055,16.872698,52.389701
+5,"Poznañ, Górna Wilda,  Rolna",2 300,https://www.otodom.pl/oferta/mieszkanie-2-pok-49m2-po-remoncie-brak-czynszu-ID3DExO.html#ebe4549055,16.916534,52.382676
+6,"Poznañ, Grunwald, Brzask Miêdzychodzka Grunwaldzka",2 200,https://www.otodom.pl/oferta/zadbane-2pok-mieszkanie-z-balkonem-zam-osiedle-ID3BGv8.html#ebe4549055,0,0
+7,"Poznañ, Pi¹tkowo",1 200,https://www.otodom.pl/oferta/wolne-od-1-sierpnia-ID3Erm8.html#ebe4549055,0,0
+8,"Poznañ,  Stefana Czarnieckiego 6",1 300,https://www.otodom.pl/oferta/nowe-poznan-2-pok-bez-prowizji-ID3EqIs.html#ebe4549055,0,0
+9,"Poznañ, Wilda,  Robocza",1 800,https://www.otodom.pl/oferta/kawalerka-do-wynajecia-debowy-skwer-wilda-centrum-ID3jbTs.html#ebe4549055,16.914571,52.392661
+10,"Poznañ, Marcelin, ul Marceliñska",1 850,https://www.otodom.pl/oferta/mieszkanie-ataner-50-m2-ID2E7Y0.html#ebe4549055,0,0
+11,"Poznañ, Górna Wilda,  Rolna",1 690,https://www.otodom.pl/oferta/mieszkanie-2-pok-49m2-po-remoncie-brak-czynszu-ID3DExO.html#ebe4549055,16.916534,52.382676
+12,"Poznañ, Grunwald, Marceliñska",1 850,https://www.otodom.pl/oferta/nowe-wygodne-wyposazone-badz-pierwszym-najemca-ID3Eqk4.html#ebe4549055,16.890359,52.404942
+13,"Poznañ, Centrum,  Strzelecka",1 200,https://www.otodom.pl/oferta/umeblowane-studio-w-centrum-niski-czynsz-parter-ID33T9G.html#ebe4549055,16.933662,52.403481
+14,"Poznañ, Naramowice, Naramowicka 179",1 600,https://www.otodom.pl/oferta/mieszkanie-65-m2-do-wynajecia-od-zaraz-jasna-rola-ID3DE8g.html#ebe4549055,16.946528,52.449420
+15,"Poznañ, Pi¹tkowo,  Boles³awa Œmia³ego",1 450,https://www.otodom.pl/oferta/boleslawa-smialego-3-pokoje-63m2-piatkowo-ID3Eq6c.html#ebe4549055,16.924379,52.452290
+16,"Poznañ, Winogrady,  Pod Lipami",3 500,https://www.otodom.pl/oferta/mieszkanie-3-pokoje-do-wynajecia-okazja-ID2XxbH.html#ebe4549055,16.944990,52.430450
+17,"Poznañ,  Stefana Batorego/ul. Henryka Opieñskiego",1 300,https://www.otodom.pl/oferta/bezposrednio-wynajme-bez-posrednikow-ID2MwhH.html#ebe4549055,0,0
+18,"Poznañ, Pi¹tkowo, stefana batorego/Henryka Opieñskiego",1 200,https://www.otodom.pl/oferta/st-batorego-opienskiego-2-bezposrednio-ID3eMkO.html#ebe4549055,0,0
+19,"Poznañ, Grunwald,  Grunwaldzka 69",1 250,https://www.otodom.pl/oferta/nowe-designerskie-studio-na-grunwaldzie-od-zaraz-ID3yw9Z.html#ebe4549055,16.879637,52.400117
+20,"Poznañ, Je¿yce, Galla Anonima",1 190,https://www.otodom.pl/oferta/2-pokoje-i-kuchnia-niezalezny-uklad-jezyce-galla-ID3EpC0.html#ebe4549055,16.896793,52.413224
+21,"Poznañ, Pi¹tkowo, Stró¿yñskiego 13",1 190,https://www.otodom.pl/oferta/piatkowo-strozynskiego-13-ID3D9Cg.html#ebe4549055,16.903802,52.455528
+22,"Poznañ, Stare Miasto, Za Cytadel¹",1 500,https://www.otodom.pl/oferta/dwupokojowe-w-apartamentowcu-ul-za-cytadela-1850-ID3Epfy.html#ebe4549055,16.942577,52.424319
+23,"Poznañ, Rataje, Bohaterów II Wojny Œwiatowej",1 850,https://www.otodom.pl/oferta/mieszkanie-48-m-poznan-ID3Epa4.html#ebe4549055,16.949536,52.383376
+24,"Poznañ, Os. Powstañ Narodowych",1 350,https://www.otodom.pl/oferta/mieszkanie-48-m-poznan-ID3Epa0.html#ebe4549055,16.956645,52.389349
+25,"Poznañ, Pi¹tkowo,  Zygmunta Szweykowskiego",1 200,https://www.otodom.pl/oferta/do-wynajecia-mieszkanie-2-pokoje-rozany-potok-ID3zprp.html#ebe4549055,0,0
+26,"Poznañ, Rataje,  Rzeczypospolitej",3 250,https://www.otodom.pl/oferta/os-rzeczypospolitej-2-pokojowe-mieszkanie-ID3EoNi.html#ebe4549055,16.948400,52.387819
+27,"Poznañ, Stare Miasto, Aleja Niepodleg³oœci",2 200,https://www.otodom.pl/oferta/piekne-mieszkanie-w-dogodnej-lokalizacji-ID3Eoxu.html#ebe4549055,0,0
+28,"Poznañ, So³acz,  Urbanowska",1 300,https://www.otodom.pl/oferta/ul-urbanowska-2-pokojowe-mieszkanie-ID3Eop2.html#ebe4549055,16.913946,52.422767
+29,"Poznañ, Wilda,  Saperska",1 700,https://www.otodom.pl/oferta/wynajme-2-pokojowe-mieszkanie-50m2-ul-saperska-ID3DMdG.html#ebe4549055,16.916691,52.376964
+30,"Poznañ, Rataje,  Powstañ Naradowych",2 499,https://www.otodom.pl/oferta/os-powstan-narodowych-kawalerka-do-wynajecia-ID3En6E.html#ebe4549055,0,0
+0,"Poznañ,  Dezyderego Ch³apowskiego",1 800,https://www.otodom.pl/oferta/apartament-lux-38m2-z-ogrodkiem-30m2-gratis-1-mc-ID3y6t1.html#2c9b8a1245,0,0
+1,"Poznañ, Je¿yce, A. Mickiewicza 18a",1 850,https://www.otodom.pl/oferta/kawalerka-dwupokojowa-wysoki-standard-jezyce-cen-ID3xG31.html#2c9b8a1245,0,0
+2,"Poznañ, Stare Miasto",1 300,https://www.otodom.pl/oferta/apartament-4-pokoje-2-lazienki-2-tarasy-centrum-ID3CUL2.html#2c9b8a1245,17.406394,52.089386
+3,"Poznañ, Wilda,  Przemys³owa",1 200,https://www.otodom.pl/oferta/kawalerka-z-balkonem-debowy-skwer-blisko-browaru-ID3DO5q.html#2c9b8a1245,16.918859,52.398172
+4,"Poznañ, Maratoñska 3b",1 300,https://www.otodom.pl/oferta/2-pokojowe-ul-maratonska-ID3x3eP.html#2c9b8a1245,16.919400,52.345659
+5,"Poznañ, Grunwald,  Miêdzychodzka",2 300,https://www.otodom.pl/oferta/mieszkanie-2-pokoje-45-mkw-ul-miedzychodzka-ID3yXJR.html#2c9b8a1245,16.877967,52.406492
+6,"Poznañ, Bielniki",2 200,https://www.otodom.pl/oferta/piekny-apartament-w-centrum-ID3DMB2.html#2c9b8a1245,16.877967,52.406492
+7,"Poznañ, Winogrady, Na  Murawie",1 200,https://www.otodom.pl/oferta/ul-na-murawie-2-pokojowe-mieszkanie-ID3En4v.html#2c9b8a1245,16.934765,52.427841
+8,"Poznañ, Stare Miasto, Na Miasteczku",1 300,https://www.otodom.pl/oferta/przestronne-mieszkanie-dwa-balkony-centrum-ID3AF9p.html#2c9b8a1245,16.949359,52.397146
+9,"Poznañ, Raszyn, Promienista",1 800,https://www.otodom.pl/oferta/mieszkanie-2-pok-balkon-umeblowane-ID3DRv4.html#2c9b8a1245,16.872698,52.389701
+10,"Poznañ, Stare Miasto, Bó¿nicza",1 850,https://www.otodom.pl/oferta/poznan-centrum-ul-boznicza-2-pok-z-loggia-ID3C0Uc.html#2c9b8a1245,16.935583,52.412687
+11,"Poznañ, Winogrady,  Pi¹tkowska",1 690,https://www.otodom.pl/oferta/poznan-winogrady-solacz-winiary-3-pokoje-wynajem-ID3EmY0.html#2c9b8a1245,16.914851,52.431771
+12,"Poznañ, So³acz, Szyd³owska",1 850,https://www.otodom.pl/oferta/mieszkanie-28-m-poznan-ID3EmNG.html#2c9b8a1245,16.916154,52.426770
+13,"Poznañ, Wilda, Przemys³owa",1 200,https://www.otodom.pl/oferta/mieszkanie-28-m-poznan-ID3EmMA.html#2c9b8a1245,16.918859,52.398172
+14,"Poznañ, Wilczy M³yn, Wilczy M³yn",1 600,https://www.otodom.pl/oferta/mieszkanie-29-m-poznan-ID3EmMc.html#2c9b8a1245,0,0
+15,"Poznañ, Wilczy M³yn, Wilczy M³yn",1 450,https://www.otodom.pl/oferta/mieszkanie-28-m-poznan-ID3EmMg.html#2c9b8a1245,0,0
+16,"Poznañ, Je¿yce, Szczepanowskiego",3 500,https://www.otodom.pl/oferta/mieszkanie-28-m-poznan-ID3EmMk.html#2c9b8a1245,16.896953,52.417980
+17,"Poznañ, Centrum, Wroniecka",1 300,https://www.otodom.pl/oferta/mieszkanie-65-m-poznan-ID3EmK4.html#2c9b8a1245,16.934372,52.410506
+18,"Poznañ,  Zwierzyniecka",1 200,https://www.otodom.pl/oferta/polecam-nowe-3-pokojowe-mieszkanie-na-os-zajezdnia-ID3Dx6s.html#2c9b8a1245,16.902147,52.408926
+19,"Poznañ, Antoninek, Ludmi³y",1 250,https://www.otodom.pl/oferta/poznan-antoninek-bez-prowizji-ID3DzYo.html#2c9b8a1245,17.003640,52.407079
+20,"Poznañ, So³acz, Wojska Polskiego",1 190,https://www.otodom.pl/oferta/mieszkanie-49-m-poznan-ID3ElYs.html#2c9b8a1245,16.909080,52.423983
+21,"Poznañ, Nowe Miasto, Bohaterów II Wojny Œwiatowej",1 190,https://www.otodom.pl/oferta/mieszkanie-50-m-poznan-ID3ElpK.html#2c9b8a1245,16.949536,52.383376
+22,"Poznañ, Wilda, Ró¿ana",1 500,https://www.otodom.pl/oferta/mieszkanie-35-m-poznan-ID3Elpm.html#2c9b8a1245,16.924323,52.397229
+23,"Poznañ, Naramowice,  Karpia",1 850,https://www.otodom.pl/oferta/47-5m2-2-pokoje-poznan-ul-karpia-ID3DcYg.html#2c9b8a1245,16.949781,52.445020
+24,"Poznañ, Wilda, masterm 2016",1 350,https://www.otodom.pl/oferta/mieszkanie-dwupokojowe-40-m-kw-ID3El5O.html#2c9b8a1245,0,0
+25,"Poznañ, Dolna Wilda,  Rolna",1 200,https://www.otodom.pl/oferta/mieszkanie-na-wynajem-poznan-wilda-ul-rolna-ID3EkUU.html#2c9b8a1245,16.916534,52.382676
+26,"Poznañ, Dolna Wilda, Rolna",3 250,https://www.otodom.pl/oferta/mieszkanie-na-wynajem-poznan-wilda-ul-rolna-ID3EkRG.html#2c9b8a1245,16.916534,52.382676
+27,"Poznañ, Stare Miasto,  Boranta",2 200,https://www.otodom.pl/oferta/mieszkanie-3-pokoje-wysoki-standard-naramowice-ID3BGDO.html#2c9b8a1245,16.951266,52.456735
+28,"Poznañ, Dolna Wilda, G³êboka",1 300,https://www.otodom.pl/oferta/wynajme-mieszkanie-ID3CxFy.html#2c9b8a1245,16.925576,52.396595
+29,"Poznañ, Podolany, Buska 23",1 700,https://www.otodom.pl/oferta/poznan-buska-23-mieszkanie-63-20-m-kw-3-pokoje-ID3yZc7.html#2c9b8a1245,16.888543,52.447643
+30,"Poznañ, Je¿yce",2 499,https://www.otodom.pl/oferta/2-pokojowe-mieszkanie-na-jezycach-do-wynajecia-ID3Dz2Y.html#2c9b8a1245,16.888543,52.447643
+0,"Poznañ, Rataje,  Milczañska",1 800,https://www.otodom.pl/oferta/komfortowe-dwupoziomowe-mieszkanie-milczanska-ID3BQIg.html#6acee1bc7d,16.964752,52.393060
+1,"Poznañ, Wilda, Bielniki",1 850,https://www.otodom.pl/oferta/apartament-2-pok-wysoki-standard-riverpark-ID3Ezus.html#6acee1bc7d,16.935696,52.394625
+2,"Poznañ, Centrum,  Franciszka Ratajczaka",1 300,https://www.otodom.pl/oferta/nowy-lokal-na-kancelarie-ul-ratajczaka-sw-marcin-ID3CbeM.html#6acee1bc7d,0,0
+3,"Poznañ, Rataje,  Na Miasteczku",1 200,https://www.otodom.pl/oferta/mieszkanie-tarasy-warty-widok-standard-garaz-full-ID3vzAX.html#6acee1bc7d,16.949359,52.397146
+4,"Poznañ, Dolna Wilda,  Rolna 41",1 300,https://www.otodom.pl/oferta/nowe-mieszkanie-wysoki-standard-ul-rolna-ID3EQ8A.html#6acee1bc7d,16.915292,52.380135
+5,"Poznañ, Centrum,  Mostowa",2 300,https://www.otodom.pl/oferta/trzypokojowe-centrum-ID3zHmD.html#6acee1bc7d,16.940417,52.403654
+6,"Poznañ, Nowe Miasto, Katowicka Osobna Kuchnia",2 200,https://www.otodom.pl/oferta/mieszkanie-56-m-poznan-ID3DlZy.html#6acee1bc7d,0,0
+7,"Poznañ, Grunwald, Jugos³owiañska",1 200,https://www.otodom.pl/oferta/wynajme-atrakcyjna-kawalerke-35-m2-na-grunwaldzie-ID3r5h2.html#6acee1bc7d,16.862896,52.394792
+8,"Poznañ, Komandoria,  Krañcowa",1 300,https://www.otodom.pl/oferta/nowe-mieszkanie-2pok-50m2-wysoki-standard-poznan-ID3Dz0Y.html#6acee1bc7d,16.978139,52.412773
+9,"Poznañ, £azarz,  Józefa £ukaszewicza",1 800,https://www.otodom.pl/oferta/dobra-lokalizacja-parter-mieszkanie-na-wynajem-ID3EkKY.html#6acee1bc7d,0,0
+10,"Poznañ, Junikowo, Forsycjowa 15 na osiedlu kwiatowym",1 850,https://www.otodom.pl/oferta/wynajme-mieszkanie-na-ulicy-forsycjowej-15-poznan-ID3EkI0.html#6acee1bc7d,0,0
+11,"Poznañ, Dolna Wilda,  Dolna Wilda",1 690,https://www.otodom.pl/oferta/2-pokojowe-61m2-z-garazem-wyposazone-ID2RtJf.html#6acee1bc7d,16.922038,52.384256
+12,"Poznañ, Je¿yce, koscielna",1 850,https://www.otodom.pl/oferta/wynajem-mieszkania-ID3EgQo.html#6acee1bc7d,16.903287,52.413070
+13,"Poznañ, £azarz,  Klaudyny Potockiej",1 200,https://www.otodom.pl/oferta/komfortowe-2-pokojowe-mieszkanie-w-centrum-poznan-ID3bS5q.html#6acee1bc7d,0,0
+14,"Poznañ, Grunwald,  Jakuba Krauthofera",1 600,https://www.otodom.pl/oferta/piekna-kawalerka-po-rem-glogowska-krauthofera-ID3Ekwe.html#6acee1bc7d,0,0
+15,"Poznañ, Chwaliszewo",1 450,https://www.otodom.pl/oferta/kawalerka-na-chwaliszewie-ID3EkpC.html#6acee1bc7d,0,0
+16,"Poznañ, Centrum,  Garbary",3 500,https://www.otodom.pl/oferta/centrum-2-pokoje-ataner-garbary-ID3EklC.html#6acee1bc7d,16.935807,52.401014
+17,"Poznañ, Centrum, Garbary 71",1 300,https://www.otodom.pl/oferta/centrum-kawalerka-ataner-garbary-ID3Ekhq.html#6acee1bc7d,16.938016,52.409044
+18,"Poznañ, Centrum,  Garbary",1 200,https://www.otodom.pl/oferta/centrum-garbary-2-pokoje-ID3EkfK.html#6acee1bc7d,16.935807,52.401014
+19,"Poznañ, Centrum,  Bó¿nicza",1 250,https://www.otodom.pl/oferta/centrum-boznicza-ataner-ID3EkdS.html#6acee1bc7d,16.935583,52.412687
+20,"Poznañ, Pi¹tkowo,  Boles³awa Chrobrego",1 190,https://www.otodom.pl/oferta/2-pokoje-po-remoncie-piatkowo-wysoki-standard-ID3BKzO.html#6acee1bc7d,16.907576,52.458652
+21,"Poznañ, Malta, Warszawska",1 190,https://www.otodom.pl/oferta/komfotrowe-z-miejscem-postojowym-ID3EjOI.html#6acee1bc7d,16.981406,52.409868
+22,"Poznañ, Bielniki",1 500,https://www.otodom.pl/oferta/piekny-apartament-w-centrum-ID3DMB2.html#6acee1bc7d,16.981406,52.409868
+23,"Poznañ, Strzeszyn,  Literacka",1 850,https://www.otodom.pl/oferta/sloneczne-mieszkanie-na-strzeszynie-greckim-ID3AgvH.html#6acee1bc7d,16.869061,52.450825
+24,"Poznañ, Je¿yce, D¹browskiego 33",1 350,https://www.otodom.pl/oferta/przestronna-kawalerka-na-jezycach-wysoki-standard-ID3Axej.html#6acee1bc7d,16.907576,52.412043
+25,"Poznañ, Naramowice",1 200,https://www.otodom.pl/oferta/kawalerka-z-duzym-balkonem-i-ogrodem-ID3Ejri.html#6acee1bc7d,16.907576,52.412043
+26,"Poznañ, Naramowice",3 250,https://www.otodom.pl/oferta/atrakcyjna-kawalerka-super-cena-ID3Ejra.html#6acee1bc7d,16.907576,52.412043
+27,"Poznañ, Naramowice",2 200,https://www.otodom.pl/oferta/piekna-kawalerka-z-wyjsciem-na-ogrod-ID3EjqY.html#6acee1bc7d,16.907576,52.412043
+28,"Poznañ, Œwierczewo",1 300,https://www.otodom.pl/oferta/do-najmu-parter-domu-z-niezaleznym-wejsciem-ID3EjqI.html#6acee1bc7d,16.907576,52.412043
+29,"Poznañ, Rataje,  Armii Krajowej",1 700,https://www.otodom.pl/oferta/rataje-2-pokojowe-mieszkanie-na-os-armii-krajowej-ID3Ej0U.html#6acee1bc7d,16.953599,52.378047
+30,"Poznañ, Rataje, Katowicka",2 499,https://www.otodom.pl/oferta/2-pokoje-rataje-ul-katowicka-balkon-garaz-ID3EiJO.html#6acee1bc7d,16.966465,52.395877
+0,"Poznañ, Je¿yce, Polna",1 800,https://www.otodom.pl/oferta/2-pokoje-meble-garderoba-garaz-nowy-blok-ID3EcFy.html#e03ed63d76,16.896654,52.412926
+1,"Poznañ, Grunwald,  Czeœnikowska 2",1 850,https://www.otodom.pl/oferta/3-pokojowe-mieszkanie-czesnikowska-2-bezposrednio-ID3lyvI.html#e03ed63d76,16.874465,52.399419
+2,"Poznañ, Stare Miasto, Plac Wolnoœci",1 300,https://www.otodom.pl/oferta/kawalerka-centrum-stare-miasto-bezposrednio-ID3upHm.html#e03ed63d76,0,0
+3,"Poznañ, Je¿yce,  Maksymiliana Jackowskiego",1 200,https://www.otodom.pl/oferta/stylowy-dwupokojowy-apartament-w-sercu-jezyc-ID3DkOU.html#e03ed63d76,0,0
+4,"Poznañ, Je¿yce,  Koœcielna",1 300,https://www.otodom.pl/oferta/do-wynajecia-nowe-mieszkanie-jezyce-ul-koscielna-ID3tBe4.html#e03ed63d76,16.903287,52.413070
+5,"Poznañ, Górna Wilda,  Rolna",2 300,https://www.otodom.pl/oferta/mieszkanie-2-pok-49m2-po-remoncie-brak-czynszu-ID3DExO.html#e03ed63d76,16.916534,52.382676
+6,"Poznañ, Œródka, Konarskiego",2 200,https://www.otodom.pl/oferta/umeblowane-3-niezalezne-pokoje-parking-ID3BPsA.html#e03ed63d76,16.959692,52.410640
+7,"Poznañ, Wilda",1 200,https://www.otodom.pl/oferta/mieszkanie-28-77-m-poznan-ID3Eiwq.html#e03ed63d76,16.959692,52.410640
+8,"Poznañ, Nowe Miasto, Osiedle Piastowskie 120",1 300,https://www.otodom.pl/oferta/apartament-w-centrum-z-widokiem-na-warte-basen-ID3EijK.html#e03ed63d76,0,0
+9,"Poznañ, Winogrady",1 800,https://www.otodom.pl/oferta/mieszkanie-48-m-poznan-ID3EhRu.html#e03ed63d76,0,0
+10,"Poznañ, Winogrady",1 850,https://www.otodom.pl/oferta/mieszkanie-16-m-poznan-ID3EhRi.html#e03ed63d76,0,0
+11,"Poznañ, Winogrady",1 690,https://www.otodom.pl/oferta/mieszkanie-12-m-poznan-ID3EhRe.html#e03ed63d76,0,0
+12,"Poznañ, Pi¹tkowo,  Stefana Batorego",1 850,https://www.otodom.pl/oferta/mieszkanie-45-m-poznan-ID3EhQg.html#e03ed63d76,16.926342,52.456025
+13,"Poznañ, Nowe Miasto, Katowicka Od lipca",1 200,https://www.otodom.pl/oferta/mieszkanie-33-m-poznan-ID3EhQc.html#e03ed63d76,0,0
+14,"Poznañ, Centrum, Strzelecka Taras Od Lipca",1 600,https://www.otodom.pl/oferta/mieszkanie-30-m-poznan-ID3EhQ0.html#e03ed63d76,0,0
+15,"Poznañ, Grunwald, Marceliñska",1 450,https://www.otodom.pl/oferta/mieszkanie-94-m-poznan-ID3EhPS.html#e03ed63d76,16.890359,52.404942
+16,"Poznañ, osiedle Oœwiecenia",3 500,https://www.otodom.pl/oferta/wynajme-mieszkanie-42-m-kw-rataje-os-oswiecenia-ID3Ehf6.html#e03ed63d76,16.962806,52.389103
+17,"Poznañ, Wilda,  Antoniego Kosiñskiego",1 300,https://www.otodom.pl/oferta/wynajme-wyremontowane-mieszkanie-w-kamienicy-ID3Ehg8.html#e03ed63d76,0,0
+18,"Poznañ, Ogrody,  Jutrzenka",1 200,https://www.otodom.pl/oferta/nowe-2-pokojowe-mieszkanie-44-m-w-centrum-ID3zYa7.html#e03ed63d76,16.878194,52.410191
+19,"Poznañ, Wilda, Ch³apowskiego",1 250,https://www.otodom.pl/oferta/komfortowe-mieszkanie-na-wildzie-z-garazem-ID3DDGv.html#e03ed63d76,16.917576,52.388054
+20,"Poznañ, Ogrody, Szpitalna",1 190,https://www.otodom.pl/oferta/ladna-kawalerka-na-ogrodach-ID3Cabq.html#e03ed63d76,16.881073,52.415688
+21,"Poznañ, Centrum,  28 Czerwca 1956 r.",1 190,https://www.otodom.pl/oferta/wynajme-bezczynszowe-mieszkanie-w-centrum-ID3Eh6M.html#e03ed63d76,0,0
+22,"Poznañ, Wilda,  Przemys³owa",1 500,https://www.otodom.pl/oferta/nowa-kawalerka-poznan-wilda-przemyslowa-ID3D9fq.html#e03ed63d76,16.918859,52.398172
+23,"Poznañ, Grunwald",1 850,https://www.otodom.pl/oferta/nowe-mieszkanie-w-apartamentowcu-ID3Eg4E.html#e03ed63d76,16.918859,52.398172
+24,"Poznañ, Dêbiec, Osinowa",1 350,https://www.otodom.pl/oferta/sliczne-jasne-2-sypialnie-balkon-ID3EfPa.html#e03ed63d76,16.910834,52.367358
+25,"Poznañ, Bonin, Turkusowa",1 200,https://www.otodom.pl/oferta/mieszkanie-29-m-poznan-ID3EfPi.html#e03ed63d76,16.904476,52.431254
+26,"Poznañ, Marcelin,  Jeleniogórska 1/3 B",3 250,https://www.otodom.pl/oferta/nowa-kawalerka-z-komorka-2018-grunwald-marcelin-ID3EfLS.html#e03ed63d76,0,0
+27,"Poznañ, Grunwald,  Œwierzawska",2 200,https://www.otodom.pl/oferta/nowy-marcelin-2017-rok-2-pokoje-ul-swierzawska-ID3wk5q.html#e03ed63d76,16.860422,52.401348
+28,"Poznañ, Stare Miasto, Garbary",1 300,https://www.otodom.pl/oferta/kawalerka-36m2-casa-verona-garbary-centrum-ID3Efw2.html#e03ed63d76,16.935807,52.401014
+29,"Poznañ, Centrum, Garbary",1 700,https://www.otodom.pl/oferta/mieszkanie-68-m-poznan-ID3Efeo.html#e03ed63d76,16.935807,52.401014
+30,"Poznañ, Wilda, Robocza",2 499,https://www.otodom.pl/oferta/komfortowe-2-pokojowe-mieszkanie-na-wildzie-ID3EeRa.html#e03ed63d76,16.914571,52.392661
+0,"Poznañ, Grunwald,  Barwicka",1 800,https://www.otodom.pl/oferta/mieszkanie-46-m-poznan-ID3DVzy.html#16f60a5c85,16.830972,52.410785
+1,"Poznañ, Centrum,  Bielniki",1 850,https://www.otodom.pl/oferta/mieszkanie-54-m-poznan-ID3Dtgk.html#16f60a5c85,16.935696,52.394625
+2,"Poznañ, Rataje,  Katowicka",1 300,https://www.otodom.pl/oferta/mieszkanie-54-m-poznan-ID3De3a.html#16f60a5c85,16.966465,52.395877
+3,"Poznañ, Umultowo,  Zygmunta Szweykowskiego",1 200,https://www.otodom.pl/oferta/mieszkanie-56-m-poznan-ID3DfSk.html#16f60a5c85,0,0
+4,"Poznañ, Wilda,  Dezyderego Ch³apowskiego",1 300,https://www.otodom.pl/oferta/nowe-2-pok-swietna-lokalizacja-tramwaj-ID3Dpmg.html#16f60a5c85,0,0
+5,"Poznañ, Pi¹tkowo, stefana batorego/Henryka Opieñskiego",2 300,https://www.otodom.pl/oferta/st-batorego-opienskiego-2-bezposrednio-ID3eMkO.html#16f60a5c85,0,0
+6,"Poznañ, Chwaliszewo,  Czartoria",2 200,https://www.otodom.pl/oferta/umeblowana-kawalerka-chwaliszewo-blisko-rzeki-ID34FiK.html#16f60a5c85,16.942676,52.407919
+7,"Poznañ, Malta, Katowicka",1 200,https://www.otodom.pl/oferta/mieszkanie-przy-malcie-ID3EeQ8.html#16f60a5c85,16.966465,52.395877
+8,"Poznañ, Je¿yce, Zwierzyniecka",1 300,https://www.otodom.pl/oferta/mieszkanie-do-wynajecia-w-poznaniu-zajezdnia-ID3EeGc.html#16f60a5c85,16.902147,52.408926
+9,"Poznañ, Górczyn, Pogodna",1 800,https://www.otodom.pl/oferta/mieszkanie-34-m-poznan-ID3Eewy.html#16f60a5c85,16.882092,52.394122
+10,"Poznañ, Grunwald",1 850,https://www.otodom.pl/oferta/3-pokojowe-komfort-winda-przy-parku-wilsona-ID3Eeso.html#16f60a5c85,16.882092,52.394122
+11,"Poznañ, Za Grobl¹",1 690,https://www.otodom.pl/oferta/stare-miasto-kawalerka-przy-parku-ID3EdFy.html#16f60a5c85,16.942137,52.404249
+12,"Poznañ, Katowicka",1 850,https://www.otodom.pl/oferta/2-pokoje-garaz-katowicka-polanka-ID3EdfC.html#16f60a5c85,16.942137,52.404249
+13,"Poznañ, Pi¹tkowo, Jagie³³y",1 200,https://www.otodom.pl/oferta/mieszkanie-2-pokojowe-os-jagielly-ID3Edfm.html#16f60a5c85,16.905588,52.455616
+14,"Poznañ, Je¿yce,  Jesienna",1 600,https://www.otodom.pl/oferta/kawalerka-ul-jesienna-poznan-wynajme-ID3Ed9m.html#16f60a5c85,16.875019,52.409243
+15,"Poznañ, Nowe Miasto, Antoninek",1 450,https://www.otodom.pl/oferta/duza-kawalerka-ID3Ed8g.html#16f60a5c85,0,0
+16,"Poznañ, Centrum, Kutrzeby Od lipca Osobna Kuchnia",3 500,https://www.otodom.pl/oferta/mieszkanie-54-m-poznan-ID3Ed4A.html#16f60a5c85,0,0
+17,"Poznañ, Rataje",1 300,https://www.otodom.pl/oferta/mieszkanie-55-m-poznan-ID3Ed0s.html#16f60a5c85,0,0
+18,"Poznañ, Grunwald, Hetmañska",1 200,https://www.otodom.pl/oferta/mieszkanie-38-m-poznan-ID3EcWe.html#16f60a5c85,16.917950,52.383788
+19,"Poznañ, £azarz,  Œniadeckich",1 250,https://www.otodom.pl/oferta/mieszkanie-116m2-k-targow-poznanskich-kancelaria-ID3EcE4.html#16f60a5c85,16.904813,52.399748
+20,"Poznañ, Grunwald,  Franciszka Morawskiego",1 190,https://www.otodom.pl/oferta/grunwald-morawskiego-trzy-pokoje-z-balkonem-ID3Echi.html#16f60a5c85,0,0
+21,"Poznañ, Nowe Miasto, Malta NOWE",1 190,https://www.otodom.pl/oferta/mieszkanie-53-m-poznan-ID3Ece8.html#16f60a5c85,16.959516,52.400976
+22,"Poznañ, Je¿yce",1 500,https://www.otodom.pl/oferta/kawalerka-przy-ul-bukowskiej-ID3Ec7O.html#16f60a5c85,16.959516,52.400976
+23,"Poznañ, Grunwald",1 850,https://www.otodom.pl/oferta/3-pokojowe-mieszkanie-przy-ul-sciegiennego-ID3Ec7y.html#16f60a5c85,16.959516,52.400976
+24,"Poznañ,  Hetmañska",1 350,https://www.otodom.pl/oferta/kawalerka-o-wysokim-standardzie-na-wildzie-ID3Ec5V.html#16f60a5c85,16.917950,52.383788
+25,"Poznañ, Winogrady,  Zwyciêstwa",1 200,https://www.otodom.pl/oferta/os-zwyciestwa-komfortowy-pokoj-21-m2-dla-kobiety-ID3Ec5e.html#16f60a5c85,16.928534,52.437748
+26,"Poznañ, Grunwald, Grochowska",3 250,https://www.otodom.pl/oferta/grunwald-ul-grochowska-niezalezny-uklad-garaz-ID3Ec4k.html#16f60a5c85,16.875694,52.406556
+27,"Poznañ, Pi¹tkowo,  Boles³awa Œmia³ego",2 200,https://www.otodom.pl/oferta/1-pok-os-smialego-piatkowo-winogrady-ID3EbWS.html#16f60a5c85,16.924379,52.452290
+28,"Poznañ, Rataje,  Lecha",1 300,https://www.otodom.pl/oferta/os-lecha-2-pokojowe-mieszkanie-w-bloku-ID3EbTG.html#16f60a5c85,16.974104,52.387477
+29,"Poznañ, Podolany,  Strzeszyñska",1 700,https://www.otodom.pl/oferta/atrakcyjna-przestrzen-biurowa-podolany-124-m2-ID3EbIU.html#16f60a5c85,16.886569,52.452976
+30,"Poznañ, Grunwald, Wojskowa",2 499,https://www.otodom.pl/oferta/kasztanowa-aleja-bardzo-ladne-mieszkanie-dla-pary-ID3EaSo.html#16f60a5c85,16.893099,52.402789
+0,"Poznañ, Nowe Miasto,  Szczepankowo",1 800,https://www.otodom.pl/oferta/mieszkanie-80-m2-poznan-szczepankowo-ID3DnxV.html#40d32a985e,17.016652,52.359699
+1,"Poznañ, Grunwald,  Miêdzychodzka",1 850,https://www.otodom.pl/oferta/mieszkanie-2-pokoje-45-mkw-ul-miedzychodzka-ID3yXJR.html#40d32a985e,16.877967,52.406492
+2,"Poznañ, Stare Miasto, Plac Bernardyñski",1 300,https://www.otodom.pl/oferta/nowy-apartament-w-ok-starego-miasta-bez-prowizji-ID3CoXq.html#40d32a985e,0,0
+3,"Poznañ, Centrum,  Przemys³owa 33",1 200,https://www.otodom.pl/oferta/nowe-umeblowane-studio-w-centrum-poznania-ID3CwXa.html#40d32a985e,16.919999,52.396641
+4,"Poznañ, Maratoñska 3b",1 300,https://www.otodom.pl/oferta/2-pokojowe-ul-maratonska-ID3x3eP.html#40d32a985e,16.919400,52.345659
+5,"Poznañ, Podolany,  Strzeszyñska",2 300,https://www.otodom.pl/oferta/wynajme-mieszkanie-kawalerke-wysoki-standard-ID2Ygao.html#40d32a985e,16.886569,52.452976
+6,"Poznañ, Nowe Miasto, Katowicka Osobna Kuchnia",2 200,https://www.otodom.pl/oferta/mieszkanie-56-m-poznan-ID3DlZy.html#40d32a985e,0,0
+7,"Poznañ, R?¿any Potok",1 200,https://www.otodom.pl/oferta/mieszkanie-56-6-m2-poznan-z-szweykowskiego-ID3E9Kg.html#40d32a985e,16.910277,52.468001
+8,"Poznañ, Grunwald,  Promienista 128",1 300,https://www.otodom.pl/oferta/luksusowy-2-pokojowy-apartament-z-tarasem-garaz-ID3bwdy.html#40d32a985e,16.870661,52.388646
+9,"Poznañ, Pi¹tkowo,  Franciszka Stró¿yñskiego",1 800,https://www.otodom.pl/oferta/z-2012r-winda-miejsce-postojowe-pokoje-oddzielne-ID3E9Ev.html#40d32a985e,0,0
+10,"Poznañ, Rataje,  Armii Krajowej",1 850,https://www.otodom.pl/oferta/mieszkanie-2-pokojowe-na-wynajem-ID3E9Di.html#40d32a985e,16.953599,52.378047
+11,"Poznañ, Strzeszyn,  Literacka",1 690,https://www.otodom.pl/oferta/bezposrednio-2pok-umeblowane-mieszkanie-strzeszyn-ID3E7zi.html#40d32a985e,16.869061,52.450825
+12,"Poznañ, Grunwald, Wojskowa",1 850,https://www.otodom.pl/oferta/wynajme-mieszkanie-3-pokojowe-bezposrednio-ID3E920.html#40d32a985e,16.893099,52.402789
+13,"Poznañ, Wilda,  Rolna",1 200,https://www.otodom.pl/oferta/mieszkanie-41-m-poznan-ID3E92A.html#40d32a985e,16.916534,52.382676
+14,"Poznañ, Wilda, Ul. Saperska",1 600,https://www.otodom.pl/oferta/mieszkanie-48-50-m-poznan-ID3E92M.html#40d32a985e,0,0
+15,"Poznañ, Wilda, Antoniego Józefa Madaliñskiego",1 450,https://www.otodom.pl/oferta/2-pokoje-na-wynajem-w-kamienicy-wilda-madalin-ID3E8SQ.html#40d32a985e,0,0
+16,"Poznañ, Wilczak,  Serbska",3 500,https://www.otodom.pl/oferta/luksusowa-kawalerka-z-duzym-ogrodkiem-ul-serbska-ID3E8NO.html#40d32a985e,16.955037,52.429574
+17,"Poznañ, Centrum,  Towarowa",1 300,https://www.otodom.pl/oferta/mieszkanie-53-m-poznan-ID3Dtev.html#40d32a985e,16.916261,52.404458
+18,"Poznañ, Grunwald,  Jesienna",1 200,https://www.otodom.pl/oferta/mieszkanie-30-m-poznan-ID3E8Ag.html#40d32a985e,16.875019,52.409243
+19,"Poznañ, Winogrady, Naramowicka Serbska Murawa S³owiañska os. Pod Lipami",1 250,https://www.otodom.pl/oferta/mieszkanie-55-30-m-poznan-ID3E87K.html#40d32a985e,0,0
+20,"Poznañ, Grunwald,  Stanis³awa Przybyszewskiego",1 190,https://www.otodom.pl/oferta/kawalerka-na-grunwaldzie-dla-ukraincow-ID3E7Jy.html#40d32a985e,0,0
+21,"Poznañ, Winogrady,  Na Murawie",1 190,https://www.otodom.pl/oferta/wysoki-standard-umeblowane-hala-garazowa-cytadela-ID3ALoT.html#40d32a985e,16.934765,52.427841
+22,"Poznañ, Malta,  Katowicka",1 500,https://www.otodom.pl/oferta/ataner-ul-katowicka-umeblowane-blisko-posnanii-ID3E7Cv.html#40d32a985e,16.966465,52.395877
+23,"Poznañ, Nowe Miasto, Katowicka",1 850,https://www.otodom.pl/oferta/w-pelni-wyposazone-2pok-z-duzym-tarasem-garaz-ID3E7t6.html#40d32a985e,16.966465,52.395877
+24,"Poznañ, Rataje,  Bohaterów II Wojny Œwiatowej",1 350,https://www.otodom.pl/oferta/okazja-rataje-3-osobne-umebl-pok-od-wrzesnia-ID3yNBW.html#40d32a985e,16.949536,52.383376
+25,"Poznañ, Je¿yce,  Zwierzyniecka",1 200,https://www.otodom.pl/oferta/apartament-w-centrum-garaz-wysoki-standard-ID3E7h2.html#40d32a985e,16.902147,52.408926
+26,"Poznañ, Podolany, Kartuska",3 250,https://www.otodom.pl/oferta/aktualne-super-lokalizacja-poznan-podolany-ID3E712.html#40d32a985e,16.878837,52.451167
+27,"Poznañ, Grunwald,  Józefa Che³moñskiego",2 200,https://www.otodom.pl/oferta/grunwald-chelmonskiego-stylowe-studio-na-wynajem-ID3E6Xu.html#40d32a985e,0,0
+28,"Poznañ, Centrum, Za Cytadel¹",1 300,https://www.otodom.pl/oferta/gustowny-apartament-za-cytadela-ID3E6Na.html#40d32a985e,16.942577,52.424319
+29,"Poznañ, Topolowa 5",1 700,https://www.otodom.pl/oferta/najtansza-kawalerka-w-centrum-top-widok-i-okolica-ID3E6vY.html#40d32a985e,16.850562,52.423870
+30,"Poznañ, Rataje,  Armii Krajowej",2 499,https://www.otodom.pl/oferta/os-armii-krajowej-2-pok-miesz-za-1400-calosc-ID3E6hu.html#40d32a985e,16.953599,52.378047
+0,Poznañ,1 800,https://www.otodom.pl/oferta/wyjatkowe-wnetrze-na-poludniu-poznania-okazja-ID3zsFp.html#36d48626bf,16.953599,52.378047
+1,"Poznañ, Garbary,  Garbary",1 850,https://www.otodom.pl/oferta/luksusowy-apartament-ul-garbary-poznan-44m2-ID34xqA.html#36d48626bf,16.935807,52.401014
+2,"Poznañ, Rataje,  Na Miasteczku",1 300,https://www.otodom.pl/oferta/nowa-kawalerka-40m2-rondo-rataje-bezposrednio-ID32hwm.html#36d48626bf,16.949359,52.397146
+3,"Poznañ, Winogrady,  Wichrowe Wzgórze",1 200,https://www.otodom.pl/oferta/mieszkanie-65-m2-z-ogrodkiem-po-remoncie-ID2Ajpu.html#36d48626bf,16.936625,52.439562
+4,"Poznañ, Naramowice,  B³a¿eja",1 300,https://www.otodom.pl/oferta/jasna-kawalerka-na-naramowicach-ID3xxAn.html#36d48626bf,16.940683,52.458776
+5,"Poznañ, Centrum, ul marratonska",2 300,https://www.otodom.pl/oferta/centrum-na-prestizowym-osiedlu-maraton-gardens-ID39O76.html#36d48626bf,0,0
+6,"Poznañ,  Zwierzyniecka",2 200,https://www.otodom.pl/oferta/polecam-nowe-3-pokojowe-mieszkanie-na-os-zajezdnia-ID3Dx6s.html#36d48626bf,16.902147,52.408926
+7,"Poznañ, Wilda, rynek Wildecki",1 200,https://www.otodom.pl/oferta/wilda-blisko-rynku-niezalezny-uklad-ID3E5La.html#36d48626bf,16.920561,52.393957
+8,"Poznañ, Grunwald, Jakuba Krauthofera",1 300,https://www.otodom.pl/oferta/2-pok-z-oddzielna-jasna-kuchnia-na-grunwaldzie-ID3E5IU.html#36d48626bf,0,0
+9,"Poznañ, Rataje,  Piastowskie",1 800,https://www.otodom.pl/oferta/2-niezalezne-pokoje-na-ratajach-do-wynajecia-ID3E5Du.html#36d48626bf,16.942109,52.387531
+10,"Poznañ, Rataje,  œw. Rocha",1 850,https://www.otodom.pl/oferta/ul-sw-rocha-od-1-lipca-2-pokojowe-ID3E5v0.html#36d48626bf,0,0
+11,"Poznañ, Dolna Wilda, Dezyderego Ch³apowskiego",1 690,https://www.otodom.pl/oferta/apartament-2-pok-chlapowskiego-pierwszy-najem-ID3E5ko.html#36d48626bf,0,0
+12,"Poznañ, Rataje,  Rusa",1 850,https://www.otodom.pl/oferta/mieszkanie-poznan-rataje-ul-osiedle-rusa-ID3E4Kc.html#36d48626bf,16.981680,52.388643
+13,"Poznañ, Pi¹tkowo,  Stefana Batorego",1 200,https://www.otodom.pl/oferta/mieszkanie-55-m-poznan-ID3DJQc.html#36d48626bf,16.926342,52.456025
+14,"Poznañ, Grunwald,  Wojciecha Cybulskiego",1 600,https://www.otodom.pl/oferta/pokoj-dla-2-osob-z-kuchnia-i-lazienka-osobne-wejsc-ID3E576.html#36d48626bf,0,0
+15,"Poznañ, Naramowice, Jasna Rola",1 450,https://www.otodom.pl/oferta/na-wynajem-kawalerka-w-bardzo-wysokim-standardzie-ID3E4YM.html#36d48626bf,16.947514,52.449970
+16,"Poznañ, Grunwald, Sieradzka",3 500,https://www.otodom.pl/oferta/kawalerka-z-balkonem-wyposazone-umeblowane-ID3E4O0.html#36d48626bf,16.851939,52.384796
+17,"Poznañ, Rataje,  Armii Krajowej",1 300,https://www.otodom.pl/oferta/nieaktualne-ID3E4AU.html#36d48626bf,16.953599,52.378047
+18,"Poznañ, Rataje, Milczañska",1 200,https://www.otodom.pl/oferta/mieszkanie-120-m-poznan-ID3E42v.html#36d48626bf,16.964752,52.393060
+19,"Poznañ, Centrum, Zwierzyniecka",1 250,https://www.otodom.pl/oferta/mieszkanie-37-m-poznan-ID3E3uk.html#36d48626bf,16.902147,52.408926
+20,"Poznañ, Suchy Las",1 190,https://www.otodom.pl/oferta/wynajem-mieszkania-z-ogrodem-piatkowo-suchy-las-ID3E33O.html#36d48626bf,15.322251,52.691677
+21,"Poznañ, Górczyn, Górki",1 190,https://www.otodom.pl/oferta/mieszkanie-33-m-poznan-ID3E2ny.html#36d48626bf,16.891472,52.384455
+22,"Poznañ, Centrum, Towarowa",1 500,https://www.otodom.pl/oferta/mieszkanie-64-m-poznan-ID3E2lq.html#36d48626bf,16.916261,52.404458
+23,"Poznañ, Centrum, Towarowa",1 850,https://www.otodom.pl/oferta/mieszkanie-64-m-poznan-ID3E2lm.html#36d48626bf,16.916261,52.404458
+24,"Poznañ, Topolowa",1 350,https://www.otodom.pl/oferta/mieszkanie-26-m-poznan-ID3E288.html#36d48626bf,16.916261,52.404458
+25,"Poznañ, Dominikañska",1 200,https://www.otodom.pl/oferta/mieszkanie-32-m-poznan-ID3E28c.html#36d48626bf,16.916261,52.404458
+26,"Poznañ, Rataje,  Katowicka",3 250,https://www.otodom.pl/oferta/mieszkanie-32-m-poznan-ID3E27V.html#36d48626bf,16.966465,52.395877
+27,"Poznañ, Garbary,  Garbary",2 200,https://www.otodom.pl/oferta/mieszkanie-52-m-poznan-ID3E27S.html#36d48626bf,16.935807,52.401014
+28,"Poznañ, Centrum,  Wierzbiêcice",1 300,https://www.otodom.pl/oferta/bezczynszowa-umeblowana-kawalerka-w-centrum-ID3E1Sg.html#36d48626bf,16.921945,52.398121
+29,"Poznañ, Je¿yce",1 700,https://www.otodom.pl/oferta/ul-staszica-3-pokojowe-mieszkanie-na-jezycach-ID3E1J6.html#36d48626bf,16.921945,52.398121
+30,"Poznañ, Stare Miasto, Towarowa",2 499,https://www.otodom.pl/oferta/apartament-w-scislym-centrum-poznania-towarowa-37-ID3E1Ik.html#36d48626bf,16.916261,52.404458
+0,"Poznañ, Centrum,  Mostowa",1 800,https://www.otodom.pl/oferta/trzypokojowe-centrum-ID3zHmD.html#0428519a74,16.940417,52.403654
+1,"Poznañ, Wilda,  Mieczys³awa Niedzia³kowskiego",1 850,https://www.otodom.pl/oferta/nowe-mieszkanie-47-m2-2-pokoje-niedzialkowskiego-ID3C8cU.html#0428519a74,0,0
+2,"Poznañ, Pi¹tkowo,  Kosmonautów",1 300,https://www.otodom.pl/oferta/3p-umeblowane-do-wynajmu-os-kosmonautow-poznan-ID39Bjs.html#0428519a74,16.941566,52.440319
+3,"Poznañ, Górna Wilda",1 200,https://www.otodom.pl/oferta/mieszkanie-w-centrum-poznania-ID3BAGQ.html#0428519a74,16.922038,52.384256
+4,"Poznañ, Centrum,  Mieczys³awa Niedzia³kowskiego",1 300,https://www.otodom.pl/oferta/mieszkanie-dwupokojowe-w-apartamentowcu-ID3CWWm.html#0428519a74,0,0
+5,"Poznañ, Je¿yce, M¹czna",2 300,https://www.otodom.pl/oferta/centrum-jezyce-mieszkanie-2-pokoje-po-remoncie-ID3EFiM.html#0428519a74,16.908127,52.416525
+6,"Poznañ, Grunwald,  Miêdzychodzka",2 200,https://www.otodom.pl/oferta/mieszkanie-2-pokoje-45-mkw-ul-miedzychodzka-ID3yXJR.html#0428519a74,16.877967,52.406492
+7,"Poznañ, Grunwald",1 200,https://www.otodom.pl/oferta/polecam-do-najmu-mieszkanie-dwupokojowe-grunwald-ID3E1y4.html#0428519a74,16.877967,52.406492
+8,"Poznañ, Rataje,  Piastowskie",1 300,https://www.otodom.pl/oferta/mieszkanie-41-m-poznan-ID3E1kU.html#0428519a74,16.942109,52.387531
+9,"Poznañ, Grunwald, Parkowa",1 800,https://www.otodom.pl/oferta/mieszkanie-36-m-poznan-ID3E1ks.html#0428519a74,16.903078,52.400786
+10,"Poznañ, Pi¹tkowo, Zygmunta Starego",1 850,https://www.otodom.pl/oferta/mieszkanie-31-m-poznan-ID3E1kQ.html#0428519a74,16.910507,52.459396
+11,"Poznañ, Grunwald, Miêdzychodzka",1 690,https://www.otodom.pl/oferta/mieszkanie-50-70-m-poznan-ID3E1k8.html#0428519a74,16.877967,52.406492
+12,"Poznañ, Je¿yce, Mylna",1 850,https://www.otodom.pl/oferta/mieszkanie-40-m-poznan-ID3E1kg.html#0428519a74,16.908318,52.414756
+13,"Poznañ, Nowe Miasto, Krañcowa",1 200,https://www.otodom.pl/oferta/mieszkanie-twoja-malta-ID3E1c4.html#0428519a74,16.978139,52.412773
+14,"Poznañ, Dêbiec",1 600,https://www.otodom.pl/oferta/mieszkanie-48-m-poznan-ID3E172.html#0428519a74,16.978139,52.412773
+15,"Poznañ, Garbary",1 450,https://www.otodom.pl/oferta/apartament-w-centrum-miasta-garbary-2-pok-ID3E0N6.html#0428519a74,16.978139,52.412773
+16,"Poznañ,  Or³a Bia³ego",3 500,https://www.otodom.pl/oferta/2-pokojowe-mieszkanie-wysoki-standard-rataje-ID3E0Is.html#0428519a74,16.961209,52.378072
+17,"Poznañ, Górczyn,  Raszyñska",1 300,https://www.otodom.pl/oferta/ul-raszynska-kawalerka-do-wynajecia-ID3E0FO.html#0428519a74,16.875183,52.388323
+18,"Poznañ, Rataje, Katowicka",1 200,https://www.otodom.pl/oferta/mieszkanie-73-m-poznan-ID3E0sI.html#0428519a74,16.966465,52.395877
+19,"Poznañ, Ogrody,  Janusza Meissnera",1 250,https://www.otodom.pl/oferta/ogrody-meissnera-dwa-pokoje-ogrod-hala-gar-ID3E0dK.html#0428519a74,0,0
+20,"Poznañ, Rataje, Na Miasteczku",1 190,https://www.otodom.pl/oferta/mieszkanie-48-m-poznan-ID3E05K.html#0428519a74,16.949359,52.397146
+21,Poznañ,1 190,https://www.otodom.pl/oferta/mieszkanie-dwupokojowe-balkon-czyste-wyposazone-ID3DmWG.html#0428519a74,16.949359,52.397146
+22,"Poznañ, Stare Miasto",1 500,https://www.otodom.pl/oferta/do-wynajecia-mieszkanie-65m2-poznan-stare-miasto-ID3E02Q.html#0428519a74,17.406394,52.089386
+23,"Poznañ, Grunwald, Œniadeckich",1 850,https://www.otodom.pl/oferta/mieszkanie-116-m-poznan-ID3cEF4.html#0428519a74,16.904813,52.399748
+24,"Poznañ, Naramowice,  Rubie¿",1 350,https://www.otodom.pl/oferta/funkcjonalne-mini-apartamenty-rubiez-naramowice-ID3DZCk.html#0428519a74,16.949667,52.448707
+25,"Poznañ,  Rolna",1 200,https://www.otodom.pl/oferta/mieszkanie-37-m-poznan-ID3DZBa.html#0428519a74,16.916534,52.382676
+26,"Poznañ, Grunwald,  Zorza",3 250,https://www.otodom.pl/oferta/przestronne-mieszkanie-na-grunwaldzie-ID3wU8E.html#0428519a74,16.880321,52.407791
+27,"Poznañ, Garbary, Szyperska",2 200,https://www.otodom.pl/oferta/ekskluzywny-apartament-z-tarasem-na-starym-miescie-ID3DZjq.html#0428519a74,16.940453,52.412302
+28,"Poznañ,  Armii Krajowej",1 300,https://www.otodom.pl/oferta/bezposrednio-3-pokoje-rataje-os-armii-krajowej-ID3DZhu.html#0428519a74,16.953599,52.378047
+29,"Poznañ, Rataje,  œw. Rocha",1 700,https://www.otodom.pl/oferta/atrakcyjne-dwupokojowe-mieszkanie-na-sw-rocha-ID3DZ3O.html#0428519a74,0,0
+30,"Poznañ, Rataje,  Milczañska",2 499,https://www.otodom.pl/oferta/polanka-milczanska-dwupokojowe-umeblowane-nowe-ID3DYVg.html#0428519a74,16.964752,52.393060
+0,"Poznañ, Pi¹tkowo,  Ludwika Braille'a",1 800,https://www.otodom.pl/oferta/komfortowe-mieszkanie-2-pokoje-44-m2-piatkowo-ID3DksU.html#b4d12f0344,0,0
+1,"Poznañ, Wilda,  Pami¹tkowa",1 850,https://www.otodom.pl/oferta/apartament-59m2-wysoki-standard-wilda-ID38Dd0.html#b4d12f0344,16.914981,52.386929
+2,"Poznañ, Rataje,  Katowicka",1 300,https://www.otodom.pl/oferta/bezposrednio-kawalerka-z-basenem-ID3Dka0.html#b4d12f0344,16.966465,52.395877
+3,"Poznañ,  27 Grudnia",1 200,https://www.otodom.pl/oferta/bez-prowizji-od-czerwca-centrum-27-grudnia-cicha-ID3DSFO.html#b4d12f0344,16.924249,52.408145
+4,"Poznañ, Grunwald, Marcelinska",1 300,https://www.otodom.pl/oferta/czyste-sloneczne-i-cieple-mieszkanie-na-wynajem-ID3EPhC.html#b4d12f0344,16.890359,52.404942
+5,Poznañ,2 300,https://www.otodom.pl/oferta/oryginalna-kawalerka-ID3E0q0.html#b4d12f0344,16.890359,52.404942
+6,"Poznañ, Grunwald,  Jugos³owiañska",2 200,https://www.otodom.pl/oferta/ladne-po-generalnym-remoncie-ul-jugoslowianska-ID2R2G3.html#b4d12f0344,16.862896,52.394792
+7,"Poznañ, Malta, Pobiedziska",1 200,https://www.otodom.pl/oferta/komfortowa-kawalerka-malta-pobiedziska-ID3DYNV.html#b4d12f0344,17.285283,52.472114
+8,"Poznañ, Winogrady, Cytadela",1 300,https://www.otodom.pl/oferta/przy-cytadeli-125m2-z-ogrodem-i-garazem-ID3DYLO.html#b4d12f0344,16.942577,52.424319
+9,"Poznañ, Winogrady, Hawelañska, Wilczak",1 800,https://www.otodom.pl/oferta/do-wynajecia-2-pok-45m2-ul-hawelanska-nowe-ID3DYHu.html#b4d12f0344,0,0
+10,"Poznañ, Grunwald,  Wojskowa",1 850,https://www.otodom.pl/oferta/apartament-2-pokojowy-wojskowa-ID3DYog.html#b4d12f0344,16.893099,52.402789
+11,"Poznañ,  Przemys³awa",1 690,https://www.otodom.pl/oferta/na-wynajem-2-pokoje-49m2-poznan-os-przemyslawa-ID3DYmA.html#b4d12f0344,17.003159,52.390091
+12,"Poznañ, Rataje,  Piastowskie",1 850,https://www.otodom.pl/oferta/rataje-2-niezalezne-pokoje-do-wynajecia-za-1250-ID3DYbi.html#b4d12f0344,16.942109,52.387531
+13,"Poznañ, Wilda",1 200,https://www.otodom.pl/oferta/apartament-deluxe-w-centrum-ID3DYav.html#b4d12f0344,16.942109,52.387531
+14,"Poznañ, Wilda",1 600,https://www.otodom.pl/oferta/apartament-w-centrum-ID3DYas.html#b4d12f0344,16.942109,52.387531
+15,"Poznañ, Pi¹tkowo,  W³adys³awa Jagie³³y",1 450,https://www.otodom.pl/oferta/mieszkanie-poznan-piatkowo-os-wl-jagielly-ID3DXTa.html#b4d12f0344,16.905588,52.455616
+16,"Poznañ, Winogrady,  Pod Lipami",3 500,https://www.otodom.pl/oferta/mieszkanie-3-pokojowe-50m2-os-pod-lipami-ID3DXQM.html#b4d12f0344,16.944990,52.430450
+17,"Poznañ, Wilda, Górna Wilda",1 300,https://www.otodom.pl/oferta/wyposazone-przestronne-mieszkanie-w-centrum-ID3DXQ4.html#b4d12f0344,16.925567,52.398315
+18,"Poznañ, Podolany",1 200,https://www.otodom.pl/oferta/wynajme-mieszkanie-umeblowane-klimatyzacja-poznan-ID3DXKU.html#b4d12f0344,16.925567,52.398315
+19,"Poznañ, Grunwald,  Elizy Orzeszkowej",1 250,https://www.otodom.pl/oferta/luksusowa-kawalerka-32m2-villa-na-ul-orzeszkowej-ID3DXK0.html#b4d12f0344,0,0
+20,"Poznañ, Rataje, Katowicka, Polanka",1 190,https://www.otodom.pl/oferta/do-wynajecia-2-pok-56m2-katowicka-malta-rataje-ID3DXHy.html#b4d12f0344,0,0
+21,"Poznañ, Rataje, Tysi¹clecia, Rusa",1 190,https://www.otodom.pl/oferta/2-pokojowe-48m2-os-tysiacelcia-rataje-malta-ID3DXD6.html#b4d12f0344,0,0
+22,"Poznañ, Grunwald,  Œwierzawska",1 500,https://www.otodom.pl/oferta/wynajme-kawalerke-poznan-ul-swierzawska-grunwald-ID2Wdir.html#b4d12f0344,16.860422,52.401348
+23,"Poznañ, Grunwald,  Jeleniogórska",1 850,https://www.otodom.pl/oferta/mieszkanie-49-m-poznan-ul-jeleniogorska-ID3DXu4.html#b4d12f0344,16.845991,52.390491
+24,"Poznañ, Wilczak,  Wilczak",1 350,https://www.otodom.pl/oferta/winogrady-wilczak-2-pokjowe-z-widokiem-na-warte-ID3DXd2.html#b4d12f0344,16.953032,52.429486
+25,"Poznañ, Centrum,  Ogrodowa",1 200,https://www.otodom.pl/oferta/centrum-ogrodowa-2-pokojowe-w-apartamentowcu-ID3DXbm.html#b4d12f0344,16.925125,52.403893
+26,"Poznañ, Dolna Wilda,  Dezyderego Ch³apowskiego",3 250,https://www.otodom.pl/oferta/tanio-wynajme-3-pok-mieszkanie-w-centrum-poznania-ID3DX8Q.html#b4d12f0344,0,0
+27,"Poznañ, Dêbiec",2 200,https://www.otodom.pl/oferta/przestronna-kawalerka-38-6-z-wydzielona-sypialnia-ID3DX2M.html#b4d12f0344,0,0
+28,"Poznañ, Pi¹tkowo,  Stefana Batorego 55",1 300,https://www.otodom.pl/oferta/komfortowe-3-pokojowe-z-garazem-na-piatkowie-ID3BVQY.html#b4d12f0344,16.922765,52.462262
+29,"Poznañ, Rataje, Katowicka",1 700,https://www.otodom.pl/oferta/katowicka-umeblowane-winda-garaz-ID3DVFa.html#b4d12f0344,16.966465,52.395877
+30,"Poznañ, Antoninek,  Bo¿eny",2 499,https://www.otodom.pl/oferta/ladna-kawalerka-w-antoninku-ID3DVDq.html#b4d12f0344,17.002248,52.408557
+0,"Poznañ, Rataje,  Romana Maya",1 800,https://www.otodom.pl/oferta/rataje-kawalerka-do-wynajecia-za-1100-zl-ID3xwTp.html#e83dfcd217,0,0
+1,"Poznañ, Podolany,  Edwarda Raczyñskiego",1 850,https://www.otodom.pl/oferta/podolany-3-pokoje-ID3CDq8.html#e83dfcd217,0,0
+2,"Poznañ, Centrum, Kazimierza Wielkiego",1 300,https://www.otodom.pl/oferta/centrum-galileo-apartament-taras-garaz-wynajme-ID3zoX5.html#e83dfcd217,16.937498,52.401601
+3,"Poznañ, Grunwald, G³ogowska 70",1 200,https://www.otodom.pl/oferta/kawalerka-1os-1050zl-ze-wszystkimi-oplatami-ID3Djs8.html#e83dfcd217,16.900077,52.395642
+4,"Poznañ, Dêbiec, REDPARK 28 CZERWCA",1 300,https://www.otodom.pl/oferta/wynajme-zupelnie-nowe-mieszkanie-ID3Bjw2.html#e83dfcd217,0,0
+5,"Poznañ, Wilda,  Dezyderego Ch³apowskiego",2 300,https://www.otodom.pl/oferta/nowe-2-pok-swietna-lokalizacja-tramwaj-ID3Dpmg.html#e83dfcd217,0,0
+6,"Poznañ, Je¿yce, Jackowskiego Polna Szamarzewskiego",2 200,https://www.otodom.pl/oferta/zupelnie-nowe-2pok-duzy-balkon-zamkniet-os-ID3AVOD.html#e83dfcd217,0,0
+7,"Poznañ, Podolany,  ¯egiestowska",1 200,https://www.otodom.pl/oferta/komfortowe-mieszkanie-w-pelni-umeblowane-jak-nowe-ID2TDC1.html#e83dfcd217,16.873790,52.454901
+8,"Poznañ, Staro³êka Ma³a, Falista 4a",1 300,https://www.otodom.pl/oferta/mieszkanie-50-m-poznan-ID3DVkc.html#e83dfcd217,0,0
+9,"Poznañ, Pi¹tkowo, Soko³a",1 800,https://www.otodom.pl/oferta/piekne-wyposazone-czeka-na-pierwszych-najemcow-ID3DVi4.html#e83dfcd217,16.912851,52.429627
+10,"Poznañ, St. Batorego",1 850,https://www.otodom.pl/oferta/mieszkanie-poznan-ul-os-stefana-batorego-ID37BHQ.html#e83dfcd217,16.926342,52.456025
+11,"Poznañ, Warszawskie, Osiedle Moja Malta",1 690,https://www.otodom.pl/oferta/nowe-2-pokojowe-z-widokiem-na-malte-bez-prowizji-ID3BWCv.html#e83dfcd217,0,0
+12,"Poznañ, Marcelin, Marceliñska",1 850,https://www.otodom.pl/oferta/nowe-mieszkanie-40-m2-wysoki-standard-garaz-ID3DWDe.html#e83dfcd217,16.890359,52.404942
+13,"Poznañ, Jasna Rola",1 200,https://www.otodom.pl/oferta/mieszkanie-do-wynajecia-3-pokoje-76-m2-jasna-rola-ID3DWyo.html#e83dfcd217,16.942213,52.435418
+14,"Poznañ, Rataje, Milczañska Inflancka Polanka Katowicka Malta Nowe Miasto Centrum Rataje",1 600,https://www.otodom.pl/oferta/okazja-nowe-mieszkanie-z-garazem-ID3DWmQ.html#e83dfcd217,0,0
+15,"Poznañ, Centrum, Mickiewicza",1 450,https://www.otodom.pl/oferta/mieszkanie-24-m-poznan-ID3DWle.html#e83dfcd217,16.912492,52.412750
+16,"Poznañ, Centrum, Mickiewicza",3 500,https://www.otodom.pl/oferta/mieszkanie-24-m-poznan-ID3DWli.html#e83dfcd217,16.912492,52.412750
+17,"Poznañ, Grunwald, Marceliñska",1 300,https://www.otodom.pl/oferta/piekna-duza-umeblowana-kawalerka-z-balkonem-ID3DWl6.html#e83dfcd217,16.890359,52.404942
+18,"Poznañ, Je¿yce,  Jana Henryka D¹browskiego",1 200,https://www.otodom.pl/oferta/ladna-kawalerka-z-balkonem-blisko-rynku-jezyckiego-ID3DUYI.html#e83dfcd217,0,0
+19,"Poznañ, Garbary,  Garbary",1 250,https://www.otodom.pl/oferta/mieszkanie-48-04-m-poznan-ID3DUgo.html#e83dfcd217,16.935807,52.401014
+20,"Poznañ, Stare Miasto,  Szyperska",1 190,https://www.otodom.pl/oferta/mieszkanie-50-m-poznan-ID3DUgk.html#e83dfcd217,16.940453,52.412302
+21,"Poznañ, Nowe Miasto, Krañcowa",1 190,https://www.otodom.pl/oferta/mieszkanie-50-m-poznan-ID3DUgc.html#e83dfcd217,16.978139,52.412773
+22,"Poznañ, Stare Miasto,  Dominikañska",1 500,https://www.otodom.pl/oferta/mieszkanie-31-m-poznan-ID3DUgg.html#e83dfcd217,16.935512,52.409711
+23,"Poznañ, Centrum",1 850,https://www.otodom.pl/oferta/stylowy-apartament-w-centrum-miasta-garbary-95-ID3DU6E.html#e83dfcd217,16.935512,52.409711
+24,"Poznañ, Sieradzka",1 350,https://www.otodom.pl/oferta/2-pokoje-na-sieradzkiej-ID3AAIP.html#e83dfcd217,16.935512,52.409711
+25,"Poznañ, Stare Miasto, Królewska",1 200,https://www.otodom.pl/oferta/piatkowo-ul-krolewska-2-pok-balkon-ID3DTdu.html#e83dfcd217,16.899544,52.458464
+26,"Poznañ, Naramowice",3 250,https://www.otodom.pl/oferta/dwupokojowe-na-naramowicach-ID3DT6k.html#e83dfcd217,16.899544,52.458464
+27,"Poznañ, Grunwald, Marceliñska",2 200,https://www.otodom.pl/oferta/grunwald-marcelinska-ladne-umebl-z-parkingiem-ID3DT1m.html#e83dfcd217,16.890359,52.404942
+28,"Poznañ, Centrum",1 300,https://www.otodom.pl/oferta/nowy-luksusowy-apartmamet-za-cytadela-wynajem-ID3pLhy.html#e83dfcd217,16.890359,52.404942
+29,"Poznañ, Rataje, Os. Piastowskie",1 700,https://www.otodom.pl/oferta/mieszkanie-48-m-poznan-ID3DSJC.html#e83dfcd217,0,0
+30,"Poznañ, Grunwald,  Stanis³awa Przybyszewskiego",2 499,https://www.otodom.pl/oferta/2-pokoje-grunwald-przybyszewskiego-marcelinksa-ID3DSo8.html#e83dfcd217,0,0
+0,"Poznañ, Je¿yce,  Zwierzyniecka 32",1 800,https://www.otodom.pl/oferta/poznan-jezyce-zajezdnia-zwierzyniecka-32-ID3Djr2.html#8866369e16,17.089163,52.231422
+1,"Poznañ, Wilda,  Rolna 39",1 850,https://www.otodom.pl/oferta/zamieszkaj-od-zaraz-na-wildzie-poznan-rolna-39-ID3DOag.html#8866369e16,16.915291,52.380208
+2,"Poznañ,  Rolna",1 300,https://www.otodom.pl/oferta/mieszkanie-poznan-ul-rolna-ID2Rogd.html#8866369e16,16.916534,52.382676
+3,"Poznañ, Staro³êka,  œw. Antoniego",1 200,https://www.otodom.pl/oferta/klimatyczne-mieszkanie-na-poddaszu-poznan-rataje-ID3ASw9.html#8866369e16,0,0
+4,"Poznañ, Dêbiec, REDPARK 28 CZERWCA",1 300,https://www.otodom.pl/oferta/wynajme-zupelnie-nowe-mieszkanie-ID3Bjw2.html#8866369e16,0,0
+5,"Poznañ, Grunwald,  U³añska",2 300,https://www.otodom.pl/oferta/os-ulanskie-zielona-okolica-city-park-centrum-ID3Evf2.html#8866369e16,16.895864,52.401681
+6,"Poznañ, Staro³êka,  œw. Antoniego",2 200,https://www.otodom.pl/oferta/klimatyczne-mieszkanie-na-poddaszu-poznan-rataje-ID3ASw9.html#8866369e16,0,0
+7,"Poznañ, Stare Miasto, stare miasto",1 200,https://www.otodom.pl/oferta/mieszkanie-115-m-poznan-ID3DRpa.html#8866369e16,16.910507,52.459396
+8,"Poznañ, Wilda, Saperska",1 300,https://www.otodom.pl/oferta/komfortowe-2-pokojowe-saperska-poznan-ID3DRhi.html#8866369e16,16.916691,52.376964
+9,"Poznañ, Stare Miasto,  Garbary",1 800,https://www.otodom.pl/oferta/mieszkanie-35-m-poznan-ID3DR08.html#8866369e16,16.935807,52.401014
+10,"Poznañ, Stare Miasto,  Garbary",1 850,https://www.otodom.pl/oferta/mieszkanie-56-m-poznan-ID3DR0c.html#8866369e16,16.935807,52.401014
+11,"Poznañ, Stare Miasto, Szyperska",1 690,https://www.otodom.pl/oferta/mieszkanie-49-m-poznan-ID3DR04.html#8866369e16,16.940453,52.412302
+12,"Poznañ, ¯niwna",1 850,https://www.otodom.pl/oferta/nowoczesny-apartament-w-doskonalej-lokalizacji-ID3DQVk.html#8866369e16,16.940453,52.412302
+13,"Poznañ, Stare Miasto, Towarowa 37",1 200,https://www.otodom.pl/oferta/mieszkanie-55-m-poznan-ID3DQry.html#8866369e16,16.915950,52.403835
+14,"Poznañ, Turkusowa",1 600,https://www.otodom.pl/oferta/kawalerka-na-winiarach-ID3DQlS.html#8866369e16,16.915950,52.403835
+15,"Poznañ, Je¿yce, Koœcielna",1 450,https://www.otodom.pl/oferta/mieszkanie-45-m-poznan-ID3DQ6Q.html#8866369e16,16.903287,52.413070
+16,"Poznañ, Rataje, Os. Piastowskie",3 500,https://www.otodom.pl/oferta/os-piastowskie-ID3DQ4o.html#8866369e16,0,0
+17,"Poznañ, Grunwald, Zb¹szyñska Bukowska Przybyszewskiego",1 300,https://www.otodom.pl/oferta/nowe-2pokojowe-mieszkanie-wysoki-standard-ochrona-ID3DPI8.html#8866369e16,0,0
+18,"Poznañ, Wilda,  Rolna",1 200,https://www.otodom.pl/oferta/pachnace-nowoscia-2-pokoje-na-zamknietym-osiedlu-ID3DPvk.html#8866369e16,16.916534,52.382676
+19,"Poznañ, Wilda,  Romualda Traugutta",1 250,https://www.otodom.pl/oferta/wynajme-bezczynszowa-kawalerke-w-kamienicy-ID3DPsv.html#8866369e16,0,0
+20,"Poznañ, Naramowice,  Karpia",1 190,https://www.otodom.pl/oferta/nowoczesne-i-przestronne-z-miejscem-garazowym-ID3C112.html#8866369e16,16.949781,52.445020
+21,"Poznañ, Warszawskie, Pu³tuska",1 190,https://www.otodom.pl/oferta/poznan-warszawskie-wynajme-ID3DP8c.html#8866369e16,16.991238,52.408209
+22,"Poznañ, Nowe Miasto,  Warszawska",1 500,https://www.otodom.pl/oferta/urocze-mieszkanie-w-willi-miejskiej-blisko-malty-ID3DOMv.html#8866369e16,16.981406,52.409868
+23,"Poznañ,  Antoniego Madaliñskiego",1 850,https://www.otodom.pl/oferta/przytulne-3-pokojowe-40m2-wilda-green-point-ID3DOD6.html#8866369e16,0,0
+24,"Poznañ, Naramowice, B³a¿eja",1 350,https://www.otodom.pl/oferta/mieszkanie-45-m-poznan-ID3DOBC.html#8866369e16,16.940683,52.458776
+25,"Poznañ, Stare Miasto, Podgórna",1 200,https://www.otodom.pl/oferta/mieszkanie-161-m-poznan-ID3DOyc.html#8866369e16,16.931966,52.405733
+26,"Poznañ, Je¿yce",3 250,https://www.otodom.pl/oferta/na-wynajem-mieszkanie-2-pokoje-zajezdnia-poznan-ID3DOo4.html#8866369e16,16.931966,52.405733
+27,"Poznañ, Antoninek-Zieliniec-Kobylepole, W³odzimierza Majakowskiego",2 200,https://www.otodom.pl/oferta/atrakcyjny-apartament-warzelnia-ID3DOn6.html#8866369e16,0,0
+28,"Poznañ, Warszawskie, Pu³tuska",1 300,https://www.otodom.pl/oferta/mieszkanie-65-m-poznan-ID3DOnK.html#8866369e16,16.991238,52.408209
+29,"Poznañ, Centrum,  Czartoria",1 700,https://www.otodom.pl/oferta/centrum-z-widokiem-na-warte-dwupoziomowe-ID3DNHC.html#8866369e16,16.942676,52.407919
+30,"Poznañ, Pi¹tkowo,  Dalemiñska",2 499,https://www.otodom.pl/oferta/3-pokoje-parter-tuz-przy-zurawincu-ID3Bw9V.html#8866369e16,16.932202,52.450985
+0,"Poznañ, Je¿yce,  Mylna 31 B",1 800,https://www.otodom.pl/oferta/centrum-jezyce-z-duzym-tarasem-miejsce-parkingowe-ID3c7EM.html#a71fe0fbeb,0,0
+1,"Poznañ, Centrum, ul marratonska",1 850,https://www.otodom.pl/oferta/centrum-na-prestizowym-osiedlu-maraton-gardens-ID39O76.html#a71fe0fbeb,0,0
+2,"Poznañ, £azarz,  Józefa Strusia",1 300,https://www.otodom.pl/oferta/stylowe-2-pokojowe-do-wynajecia-w-poznaniu-ID3AfZ9.html#a71fe0fbeb,0,0
+3,"Poznañ, Podolany,  Strzeszyñska",1 200,https://www.otodom.pl/oferta/wynajme-mieszkanie-kawalerke-wysoki-standard-ID2Ygao.html#a71fe0fbeb,16.886569,52.452976
+4,"Poznañ, Rataje,  Oœwiecenia",1 300,https://www.otodom.pl/oferta/rataje-oswiecenia-juz-dostepne-umeblowane-3-pokoje-ID3E9Lq.html#a71fe0fbeb,16.962806,52.389103
+5,"Poznañ, Grunwald,  Œwit",2 300,https://www.otodom.pl/oferta/wynajme-3-pokoje-poznan-grunwald-polecam-ID3AiPB.html#a71fe0fbeb,16.879403,52.409170
+6,Poznañ,2 200,https://www.otodom.pl/oferta/mieszkanie-dwupokojowe-balkon-czyste-wyposazone-ID3DmWG.html#a71fe0fbeb,16.879403,52.409170
+7,"Poznañ, Stary Rynek, D³uga 10",1 200,https://www.otodom.pl/oferta/centrum-poznan-wielkopolskie-kawalerka-wynajme-ID2tLMY.html#a71fe0fbeb,0,0
+8,"Poznañ, Pó³wiejska",1 300,https://www.otodom.pl/oferta/luksusowy-apartament-w-centrum-polwiejska-2-pok-ID3DN5K.html#a71fe0fbeb,0,0
+9,"Poznañ, W³adys³awa Syrokomli",1 800,https://www.otodom.pl/oferta/nowe-duze-mieszkanie-na-piatkowe-ID3DN5C.html#a71fe0fbeb,16.909573,52.447884
+10,"Poznañ, So³acz, Micha³a Drzyma³y",1 850,https://www.otodom.pl/oferta/apartament-2-pok-solacz-drzymaly-ID3DN5m.html#a71fe0fbeb,0,0
+11,"Poznañ, Winogrady,  PrzyjaŸni",1 690,https://www.otodom.pl/oferta/apartament-2-pok-winogrady-os-przyjazni-ID3DN5q.html#a71fe0fbeb,16.930590,52.432537
+12,"Poznañ, Winogrady, Za Cytadel¹",1 850,https://www.otodom.pl/oferta/apartament-2-pok-za-cytadela-wysoki-standard-ID3DN5u.html#a71fe0fbeb,16.942577,52.424319
+13,"Poznañ, Bó¿nicza",1 200,https://www.otodom.pl/oferta/apartament-w-centrum-3-pokoje-m-postojowe-ID3DN04.html#a71fe0fbeb,16.942577,52.424319
+14,"Poznañ, Centrum, 27 Grudnia",1 600,https://www.otodom.pl/oferta/apartament-1-pok-centrum-ul-27-grudnia-ID3DN00.html#a71fe0fbeb,16.924249,52.408145
+15,"Poznañ, Wilda, Robocza",1 450,https://www.otodom.pl/oferta/2-pokoje-wilda-ul-robocza-balkon-garaz-ID3DMYQ.html#a71fe0fbeb,16.914571,52.392661
+16,"Poznañ, £azarz",3 500,https://www.otodom.pl/oferta/mieszkanie-40-m-poznan-ID3DMGc.html#a71fe0fbeb,16.914571,52.392661
+17,"Poznañ, Grunwald, Marceliñska ATANER",1 300,https://www.otodom.pl/oferta/grunwald-os-marcelin-ataner-ID3DM8c.html#a71fe0fbeb,0,0
+18,"Poznañ, Nowe Miasto,  Milczañska",1 200,https://www.otodom.pl/oferta/mieszkanie-miejsce-w-hali-g-ul-milczanska-poznan-ID3DKpy.html#a71fe0fbeb,16.964752,52.393060
+19,"Poznañ, Rataje, Katowicka",1 250,https://www.otodom.pl/oferta/mieszkanie-56-m-poznan-ID3DK9C.html#a71fe0fbeb,16.966465,52.395877
+20,"Poznañ, Rataje, Milczañska",1 190,https://www.otodom.pl/oferta/mieszkanie-36-m-poznan-ID3DK9u.html#a71fe0fbeb,16.964752,52.393060
+21,"Poznañ, Je¿yce, Staszica",1 190,https://www.otodom.pl/oferta/mieszkanie-70-m-poznan-ID3DJPm.html#a71fe0fbeb,16.899073,52.412704
+22,"Poznañ, Winiary, Pi¹tkowska",1 500,https://www.otodom.pl/oferta/mieszkanie-38-m-poznan-ID3DJnK.html#a71fe0fbeb,16.914851,52.431771
+23,"Poznañ, Rataje,  Powstañ Narodowych",1 850,https://www.otodom.pl/oferta/kawalerka-poznan-rataje-os-powstan-narodowych-ID3DJgo.html#a71fe0fbeb,16.956645,52.389349
+24,"Poznañ, Je¿yce,  Maksymiliana Jackowskiego",1 350,https://www.otodom.pl/oferta/przestronna-kawalerka-w-stylowej-kamienicy-ID3DJgA.html#a71fe0fbeb,0,0
+25,"Poznañ, Wilda, Pami¹tkowa",1 200,https://www.otodom.pl/oferta/2-pok-1600-zl-z-balkonem-obok-green-point-ID3DIUI.html#a71fe0fbeb,16.914981,52.386929
+26,"Poznañ, Pi¹tkowo, Boles³awa Chrobrego",3 250,https://www.otodom.pl/oferta/mieszkanie-54-m-poznan-ID3DIGU.html#a71fe0fbeb,16.907576,52.458652
+27,"Poznañ, Centrum,  Maratoñska",2 200,https://www.otodom.pl/oferta/maraton-gardens-piekny-nowy-apartament-z-ochrona-ID3DIG8.html#a71fe0fbeb,16.931473,52.397862
+28,"Poznañ, Rataje, Osiedle Czecha",1 300,https://www.otodom.pl/oferta/okazja-os-czecha-komfortowe-2-pokojowe-od-1-06-ID3DIjC.html#a71fe0fbeb,0,0
+29,"Poznañ, Centrum, Bó¿nicza",1 700,https://www.otodom.pl/oferta/boznicza-komfortowa-kawalerka-35-m2-od-1-lipca-ID3DIju.html#a71fe0fbeb,16.935583,52.412687
+30,"Poznañ, G³ówna",2 499,https://www.otodom.pl/oferta/mieszkanie-38-m-poznan-ID3DIis.html#a71fe0fbeb,16.935583,52.412687
+0,"Poznañ, Garbary 95",1 800,https://www.otodom.pl/oferta/sloneczne-w-centrum-miasta-3-pokoje-garbary-95-ID3BVCY.html#3d374936f9,19.375108,51.954771
+1,"Poznañ, Stare Miasto",1 850,https://www.otodom.pl/oferta/do-wynajecia-nowe-mieszkanie-w-poznaniu-ID3e6tO.html#3d374936f9,17.406394,52.089386
+2,"Poznañ,  Milczañska",1 300,https://www.otodom.pl/oferta/mieszkanie-na-wynajem-milczanska-ID3EWXe.html#3d374936f9,16.964752,52.393060
+3,"Poznañ, Pi¹tkowo,  Stefana Batorego",1 200,https://www.otodom.pl/oferta/kawalerka-32m-os-batorego-bezposrednio-ID3EV7C.html#3d374936f9,16.926342,52.456025
+4,"Poznañ, Pi¹tkowo,  Boles³awa Chrobrego 31",1 300,https://www.otodom.pl/oferta/wynajme-mieszkanie-2-pokoje-os-chrobrego-poznan-ID3vtWp.html#3d374936f9,16.918612,52.447906
+5,"Poznañ, Wilda, masterm 2016",2 300,https://www.otodom.pl/oferta/mieszkanie-dwupokojowe-40-m-kw-ID3El5O.html#3d374936f9,0,0
+6,"Poznañ, Strzeszyn,  Literacka",2 200,https://www.otodom.pl/oferta/sloneczne-mieszkanie-na-strzeszynie-greckim-ID3AgvH.html#3d374936f9,16.869061,52.450825
+7,"Poznañ, Warszawska",1 200,https://www.otodom.pl/oferta/wyjatkowa-oferta-dla-studentow-absolwentow-ID3DHZV.html#3d374936f9,16.869061,52.450825
+8,"Poznañ, Stare Miasto, Kazimierza Wielkiego",1 300,https://www.otodom.pl/oferta/mieszkanie-85-m-poznan-ID3DHFm.html#3d374936f9,16.937498,52.401601
+9,"Poznañ, Je¿yce, Galla Anonima",1 800,https://www.otodom.pl/oferta/umeblowane-2-pokoje-na-jezycach-ID3DHDe.html#3d374936f9,16.896793,52.413224
+10,"Poznañ, Stare Miasto, Grobla",1 850,https://www.otodom.pl/oferta/apartament-z-tarasem-na-starym-miescie-ID3DHDa.html#3d374936f9,16.942137,52.404249
+11,"Poznañ, Grunwald, Brzask",1 690,https://www.otodom.pl/oferta/komfortowy-apartament-na-grunwaldzie-ID3DHCU.html#3d374936f9,16.878534,52.407471
+12,"Poznañ, Pi¹tkowo,  Batorego",1 850,https://www.otodom.pl/oferta/mieszkanie-56-m-poznan-ID3DHCM.html#3d374936f9,16.926342,52.456025
+13,"Poznañ, Grunwald, Sieradzka",1 200,https://www.otodom.pl/oferta/przytulne-2-pokoje-na-grunwaldzie-ID3DHCQ.html#3d374936f9,16.851939,52.384796
+14,"Poznañ,  Kazimierza Wielkiego",1 600,https://www.otodom.pl/oferta/komfortowe-w-centrum-z-miejscem-w-hali-garazowej-ID3DHru.html#3d374936f9,16.937498,52.401601
+15,"Poznañ, Chwaliszewo, Grobla",1 450,https://www.otodom.pl/oferta/kawalerka-do-adaptacji-centrum-grobla-ID3DHp2.html#3d374936f9,16.942137,52.404249
+16,"Poznañ, Chwaliszewo, Grobla",3 500,https://www.otodom.pl/oferta/mieszkanie-dwupokojowe-do-remontu-centrum-grobla-ID3DHoM.html#3d374936f9,16.942137,52.404249
+17,"Poznañ, Grunwald",1 300,https://www.otodom.pl/oferta/mieszkanie-48-m-poznan-ID3DHhK.html#3d374936f9,16.942137,52.404249
+18,"Poznañ, Grunwald",1 200,https://www.otodom.pl/oferta/mieszkanie-48-m-poznan-ID3DHhm.html#3d374936f9,16.942137,52.404249
+19,"Poznañ, Grunwald",1 250,https://www.otodom.pl/oferta/mieszkanie-48-m-poznan-ID3DHhq.html#3d374936f9,16.942137,52.404249
+20,"Poznañ, Grunwald",1 190,https://www.otodom.pl/oferta/mieszkanie-46-64-m-poznan-ID3DHhy.html#3d374936f9,16.942137,52.404249
+21,"Poznañ, Grunwald",1 190,https://www.otodom.pl/oferta/mieszkanie-54-22-m-poznan-ID3DHhi.html#3d374936f9,16.942137,52.404249
+22,"Poznañ, Winogrady, Bonin, Okazja!",1 500,https://www.otodom.pl/oferta/3-pokoje-bonin-winogrady-ID3DH08.html#3d374936f9,0,0
+23,"Poznañ, So³acz, Soko³a",1 850,https://www.otodom.pl/oferta/atrakcyjne-mieszkanie-2-pokojowe-na-wynajem-ID3yStJ.html#3d374936f9,16.912851,52.429627
+24,"Poznañ, Wilda, Przemys³owa",1 350,https://www.otodom.pl/oferta/komfortowe-mieszkanie-z-hala-garazowa-na-wildzie-ID3BArG.html#3d374936f9,16.918859,52.398172
+25,"Poznañ, Stare Miasto,  Wzgórze œw. Wojciecha",1 200,https://www.otodom.pl/oferta/stare-miasto-cisza-i-zielen-ID3CBxy.html#3d374936f9,0,0
+26,"Poznañ, Pi¹tkowo,  Stefana Batorego",3 250,https://www.otodom.pl/oferta/wynajme-mieszkanie-48-5-m2-os-stefana-batorego-ID3DGMY.html#3d374936f9,16.926342,52.456025
+27,Poznañ,2 200,https://www.otodom.pl/oferta/wynajme-3-pokojowe-ul-naramowicka-ID3DGeU.html#3d374936f9,16.926342,52.456025
+28,"Poznañ, Grunwald, Smardzewska",1 300,https://www.otodom.pl/oferta/mieszkanie-20-m-poznan-ID3DFOc.html#3d374936f9,16.861104,52.389697
+29,"Poznañ, Stary Rynek,  Kwiatowa",1 700,https://www.otodom.pl/oferta/klimatyczny-apartament-w-centrum-poznania-ID3DFFG.html#3d374936f9,0,0
+30,"Poznañ, £azarz, Che³moñskiego",2 499,https://www.otodom.pl/oferta/mieszkanie-30-m-poznan-ID3DF2s.html#3d374936f9,16.898848,52.400851

@@ -14,6 +14,7 @@ adress_autocomplete <- streets$streets
 fluidPage(
     theme = shinytheme("yeti"),
     tags$head(tags$style("label[for=income] {width: 100%}
+                .fa-home {font-size: 600% !important}
                 label[for=buildings] {background-color: lightblue; top: 16px;left: 35px;}
                h3 {margin-top: 5px}
                #building {padding: 7px;height: 80%;}
@@ -21,7 +22,7 @@ fluidPage(
                .noUi-connect {background: #222222}
                .control-label {width: 100%}
                #earnings, #age {width: 92%}
-               div.material-switch{font-size: 80%;margin-top: 4%;}
+               div.material-switch{font-size: 70%;margin-top: 4%;}
                .btn-default{background-color: white;}
                hr {margin-top: 1px; margin-bottom: 1px; border-top: 1px solid darkgrey; border-bottom: 2px solid white}")
               
@@ -48,7 +49,7 @@ fluidPage(
                                                 #template = HTML("<p class='repo-language'>{{info}}</p> <p class='repo-name'>{{name}}</p>")
                                  )),
                              div(style="display: inline-block;vertical-align:bottom; width: 20%; margin-left:10%", 
-                                 numericInput("building", label = 'Building nr:',
+                                 numericInput("building", label = 'Building No:',
                                               value = 1, min = 0, max = 1000, step = 1)),
                              hr(),
                              div(style="display: inline-block;vertical-align:bottom; width: 50%;", 
@@ -95,7 +96,8 @@ fluidPage(
                 
                 mainPanel(
                     h2("You want to move to the darkest areas!"),
-                    leafletOutput("map", height = 600)
+                    leafletOutput("map", height = 600),
+                    uiOutput("tab")
                 )
             )
             

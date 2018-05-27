@@ -256,5 +256,5 @@ for (k in 4:8) {
 
     
 # Otodom
-    otodom <- read.csv("otodom.csv")
+    otodom <- read.csv("otodom2.csv")
     

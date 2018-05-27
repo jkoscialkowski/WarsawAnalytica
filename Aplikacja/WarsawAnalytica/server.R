@@ -5,6 +5,8 @@ library(httr)
 library(randomForest)
 load("deploy.RData")
 load("modelRF.Rdata")
+otodom <- read.csv("otodom.csv", stringsAsFactors = FALSE)
+
 
 shinyServer(function(input, output) {
    
@@ -168,12 +170,31 @@ shinyServer(function(input, output) {
             addLegend("bottomright", pal = pal, values = prediction()[,5], title = "Score")
     })
     
-    # output$address_clean <- reactive({
-    #     clean <- POST(url = "http://api.locit.pl/webservice/address-autocomplete/v2.0.0/", 
-    #                   query = list(key = "maraton0n895gbsgc72bbksa042mad02", 
-    #                                schema = "basic", query = input$address, format = "json", charset = "UTF-8"))
-    #     clean <- content(clean, as = "parse")
-    #     paste(clean$data[[1]]$street, clean$data[[1]]$building, clean$data[[1]]$city, clean$data[[1]]$zip, sep = " ")
-    #     
-    # })
+    url <- reactive({
+        class <- which.min(apply(sweep(model$centers, 2, as.numeric(newdata())), 1, function(x) sum(x^2)))
+        class_logi <- model$cluster == class
+        grid <- apply(X_nonsc[class_logi,1:2], 1, paste, sep = ",", collapse = ",")
+        grid_oto <- cbind(ceiling((otodom$x - centre[2])/met_deg[2]), ceiling((otodom$y - centre[1])/met_deg[1]))
+        grid_oto <- apply(grid_oto, 1, paste, sep = ",", collapse = ",")
+        grid_oto <- grid_oto[!is.na(grid_oto)]
+        grid_oto <- match(grid, grid_oto)
+        grid_oto <- grid_oto[!is.na(grid_oto)]
+        grid_oto <- otodom[grid_oto, ]
+        grid_oto <- grid_oto[sample(1:nrow(grid_oto), 1), ]
+        as.character(grid_oto$url)
+        a(icon("home"), href = as.character(grid_oto$url))
+    })
+
+    output$tab <- renderUI({
+        tagList("Recommended apartment:", url())
+    })
+    
+    output$address_clean <- reactive({
+        clean <- POST(url = "http://api.locit.pl/webservice/address-autocomplete/v2.0.0/",
+                      query = list(key = "maraton0n895gbsgc72bbksa042mad02",
+                                   schema = "basic", query = input$address, format = "json", charset = "UTF-8"))
+        clean <- content(clean, as = "parse")
+        paste(clean$data[[1]]$street, clean$data[[1]]$building, clean$data[[1]]$city, clean$data[[1]]$zip, sep = " ")
+
+    })
 })
