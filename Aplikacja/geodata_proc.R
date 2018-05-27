@@ -240,10 +240,16 @@ for (k in 4:8) {
     results[[5]]
     
 # Saving .RData file to deploy
+    library(randomForest)
+    load("D:/WarsawAnalytica/Aplikacja/modelRF.Rdata")
+    
+    
     model <- kmeans_list[[1]]
     clusters <- results[[1]]
     clusters$mean_doch <- clusters$mean_doch*sd(X$doch_med) + mean(X$doch_med)
     X_nonsc <- X[,1:5]
     save(list = c("model", "clusters", "X_sc", "grid_to_rect", "X_nonsc"), 
          file = "D:/WarsawAnalytica/Aplikacja/WarsawAnalytica/deploy.RData")
+    
+    
     

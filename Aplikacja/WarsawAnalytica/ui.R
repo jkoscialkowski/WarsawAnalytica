@@ -85,7 +85,7 @@ fluidPage(
                 ),
                 mainPanel(
                     h2("You want to move THERE!"),
-                    leafletOutput("map"),
+                    leafletOutput("map", height = 600),
                     textOutput("text")
                 )
             )

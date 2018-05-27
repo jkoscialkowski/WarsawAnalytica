@@ -2,7 +2,7 @@
 library(shiny)
 library(leaflet)
 load("deploy.RData")
-
+load("modelRF.Rdata")
 
 shinyServer(function(input, output) {
    
@@ -23,11 +23,94 @@ shinyServer(function(input, output) {
     })
     
     newdata <- reactive({
+        df <- data.frame(PLEC=integer(),
+                         B19=integer(),
+                         is_wies=logical(),
+                         is_miasto_do_19_tys=integer(),
+                         is_miasto_20_99_tys=integer(),
+                         is_miasto_100_499_tys=integer(),
+                         is_Vocational=integer(),
+                         is_Secondary=integer(),
+                         is_Higher=integer(),
+                         is_26_30=integer(),
+                         is_31_35=integer(),
+                         is_36_40=integer(),
+                         is_41_45=integer(),
+                         is_45_65=integer(),
+                         is_more66=integer()
+        )
+        df[1, ] <- c(1, 5500, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0)
+        names(df)
+        city_input <- input$city
+        cities <- c("village", "city under 19k", "city 19-99k", "city 100-499k", "city over 500k")
+        cities_model <- c('is_wies', 'is_miasto_do_19_tys', 'is_miasto_20_99_tys', 'is_miasto_100_499_tys')
+        if(is.na(cities_model[which(city_input == cities)])){
+            df[, which(names(df) %in% cities_model)] <- 0
+        }else{
+            df[, which(names(df) %in% cities_model)] <- 0
+            df[, cities_model[which(cities == city_input)]] <- 1
+        }
+        
+        sexies <- c("Male", "Female", "Prefer not to say")
+        sex_input <- input$sex
+        
+        ind <- which(sexies == sex_input)
+        if(ind == 0){
+            # the more in df_all_cases database
+            sex <- 1
+        }else{
+            sex <- ind - 1
+        }
+        
+        ages <- c("is_26_30", "is_31_35", "is_36_40", "is_41_45", "is_45_65", "is_more66")         
+        age_input <- input$age
+        
+        if(age_input < 25){
+            age <- 0
+        }else if(age_input < 30){
+            age <- "is_26_30"
+        }else if(age_input < 35){
+            age <- "is_31_35"
+        }else if(age_input < 40){
+            age <- 'is_36_40'
+        }else if(age_input < 45){
+            age <- 'is_41_45'
+        }else if(age_input < 65){
+            age <- 'is_45_65'
+        }else{
+            age <- 'is_more66'
+        }
+        df[, ages] <- 0
+        if(age != 0){
+            df[, age] <- 1
+        }
+        education_input <- input$education
+        educations <- c("Prefer not to say", 'is_Vocational', 'is_Secondary', 'is_Higher')
+        ind <- which(education_input == gsub('is_', '', educations))
+        ind
+        if(length(ind) == 0){
+            df[, educations] <- 0
+        }else if(ind == 0){
+            df[, educations] <- 0
+        }else{
+            df[, educations] <- 0
+            df[, which(names(df) == educations[ind])] <- 1
+        }
+        earnings_input <- input$income
+        if(earnings_input == 0){
+            earnings_input <- mean(X$doch_med)
+        }else{
+            earnings <- earnings_input
+        }
+        
+        
+        rf_new <- predict(fit, newdata = df)
+        
         data.frame(x = ceiling((as.numeric(clean()$data[[1]]$x) - centre[2])/met_deg[2]),
                    y = ceiling((as.numeric(clean()$data[[1]]$y) - centre[1])/met_deg[1]),
-                   doch_min = (input$income - 1000 - mean(X_nonsc[,3]))/sd(X_nonsc[,3]),
+                   doch_min = (input$income - 2*565*(1 - rf_new) - mean(X_nonsc[,3]))/sd(X_nonsc[,3]),
                    doch_med = (input$income - mean(X_nonsc[,4]))/sd(X_nonsc[,4]),
-                   doch_max = (input$income + 1000 - mean(X_nonsc[,5]))/sd(X_nonsc[,5]),
+                   doch_max = (input$income + 2*565*(1 - rf_new) - mean(X_nonsc[,5]))/sd(X_nonsc[,5]),
                    zabudowa = input$buildings,
                    plec = ifelse(input$sex == "Female", 1, ifelse(input$sex == "Male", 0, 0.5)),
                    wiek_25_34 = ifelse(input$age >= 25 & input$age < 35, 1, 0),
@@ -58,10 +141,6 @@ shinyServer(function(input, output) {
         score[,5] <- order(score[,5])/nrow(score)
         colnames(score) <- c("lng1", "lat1", "lng2", "lat2", "score")
         score
-    })
-    
-    output$text <- reactive({
-        clean()$data[[1]]$x
     })
     
     output$map <- renderLeaflet({
