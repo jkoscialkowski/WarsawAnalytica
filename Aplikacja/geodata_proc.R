@@ -244,12 +244,17 @@ for (k in 4:8) {
     load("D:/WarsawAnalytica/Aplikacja/modelRF.Rdata")
     
     
-    model <- kmeans_list[[1]]
-    clusters <- results[[1]]
+    model <- kmeans_list[[2]]
+    clusters <- results[[2]]
     clusters$mean_doch <- clusters$mean_doch*sd(X$doch_med) + mean(X$doch_med)
     X_nonsc <- X[,1:5]
     save(list = c("model", "clusters", "X_sc", "grid_to_rect", "X_nonsc"), 
          file = "D:/WarsawAnalytica/Aplikacja/WarsawAnalytica/deploy.RData")
     
     
+    save(list = c("plots"), file = "plots.RData")
+
+    
+# Otodom
+    otodom <- read.csv("otodom.csv")
     

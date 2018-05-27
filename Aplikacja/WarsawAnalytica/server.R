@@ -1,6 +1,8 @@
 
 library(shiny)
 library(leaflet)
+library(httr)
+library(randomForest)
 load("deploy.RData")
 load("modelRF.Rdata")
 
@@ -16,7 +18,7 @@ shinyServer(function(input, output) {
     clean <- reactive({
         clean <- POST(url = "http://api.locit.pl/webservice/address-autocomplete/v2.0.0/", 
                       query = list(key = "maraton0n895gbsgc72bbksa042mad02", 
-                                   schema = "basic", query = paste(input$address, "Poznan", sep = " "), 
+                                   schema = "basic", query = paste(input$address, input$building, "Poznan", sep = " "), 
                                    format = "json", charset = "UTF-8"))
         clean <- content(clean, as = "parse")
         clean
@@ -154,16 +156,17 @@ shinyServer(function(input, output) {
         # req(input$teenagers)
         # req(input$students)
         # 
-        leaflet() %>% setView(lat = clean()$data[[1]]$y, lng = clean()$data[[1]]$x, zoom = 15) %>% 
-            addProviderTiles(providers$OpenStreetMap) %>%
+        pal <- colorNumeric("Blues", domain = prediction()[,5])
+        leaflet() %>% setView(lat = clean()$data[[1]]$y, lng = clean()$data[[1]]$x, zoom = 13) %>% 
             addMarkers(lat = as.numeric(clean()$data[[1]]$y), lng = as.numeric(clean()$data[[1]]$x), 
                        popup = "You currently live here") %>%
+            addProviderTiles(providers$OpenStreetMap) %>%
             addRectangles(lng1 = prediction()[,1], lat1 = prediction()[,2], 
                           lng2 = prediction()[,3], lat2 = prediction()[,4], 
-                          fillColor = colorQuantile("Blues", prediction()[,5], n = 9)(prediction()[,5]),
-                          fillOpacity = 0.7, weight = 1)
+                          fillColor = pal(prediction()[,5]),
+                          fillOpacity = 0.7, weight = 1) %>% 
+            addLegend("bottomright", pal = pal, values = prediction()[,5], title = "Score")
     })
-    
     
     # output$address_clean <- reactive({
     #     clean <- POST(url = "http://api.locit.pl/webservice/address-autocomplete/v2.0.0/", 

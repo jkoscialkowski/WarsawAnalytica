@@ -1,0 +1,42 @@
+---
+title: "W poszukiwaniu swojego miejsca na ziemi"
+author: "WarsawAnalytica"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Prezentacja problemu
+
+
+## Zastosowane metody
+
+Wykorzystaliœmy serwer PostgreSQL i API dostarczone przez firme DataWise
+
+- PostgreSQL -> obiekty geometryczne -> wspolrzedne geograficzne
+- Pokrycie miasta siatka -> agregacja danych dotyczacych demografii, zarobkow i POI
+- Klastrowanie k-means, wybór najwiêkszego k ( = 5), przy którym nie ma ma³ych klastrów
+- Klasyfikacja u¿ytkownika aplikacji do danego klastra i propozycja miejsca zamieszkania
+
+## Wyniki klastrowania
+
+```{r, echo=FALSE, results="asis", warning=FALSE}
+library(xtable)
+load("D:/WarsawAnalytica/Aplikacja/WarsawAnalytica/deploy.RData")
+colnames(clusters) <- c("Klaster", "Sredni dochod", "% niskiej zabudowy", 
+                        "% kobiet", "% dzieci", "% mlodych", "% emerytow", "Licznik")
+print(xtable(clusters), type = "html", include.rownames = FALSE)
+
+```
+<br>
+1 - biedniejsi emeryci?
+<br>
+5 - bardziej zamozne rodziny z dziecmi?
+
+## Slide With Plot
+
+Wszystkie niezbedne pliki dostepne na GitHubie: [https://github.com/jkoscialkowski](https://github.com/jkoscialkowski).
+
+Aplikacja: [https://jkoscialkowski.shinyapps.io/WarsawAnalytica/](https://jkoscialkowski.shinyapps.io/WarsawAnalytica/).
