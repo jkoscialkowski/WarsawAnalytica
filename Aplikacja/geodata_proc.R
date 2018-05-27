@@ -194,7 +194,7 @@ adresy <- adresy %>% filter(nazwa_miejsc == "POZNAÑ")
 # Clustering
     library(ggplot2)
     X_sc <- X
-    X_sc[,1:5] <- scale(X_sc[,1:5])
+    X_sc[,3:5] <- scale(X_sc[,3:5])
     pca <- prcomp(X_sc)
     
     d <- dist(X_sc)

@@ -22,10 +22,8 @@ shinyServer(function(input, output) {
     })
     
     newdata <- reactive({
-        data.frame(x = (ceiling((as.numeric(clean()$data[[1]]$x) - centre[2])/met_deg[2]) - 
-                            mean(X_nonsc[,1]))/sd(X_nonsc[,1]),
-                   y = (ceiling((as.numeric(clean()$data[[1]]$y) - centre[1])/met_deg[1]) - 
-                            mean(X_nonsc[,2]))/sd(X_nonsc[,2]),
+        data.frame(x = ceiling((as.numeric(clean()$data[[1]]$x) - centre[2])/met_deg[2]),
+                   y = ceiling((as.numeric(clean()$data[[1]]$y) - centre[1])/met_deg[1]),
                    doch_min = (input$income - 1000 - mean(X_nonsc[,3]))/sd(X_nonsc[,3]),
                    doch_med = (input$income - mean(X_nonsc[,4]))/sd(X_nonsc[,4]),
                    doch_max = (input$income + 1000 - mean(X_nonsc[,5]))/sd(X_nonsc[,5]),
@@ -61,10 +59,6 @@ shinyServer(function(input, output) {
         score
     })
     
-    output$text <- reactive({
-        paste(prediction()[,5])
-    })
-    
     output$map <- renderLeaflet({
         #req(input$amenities)
         req(input$address)
@@ -78,10 +72,12 @@ shinyServer(function(input, output) {
         # 
         leaflet() %>% setView(lat = clean()$data[[1]]$y, lng = clean()$data[[1]]$x, zoom = 15) %>% 
             addProviderTiles(providers$OpenStreetMap) %>%
+            addMarkers(lat = as.numeric(clean()$data[[1]]$y), lng = as.numeric(clean()$data[[1]]$x), 
+                       popup = "You currently live here") %>%
             addRectangles(lng1 = prediction()[,1], lat1 = prediction()[,2], 
                           lng2 = prediction()[,3], lat2 = prediction()[,4], 
-                          fillColor = colorQuantile("Blues", prediction()[,5], n = 10)(prediction()[,5]),
-                          fillOpacity = 0.8, weight = 1)
+                          fillColor = colorQuantile("Blues", prediction()[,5], n = 9)(prediction()[,5]),
+                          fillOpacity = 0.7, weight = 1)
     })
     
     
