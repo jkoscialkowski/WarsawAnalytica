@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>W poszukiwaniu swojego miejsca na ziemi   (w Poznaniu)</title>
+  <title>W poszukiwaniu swojego miejsca   na ziemi (w Poznaniu)</title>
 
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -20,7 +20,7 @@
     var SLIDE_CONFIG = {
       // Slide settings
       settings: {
-                title: 'W poszukiwaniu swojego miejsca na ziemi <br> (w Poznaniu)',
+                title: 'W poszukiwaniu swojego miejsca <br> na ziemi (w Poznaniu)',
                         useBuilds: true,
         usePrettify: true,
         enableSlideAreas: true,
@@ -100,17 +100,21 @@
 
 <ul>
 <li>Problem: wg raportów ludzie emigrują z Poznania i często zmieniają miejsce zamieszkania</li>
-<li>Hipoteza: nie są do końca zadowoleni ze swojego otoczenia</li>
-<li>Można by zaproponować im inne miejsca, gdzie mieszkają podobni ludzie i przedstawić oferty kupna/wynajmu</li>
+<li>Być może nie są zadowoleni ze swojego otoczenia?</li>
+<li>Można by zaproponować im inne miejsca, gdzie mieszkają podobni ludzie i przedstawić potencjalne mieszkania</li>
 </ul>
+
+<p><br> <br> <br> <br> <br> <br> <br></p>
+
+<p><sub><sup>Źródło: ankiety nt. nierówności społecznych Instytutu Filozofii i Socjologii PAN</sup></sub></p>
 
 </article></slide><slide class=''><hgroup><h2>Zastosowane metody</h2></hgroup><article  id="zastosowane-metody">
 
-<p>Wykorzystaliśmy serwer PostgreSQL i API dostarczone przez firme DataWise, serwis Overpass Turbo oraz scraping serwisu Otodom. Poza tym przeczytaliśmy parę raportów na ten temat.</p>
+<p>Wykorzystaliśmy serwer PostgreSQL i API dostarczone przez firme DataWise, serwis Overpass Turbo oraz scraping serwisu Otodom. Poza tym przeczytaliśmy sporo raportów.</p>
 
 <ul>
-<li>PostgreSQL -&gt; obiekty geometryczne -&gt; wspolrzedne geograficzne</li>
-<li>Pokrycie miasta siatka -&gt; agregacja danych dotyczacych demografii, zarobkow i POI</li>
+<li>PostgreSQL -&gt; obiekty geometryczne -&gt; współrzędne geograficzne</li>
+<li>Pokrycie miasta siatką -&gt; agregacja danych dotyczących demografii, zarobków i POI</li>
 <li>Klastrowanie k-means, wybór największego k ( = 5), przy którym nie ma małych klastrów</li>
 <li>Próbowaliśmy też hclust i klastrowania SOM</li>
 <li>Ekstrakcja feature&#39;ów dla danych użytkownika za pomocą lasu losowego</li>
@@ -121,7 +125,7 @@
 
 <!-- html table generated in R 3.4.2 by xtable 1.8-2 package -->
 
-<!-- Sun May 27 10:46:53 2018 -->
+<!-- Sun May 27 11:45:42 2018 -->
 
 <table border="1">
 
@@ -447,9 +451,10 @@ Licznik
 <li>Bardziej szczegółowe dane na drobniejszej siatce -&gt; więcej sensownych klastrów</li>
 <li>Badanie zadowolenia z miejsca zamieszkania -&gt; supervised learning</li>
 <li>Automatyzacja pobierania danych (np. integracja z API Facebooka)</li>
+<li>Rozwój modelu biznesowego: współpraca z agencjami nieruchomości, optymalizacja proponowanych mieszkań</li>
 </ul>
 
-</article></slide><slide class=''><hgroup><h2>Slide With Plot</h2></hgroup><article  id="slide-with-plot">
+</article></slide><slide class=''><hgroup><h2>Aplikacja</h2></hgroup><article  id="aplikacja">
 
 <p>Wszystkie niezbedne pliki dostepne na GitHubie: <a href='https://github.com/jkoscialkowski' title=''>https://github.com/jkoscialkowski</a>.</p>
 

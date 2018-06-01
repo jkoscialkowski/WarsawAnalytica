@@ -73,13 +73,13 @@ fluidPage(
                              div('Attitude towards:'),
                              div(style="display: inline-block;vertical-align:bottom; width: 20%; margin-left:10%", 
                                  numericInput("children", label = 'Children',
-                                              value = 1, min = 1, max = 10, step = 1)),
+                                              value = 5, min = 1, max = 10, step = 1)),
                              div(style="display: inline-block;vertical-align:bottom; width: 20%; margin-left:10%", 
                                  numericInput("teenagers", label = 'Teenagers',
-                                              value = 1, min = 1, max = 10, step = 1)),
+                                              value = 5, min = 1, max = 10, step = 1)),
                              div(style="display: inline-block;vertical-align:bottom; width: 20%; margin-left:10%", 
                                  numericInput("students", label = 'Students',
-                                              value = 1, min = 1, max = 10, step = 1)),
+                                              value = 5, min = 1, max = 10, step = 1)),
                              hr(),
                              pickerInput(inputId = "amenities", 
                                          label = "Which amenities are you interested in?", 
@@ -95,13 +95,28 @@ fluidPage(
                 ),
                 
                 mainPanel(
-                    h2("You want to move to the darkest areas!"),
+                    h2("The darker the square, the more you'll like it!"),
                     leafletOutput("map", height = 600),
                     uiOutput("tab")
                 )
             )
             
         ),
-        tabPanel("Documentation")
+        tabPanel("Documentation",
+                 h3("Where would you like to live in Poznan?"),
+                 p("The problem of people not fully satisfied with their current address is a pervasive one. Our application is a siple tool which based on a person's input proposes a place they might like."),
+                 h3("Data"),
+                 HTML("<ul>
+                      <li>PostgreSQL (demography, incomes, POIs) and APIs provided by DataWise</li>
+                      <li>Overpass Turbo</li>
+                      <li>Scraping of <a href='https://www.otodom.pl/'>www.otodom.pl</a></li>
+                      </ul>"),
+                 h3("Methods"),
+                 HTML("<ul>
+                      <li>Spatial coordinates on a 500m grid</li>
+                      <li>K-means clustering of grid elements (as sets of inhabitants)</li>
+                      <li>Application user data imputation with random forest</li>
+                      <li>Classification of the user to one of the clusters and propositions of new neighbourhoods</li>
+                      </ul>"))
     )
         )

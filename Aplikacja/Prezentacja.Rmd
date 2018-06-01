@@ -1,5 +1,5 @@
 ---
-title: "W poszukiwaniu swojego miejsca na ziemi <br> (w Poznaniu)"
+title: "W poszukiwaniu swojego miejsca <br> na ziemi (w Poznaniu)"
 author: "WarsawAnalytica"
 output: ioslides_presentation
 ---
@@ -11,15 +11,25 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Prezentacja problemu
 
 - Problem: wg raportÛw ludzie emigrujπ z Poznania i czÍsto zmieniajπ miejsce zamieszkania
-- Hipoteza: nie sπ do koÒca zadowoleni ze swojego otoczenia
-- Moøna by zaproponowaÊ im inne miejsca, gdzie mieszkajπ podobni ludzie i przedstawiÊ oferty kupna/wynajmu
+- ByÊ moøe nie sπ zadowoleni ze swojego otoczenia?
+- Moøna by zaproponowaÊ im inne miejsca, gdzie mieszkajπ podobni ludzie i przedstawiÊ potencjalne mieszkania
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<sub><sup>èrÛd≥o: ankiety nt. nierÛwnoúci spo≥ecznych Instytutu Filozofii i Socjologii PAN</sup></sub>
 
 ## Zastosowane metody
 
-Wykorzystaliúmy serwer PostgreSQL i API dostarczone przez firme DataWise, serwis Overpass Turbo oraz scraping serwisu Otodom. Poza tym przeczytaliúmy parÍ raportÛw na ten temat.
+Wykorzystaliúmy serwer PostgreSQL i API dostarczone przez firme DataWise, serwis Overpass Turbo oraz scraping serwisu Otodom. Poza tym przeczytaliúmy sporo raportÛw.
 
-- PostgreSQL -> obiekty geometryczne -> wspolrzedne geograficzne
-- Pokrycie miasta siatka -> agregacja danych dotyczacych demografii, zarobkow i POI
+- PostgreSQL -> obiekty geometryczne -> wspÛ≥rzÍdne geograficzne
+- Pokrycie miasta siatkπ -> agregacja danych dotyczπcych demografii, zarobkÛw i POI
 - Klastrowanie k-means, wybÛr najwiÍkszego k ( = 5), przy ktÛrym nie ma ma≥ych klastrÛw
 - PrÛbowaliúmy teø hclust i klastrowania SOM
 - Ekstrakcja feature'Ûw dla danych uøytkownika za pomocπ lasu losowego
@@ -45,9 +55,9 @@ print(xtable(clusters), type = "html", include.rownames = FALSE)
 - Bardziej szczegÛ≥owe dane na drobniejszej siatce -> wiÍcej sensownych klastrÛw
 - Badanie zadowolenia z miejsca zamieszkania -> supervised learning
 - Automatyzacja pobierania danych (np. integracja z API Facebooka)
+- RozwÛj modelu biznesowego: wspÛ≥praca z agencjami nieruchomoúci, optymalizacja proponowanych mieszkaÒ
 
-
-## Slide With Plot
+## Aplikacja
 
 Wszystkie niezbedne pliki dostepne na GitHubie: [https://github.com/jkoscialkowski](https://github.com/jkoscialkowski).
 
